@@ -60,7 +60,7 @@ tags: []
 - [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) : Work with points defined in various coordinate systems.
 - [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) : A Julia Protocol for Geospatial Data.
 - [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) : Utilities for working with GeoJSON data in Julia.
-- [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.j) : An extensible framework for high-performance geostatistics in Julia.
+- [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) : An extensible framework for high-performance geostatistics in Julia.
 - [GeoStatsImages.jl](https://github.com/JuliaEarth/GeoStatsImages.jl) : Training images for geostastical simulation.
 - [GMT.jl](https://github.com/GenericMappingTools/GMT.jl) :Julia wrapper for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt)(GMT).
 - [GslibIO.jl](https://github.com/JuliaEarth/GslibIO.jl) : Utilities to read/write extended GSLIB files in Julia.
