@@ -3,11 +3,11 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4.0",
+    pageTitle: "Gens Julia",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "sosiristseng.github.io/template-quartz",
+    baseUrl: "gensjulia.pages.dev",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
