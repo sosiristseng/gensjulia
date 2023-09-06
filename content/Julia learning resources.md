@@ -1,9 +1,7 @@
 ---
 title: Julia learning resources
 draft: false
-tags:
-  - julia
-  - bookmark
+tags: []
 ---
 Official Julia learning site: [Get started with Julia](https://julialang.org/learning/).
 ## Quick start

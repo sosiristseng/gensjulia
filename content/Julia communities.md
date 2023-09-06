@@ -1,9 +1,7 @@
 ---
 title: Julia communities
 draft: false
-tags:
-  - julia
-  - bookmark
+tags: []
 ---
 
 [The Julia communities](https://julialang.org/community/):
