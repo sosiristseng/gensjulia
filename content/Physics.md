@@ -38,6 +38,7 @@ tags: []
 - [Peacock.jl](https://github.com/sp94/Peacock.jl) : Photonic crystals in Julia.
 - [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl) : A package for simulation of physical optics.
 - [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl) : Toolkit for analysis of radiation spectra in Julia.
+- [PSSFSS.jl](https://github.com/simonp0420/PSSFSS.jl) : Analysis of polarization and frequency selective surfaces in Julia.
 - [SpikeSorting.jl](https://github.com/paulmthompson/SpikeSorting.jl) : Online spike sorting methods in Julia.
 
 ## Computational Fluid Dynamics (CFD)
