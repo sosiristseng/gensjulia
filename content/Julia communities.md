@@ -3,7 +3,6 @@ title: Julia communities
 draft: false
 tags: []
 ---
-
 [The Julia communities](https://julialang.org/community/):
 
 - [Discourse](https://discourse.julialang.org/) forums for all technical discussions. Go here first.
