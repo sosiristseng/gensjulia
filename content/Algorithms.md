@@ -26,6 +26,7 @@ tags: []
 - [Loess.jl](https://github.com/JuliaStats/Loess.jl) : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 - [Match.jl](https://github.com/JuliaServices/Match.jl) : Advanced Pattern Matching for Julia.
 - [MLStyle.jl](https://github.com/thautwarm/MLStyle.jl) : Julia functional programming infrastructures and metaprogramming facilities.
+- [SimpleMatch.jl](https://github.com/jolin-io/SimpleMatch.jl) : a simple Julia pattern matching package providing only the `@match` macro.
 
 ## NP-complete Problems
 
