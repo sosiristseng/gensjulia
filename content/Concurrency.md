@@ -60,6 +60,7 @@ tags: []
 ## Multi-Threading
 
 - [ThreadsX.jl](https://github.com/tkf/ThreadsX.jl) : Multithreaded base functions such as `map()`, `reduce()`, `foreach()`.
+- [ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl) : Pin Julia threads to CPU processors. Requires `lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
 
 ## Multiprocessing and Distributed Computing
 
