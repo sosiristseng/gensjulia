@@ -48,7 +48,7 @@ tags: []
 
 ---
 
-- [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) : Fast and friendly fluid dynamics on CPUs and GPUs.
+- [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) : Fast and friendly fluid dynamics on CPUs and GPUs. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=Nlq3J7PCB_Q)
 - [WaterLily.jl](https://github.com/weymouth/WaterLily.jl) : a simple and fast fluid simulator written in pure Julia.
 
 ## Quantum Mechanics
