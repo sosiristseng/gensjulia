@@ -24,6 +24,7 @@ tags: []
 - [INMET.jl](https://github.com/JuliaClimate/INMET.jl) : Julia API to access data from the [Instituto Nacional de Metereologia (INMET)](https://portal.inmet.gov.br/).
 - [Mimi.jl](https://github.com/mimiframework/Mimi.jl) : Integrated Assessment Modeling Framework for climate change.
 - [OptiMimi.jl](https://github.com/jrising/OptiMimi.jl) : Optimization for the `Mimi.jl` modeling framework.
+- [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl) : a global spectral atmospheric model with simple physics which is developed as a research playground. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=qgmgg_Bzgyg).
 
 ## Ecology
 
