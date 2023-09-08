@@ -96,3 +96,4 @@ tags: []
 - [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) : CUDA programming in Julia. See also [JuliaCon 2021 video](https://youtu.be/fw0R5G8pB0U).
 - [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) : Fast `StatsBase.countmap` for small types on the GPU via `CUDA.jl`
 - [FoldsCUDA.jl](https://github.com/JuliaFolds/FoldsCUDA.jl) : provides `Transducers.jl`-compatible fold (reduce) implemented using `CUDA.jl`. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
+- [NVTX.jl](https://github.com/JuliaGPU/NVTX.jl) : Julia bindings for [NVTX](https://nvidia.github.io/NVTX/doxygen/index.html), for instrumenting with the [Nvidia Nsight Systems profiler](https://developer.nvidia.com/nsight-systems). [JuliaCon 2023 video](https://www.youtube.com/watch?v=B7ZlScN_rk8).
