@@ -36,13 +36,13 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 
 ## Developing Julia packages
 
-- [VersionParsing.jl](https://github.com/JuliaInterop/VersionParsing.jl) : flexible Version Number parsing.
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
-- [PrecompileTools.jl](https://github.com/JuliaLang/PrecompileTools.jl) : Reduce time-to-first-execution of Julia code.
-- [Requires.jl](https://github.com/JuliaPackaging/Requires.jl) : Lazy code loading in Julia packages. Will be replaced by [the extension system](https://pkgdocs.julialang.org/v1.9/creating-packages/#Conditional-loading-of-code-in-packages-(Extensions)) in Julia version 1.9+.
 - [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) : providing a macro `@from` importing objects from files without having to `include` files repeatedly.
 - [PkgCite.jl](https://github.com/SebastianM-C/PkgCite.jl) : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
+- [PrecompileTools.jl](https://github.com/JuliaLang/PrecompileTools.jl) : Reduce time-to-first-execution of Julia code.
 - [Reexport.jl](https://github.com/simonster/Reexport.jl) : Julia macro for re-exporting one module from another.
+- [Requires.jl](https://github.com/JuliaPackaging/Requires.jl) : Lazy code loading in Julia packages. Will be replaced by [the extension system](https://pkgdocs.julialang.org/v1.9/creating-packages/#Conditional-loading-of-code-in-packages-(Extensions)) in Julia version 1.9+.
+- [VersionParsing.jl](https://github.com/JuliaInterop/VersionParsing.jl) : flexible Version Number parsing.
 
 ### Registry
 
@@ -82,10 +82,11 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 - [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
 - [MockAWS.jl](https://github.com/JuliaCloud/MockAWS.jl) : patch functions for testing all AWS services.
 - [Mocking.jl](https://github.com/invenia/Mocking.jl) : allowing temporary overwriting of Julia methods for testing purposes.
-- [TestEnv.jl](https://github.com/JuliaTesting/TestEnv.jl) : Activate your test enviroment, so you can use your test dependencies in the REPL.
+- [SafeTestsets.jl](https://github.com/YingboMa/SafeTestsets.jl) : `@safetestset` puts `@testset` into a module to reduce global side effects.
+- [TestEnv.jl](https://github.com/JuliaTesting/TestEnv.jl) : `TestEnv.activate()` loads your test enviroment, so you can use your test dependencies in the REPL.
+- [TestItemRunner.jl](https://github.com/julia-vscode/TestItemRunner.jl) : run Julia tests in VSCode.
 - [UnitTestDesign.jl](https://github.com/adolgert/UnitTestDesign.jl) : chooses effiennt combinations functional arguments to maximize test coverage.
 - [Watcher.jl](https://github.com/rened/Watcher.jl) : auto-run unit tests every time a file gets saved.
-- [SafeTestsets.jl](https://github.com/YingboMa/SafeTestsets.jl) : `@safetestset` puts `@testset` into a module to reduce global side effects.
 
 ### Logging
 
