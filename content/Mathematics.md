@@ -173,7 +173,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 > Special Array/Matrix Algorithms, for Array Types, see Data Types section.
 
-- [TSVD.jl](https://github.com/JuliaLinearAlgebra/TSVD.jl>) : Truncated singular value decomposition with partial reorthogonalization.
+- [TSVD.jl](https://github.com/JuliaLinearAlgebra/TSVD.jl) : Truncated singular value decomposition with partial reorthogonalization.
 - [AxisAlgorithms.jl](https://github.com/timholy/AxisAlgorithms.jl) : Efficient filtering and linear algebra routines for multidimensional arrays.
 - [BandedMatrices.jl](https://github.com/JuliaMatrices/BandedMatrices.jl) : A Julia package for representing banded matrices.
 - [CatIndices.jl](https://github.com/JuliaArrays/CatIndices.jl) : Julia package for indices-aware array concatenation and growth.
