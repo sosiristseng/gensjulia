@@ -22,7 +22,7 @@ tags: []
 
 ## Pattern Matching
 
-- [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) : An interface for the Blossom V perfect matching algorithm.
+- [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) : An interface for the Blossom V perfect (graph) matching algorithm. (**paid license**)
 - [Loess.jl](https://github.com/JuliaStats/Loess.jl) : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 - [Match.jl](https://github.com/JuliaServices/Match.jl) : Advanced Pattern Matching for Julia.
 - [MLStyle.jl](https://github.com/thautwarm/MLStyle.jl) : Julia functional programming infrastructures and metaprogramming facilities.
