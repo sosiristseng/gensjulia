@@ -53,6 +53,7 @@ tags: []
 
 ## Quantum Mechanics
 
+- [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) : Package for the quantum computation and quantum simulation based on the neutral-atom architecture.
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) : This library allows for efficient calculation of [Clifford](https://en.wikipedia.org/wiki/Clifford_algebra) circuits by tracking the evolution of X and Z generators.
 - [Hadamard.jl](https://github.com/JuliaMath/Hadamard.jl) : Fast multidimensional Walsh-Hadamard transforms.
 - [MERAKit.jl](https://github.com/mhauru/MERAKit.jl) : provides Julia implementations of some basic [Multiscale Entaglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
