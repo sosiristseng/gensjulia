@@ -94,7 +94,6 @@ tags: []
 - [SyntaxTree.jl](https://github.com/chakravala/SyntaxTree.jl) : Toolset for modifying Julia AST and characteristic values.
 - [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) : A julia macro for unrolling conditional `for` loops.
 
-
 ## Automatic Programming
 
 [Wikipedia: Automatic Programming](https://en.wikipedia.org/wiki/Automatic_programming)
@@ -136,3 +135,11 @@ tags: []
 ## Object-oriented programming (OOP)
 
 - [ObjectOriented.jl](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl) : Conventional object-oriented programming in Julia without breaking Julia's core design ideas. We recommend you to read [How to Translate OOP into Idiomatic Julia](https://suzhou-tongyuan.github.io/ObjectOriented.jl/dev/how-to-translate-oop-into-julia) before using this package.
+
+## Fuzzy Logic
+
+[Wikipedia: Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic) 
+
+---
+
+- [FuzzyLogic.jl](https://github.com/lucaferranti/FuzzyLogic.jl) : Julia package for fuzzy inference. [Julia Con 2023 video](https://www.youtube.com/watch?v=6WfX3e-aOBc)
