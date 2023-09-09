@@ -53,7 +53,7 @@ tags: []
 
 ## Quantum Mechanics
 
-- [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) : Package for the quantum computation and quantum simulation based on the neutral-atom architecture.
+- [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) : Package for the quantum computation and quantum simulation based on the neutral-atom architecture. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) : This library allows for efficient calculation of [Clifford](https://en.wikipedia.org/wiki/Clifford_algebra) circuits by tracking the evolution of X and Z generators.
 - [Hadamard.jl](https://github.com/JuliaMath/Hadamard.jl) : Fast multidimensional Walsh-Hadamard transforms.
 - [MERAKit.jl](https://github.com/mhauru/MERAKit.jl) : provides Julia implementations of some basic [Multiscale Entaglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
@@ -62,7 +62,7 @@ tags: []
 - [QuantumCumulants.jl](https://github.com/qojulia/QuantumCumulants.jl) : Generalized mean-field equations in open quantum systems. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/).
 - [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) : A Julia package for computing Wigner symbols and related quantities.
-- [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans.
+- [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 
 ## Thermodynamics
 
