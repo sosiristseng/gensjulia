@@ -44,6 +44,7 @@ tags: []
 - [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) : Julia interface to Google's LevelDB key value database.
 - [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) : Julia [memcached](https://github.com/memcached/memcached/wiki/Commands) client.
 - [ODBC.jl](https://github.com/JuliaDatabases/ODBC.jl) : A low-level ODBC interface for the Julia programming language. [Tabular Data I/O in Julia](https://randyzwitch.com/julia-import-data/).
+- [QuandlAccess.jl](https://github.com/tk3369/QuandlAccess.jl) : convenient access to [Quandl](https://www.quandl.com/) data service.
 
 ## SQL and Relational Database Management Systems
 
