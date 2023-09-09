@@ -6,10 +6,12 @@ tags: []
 
 [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia
 
+## Organizations
+
 - [JuMP-dev](https://github.com/jump-dev)
 - [Julia Opt](https://github.com/JuliaOpt)
 - [Julia Smooth Optimizers](https://github.com/JuliaSmoothOptimizers)
-
+- [Julia for Dynamic Optimization](https://github.com/JuDO-dev)
 ## Frameworks
 
 - [JuMP.jl](https://github.com/jump-dev/JuMP.jl) : Modeling Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
@@ -83,3 +85,4 @@ tags: []
 - [SumOfSquares.jl](https://github.com/jump-dev/SumOfSquares.jl) : Sum of Squares Programming for Julia.
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) : Surrogate modeling and optimization.
 - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) : A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
+- [Progradio.jl](https://github.com/JuDO-dev/Progradio.jl) : Projected Gradient Optimization. [Julia Con 2023 video](https://www.youtube.com/watch?v=EZ2kq0Obaio)
