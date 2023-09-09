@@ -299,6 +299,7 @@ See [[Modeling and Simulation]]
 - [ReverseDiffSparse.jl](https://github.com/mlubin/ReverseDiffSparse.jl) : Hessian algorithmic differentiation to compute hessian sparsity pattern.
 - [Yota.jl](https://github.com/dfdx/Yota.jl) : Reverse-mode automatic differentiation for static and dynamic graphs.
 - [Zygote.jl](https://github.com/FluxML/Zygote.jl) : Source-to-source automatic differentiation (AD) in Julia, and is the next-gen AD system for the Flux differentiable programming framework.
+- [StochasticAD.jl](https://github.com/gaurav-arya/StochasticAD.jl) : automatic differentiation of programs containing discrete randomness. [JuliaCon 2023 video](https://www.youtube.com/watch?v=_irOyB1ODvM)
 
 ## Mathematical Analysis
 
