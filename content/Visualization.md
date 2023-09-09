@@ -28,6 +28,7 @@ Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
 - [Makie.jl](https://github.com/MakieOrg/Makie.jl) : High level plotting on the GPU. Examples could be found at [BeautifulMakie](https://github.com/lazarusA/BeautifulMakie).
 - [GraphMakie.jl](https://github.com/MakieOrg/GraphMakie.jl) : Plotting graph structures with `Makie.jl`.
+- [BioMakie.jl](https://github.com/BioJulia/BioMakie.jl) : plotting functions for protein structures, multiple sequence alignments, and some other related plots like protein structure contact maps.
 
 ## Gadfly
 
