@@ -19,16 +19,16 @@ Official Julia learning site: [Get started with Julia](https://julialang.org/lea
 
 ## General Guides
 
-- [Julia Academy](https://juliaacademy.com)
 - [From zero to Julia](https://techytok.com/from-zero-to-julia/)
-- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-- [QuantEcon](https://quantecon.org/quantecon-jl/) Julia and the [code notebooks](https://github.com/QuantEcon/quantecon-notebooks-julia).
-- [Julia concise tutorial](https://github.com/sylvaticus/juliatutorial)
 - [Intro to Julia](https://ucidatascienceinitiative.github.io/IntroToJulia/): A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas.
-- [Wikibook: Introducing Julia ](https://en.wikibooks.org/wiki/Introducing_Julia)
+- [Julia Academy](https://juliaacademy.com)
+- [Julia concise tutorial](https://github.com/sylvaticus/juliatutorial)
 - [Julia Data Science](https://juliadatascience.io/) : an open source and open access book on how to do Data Science using Julia.
 - [JuliaNotes.jl](https://github.com/m3g/JuliaNotes.jl) : a collection of examples and explanations about Julia.
-
+- [Modern Julia Workflows](https://modernjuliaworkflows.github.io/)
+- [QuantEcon](https://quantecon.org/quantecon-jl/) Julia and the [code notebooks](https://github.com/QuantEcon/quantecon-notebooks-julia).
+- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [Wikibook: Introducing Julia ](https://en.wikibooks.org/wiki/Introducing_Julia)
 ## Learn Julia by examples
 
 - [Fall in Love with Julia](https://github.com/jolin-io/fall-in-love-with-julia): An introductory 101 series to get to know the power of Julialang.
