@@ -134,6 +134,10 @@ Similar to Python's [`pickle`](https://docs.python.org/3/library/pickle.html).
 
 ### LaTeX
 
+- [jlcode](https://github.com/wg030/jlcode) : A LaTeX package for displaying Julia code with the listings package.
+
+---
+
 - [Latexify.jl](https://github.com/korsbo/Latexify.jl) : Convert julia objects to LaTeX equations, arrays or other environments.
 - [Expr2LaTeX.jl](https://github.com/oxinabox/Expr2LaTeX.jl) : Take a julia `Expr` and render it as LaTeX.
 - [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) : Print Julia objects in a form suitable for LaTeX mathematics mode.
@@ -141,25 +145,21 @@ Similar to Python's [`pickle`](https://docs.python.org/3/library/pickle.html).
 - [Tectonic.jl](https://github.com/MichaelHatherly/Tectonic.jl) : [tectonic](https://github.com/tectonic-typesetting/tectonic) LaTeX engine for Julia.
 - [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) : typeset scattered graph data rewriter based on LaTeX nodes.
 
----
-
-- [jlcode](https://github.com/wg030/jlcode) : A latex package for displaying Julia code with the listings package.
-
 ### Citations
 
 - [Bibliography.jl](https://github.com/Humans-of-Julia/Bibliography.jl) : a Julia package for handling both import/export from various bibliographic format (e.g. BibTeX).
 
 ### Image Formats
 
-- [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) : Flexible Image Transport System (FITS) support for Julia.
-- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : DICOM interface for the Julia language.
-- [Images.jl](https://github.com/JuliaImages/Images.jl) : An image library for Julia.
 - [AndorSIF.jl](https://github.com/JuliaIO/AndorSIF.jl) : This implements support for reading [Andor SIF](https://andor.oxinst.com/support/) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
+- [DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : DICOM interface for the Julia language.
+- [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) : Flexible Image Transport System (FITS) support for Julia.
 - [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl) : Load images in Julia.
 - [ImageMagick.jl](https://github.com/JuliaIO/ImageMagick.jl) : Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading.
+- [Images.jl](https://github.com/JuliaImages/Images.jl) : An image library for Julia.
+- [JuliaNeuroscience.jl](https://github.com/JuliaNeuroscience/NIfTI.jl) : Julia module for reading `NIfTI` MRI files.
 - [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) : Julia support for Netpbm (`.ppm`, `.pgm`, `.pbm`).
 - [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) : Julia support for the Nearly Raw Raster Data (`NRRD`) image file format
-- [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) : Thin wrapper around OSX's native image format saving and loading.
-- [JuliaNeuroscience.jl](https://github.com/JuliaNeuroscience/NIfTI.jl) : Julia module for reading `NIfTI` MRI files.
 - [OMETIFF.jl](https://github.com/tlnagy/OMETIFF.jl) : I/O operations for OME-`TIFF` files in Julia with a focus on correctness.
+- [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) : Thin wrapper around OSX's native image format saving and loading.
 - [TiffImages.jl](https://github.com/tlnagy/TiffImages.jl) : Pure-Julia TIFF I/O.
