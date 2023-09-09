@@ -26,9 +26,9 @@ Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
 ## Makie.jl
 
-- [Makie.jl](https://github.com/MakieOrg/Makie.jl) : High level plotting on the GPU. Examples could be found at [BeautifulMakie](https://github.com/lazarusA/BeautifulMakie).
+- [Makie.jl](https://github.com/MakieOrg/Makie.jl) : High level plotting on the GPU. Examples at [BeautifulMakie](https://github.com/lazarusA/BeautifulMakie).
 - [GraphMakie.jl](https://github.com/MakieOrg/GraphMakie.jl) : Plotting graph structures with `Makie.jl`.
-- [BioMakie.jl](https://github.com/BioJulia/BioMakie.jl) : plotting functions for protein structures, multiple sequence alignments, and some other related plots like protein structure contact maps.
+- [BioMakie.jl](https://github.com/BioJulia/BioMakie.jl) : plotting functions for protein structures, multiple sequence alignments, and some other related plots like protein structure contact maps. [JuliaCon 2023 video](https://www.youtube.com/watch?v=-C7Zbh6UTgk)
 
 ## Gadfly
 
@@ -54,24 +54,24 @@ Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
 ## Vega-lite
 
-- <https://github.com/queryverse/DataVoyager.jl> : Julia wrapper for the [Voyager](https://github.com/vega/voyager) data exploration tool.
-- <https://github.com/queryverse/VegaLite.jl> : This package provides access to the [Vega-Lite](https://vega.github.io/vega-lite/) high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
+- [DataVoyager.jl](https://github.com/queryverse/DataVoyager.jl) : Julia wrapper for the [Voyager](https://github.com/vega/voyager) data exploration tool.
+- [VegaLite.jl](https://github.com/queryverse/VegaLite.jl): This package provides access to the [Vega-Lite](https://vega.github.io/vega-lite/) high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia.
 
 ## Others
 
-- [Displaz.jl](https://github.com/c42f/Displaz.jl) : Julia bindings for [displaz lidar viewer](http://c42f.github.io/displaz).
 - [Bokeh.jl](https://github.com/cjdoris/Bokeh.jl): Julia bindings for the [Bokeh](https://bokeh.org/) plotting library. The [gallery](https://cjdoris.github.io/Bokeh.jl/stable/gallery). This package wraps BokehJS directly *without* using Python.
-- [SimplePlots.jl](https://github.com/djsegal/SimplePlots.jl) : A fast-loading plotting library.
+- [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl) : Parametric analysis/visualization of model/measurement/simulation results. The sister package for continuous function interpolation: [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl).
+- [Displaz.jl](https://github.com/c42f/Displaz.jl) : Julia bindings for [displaz lidar viewer](http://c42f.github.io/displaz).
+- [ECharts.jl](https://github.com/randyzwitch/ECharts.jl): Julia package for the [ECharts v4 visualization library](https://echarts.apache.org/zh/download.html).
 - [GMT.jl](https://github.com/GenericMappingTools/GMT.jl) : Julia bindings for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) Library.
-- [GR.jl](https://github.com/jheinen/GR.jl) : This module provides a Julia interface to the [GR framework](https://gr-framework.org/) graphics library.
-- [Javis.jl](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
-- [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : Fast 2D plotting for Julia.
+- [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) : Publication-quality plotting for julia using Grace/xmgrace.
 - [GraphPlot.jl](https://github.com/JuliaGraphs/GraphPlot.jl) : Graph visualization for Julia.
+- [GR.jl](https://github.com/jheinen/GR.jl) : This module provides a Julia interface to the [GR framework](https://gr-framework.org/) graphics library.
+- [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : an interface to [cimplot](https://github.com/cimgui/cimplot) that can be used in conjunction with [CImGui.jl](https://github.com/Gnimuc/CImGui.jl).
+- [Javis.jl](https://github.com/JuliaAnimators/Javis.jl): Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
+- [RoMEPlotting.jl](https://github.com/JuliaRobotics/RoMEPlotting.jl) : 2D plotting functionality for the Robot Motion Estimate ([RoME.jl](https://github.com/JuliaRobotics/RoME.jl)) package. It's part of the [Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) package.
+- [SandDance.jl](https://github.com/queryverse/SandDance.jl) : Julia bindings for [MS Sanddance](https://microsoft.github.io/SandDance/)
+- [SimplePlots.jl](https://github.com/djsegal/SimplePlots.jl) : A fast-loading plotting library.
 - [UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) : Unicode plotting for the REPL in Julia.
 - [VennEuler.jl](https://github.com/JuliaPlots/VennEuler.jl) : Generate area-proportional Venn/Euler diagrams in Julia.
-- [RoMEPlotting.jl](https://github.com/JuliaRobotics/RoMEPlotting.jl) : 2D plotting functionality for the Robot Motion Estimate ([RoME.jl](https://github.com/JuliaRobotics/RoME.jl)) package. It's part of the [Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) package.
-- [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl) : Parametric analysis/visualization of model/measurement/simulation results. The sister package for continuous function interpolation: [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl).
-- [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) : Publication-quality plotting for julia using Grace/xmgrace.
-- [SandDance.jl](https://github.com/queryverse/SandDance.jl) : Julia bindings for [MS Sanddance](https://microsoft.github.io/SandDance/)
-- [ECharts.jl](https://github.com/randyzwitch/ECharts.jl): Julia package for the [ECharts v4 visualization library](https://echarts.apache.org/zh/download.html).
-- [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : an interface to [cimplot](https://github.com/cimgui/cimplot) that can be used in conjunction with [CImGui.jl](https://github.com/Gnimuc/CImGui.jl).
+- [Winston.jl](https://github.com/JuliaGraphics/Winston.jl) : Fast 2D plotting for Julia.
