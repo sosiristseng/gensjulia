@@ -67,6 +67,7 @@ tags: []
 ## Accessing datasets
 
 - [DataDeps.jl](https://github.com/oxinabox/DataDeps.jl): reproducible data setup for reproducible science.
+- [DataToolkit.jl](https://github.com/tecosaur/DataToolkit.jl) : Reproducible, felexible, and convenient data management.
 - [FaceDatasets.jl](https://github.com/dfdx/FaceDatasets.jl) : A package for easy access to face-related datasets.
 - [Faker.jl](https://github.com/neomatrixcode/Faker.jl) : A package that generates fake data.
 - [RDatasets.jl](https://github.com/JuliaStats/RDatasets.jl) : Julia package for loading many of the datasets available in R.
