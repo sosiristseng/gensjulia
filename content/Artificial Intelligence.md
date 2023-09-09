@@ -53,7 +53,7 @@ tags: []
 - [ONNXRunTime.jl](https://github.com/jw3126/ONNXRunTime.jl) : Julia bindings for the [onnxruntime](https://github.com/microsoft/onnxruntime) to perform inference.
 - [ONNXNaiveNASflux.jl](https://github.com/DrChainsaw/ONNXNaiveNASflux.jl) : Import/export ONNX models for `Flux.jl`.
 - [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) : Julia implementation of the scikit-learn API via `PyCall.jl`. [Cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/).
-- [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : a Julia interface of [XGBoost](https://github.com/dmlc/xgboost), an efficient and scalable implementation of distributed gradient boosting framework.
+- [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) : a Julia interface of [XGBoost](https://github.com/dmlc/xgboost), an efficient and scalable implementation of distributed gradient boosting framework. [Julia Con 2023 Video](https://www.youtube.com/watch?v=d5v4ELN3NSc)
 
 ## Clustering
 
