@@ -20,8 +20,8 @@ tags: []
 - [SimpleGraphs.jl](https://github.com/scheinerman/SimpleGraphs.jl) : A module for working with simple graphs (no loops, no multiple edges, no directed edges).
 - [SimpleHypergraphs.jl](https://github.com/pszufe/SimpleHypergraphs.jl) : A simple hypergraphs package for the Julia programming language.
 - [SimpleValueGraphs.jl](https://github.com/simonschoelly/SimpleValueGraphs.jl) : A `Graphs.jl` compatible package for graphs with multiple, homogeneous vertex, edge and graph metadata.
-- [SimpleWeightedGraphs.jl](https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl) : Edge-Weighted Graphs.
-
+- [SimpleWeightedGraphs.jl](https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl) : Edge-Weighted Graphs compatible with `Graphs.jl`
+- [ITensors.jl](https://github.com/ITensor/ITensors.jl) : A Julia library for efficient tensor computations and tensor network calculations.
 ## File I/O
 
 - [GraphIO.jl](https://github.com/JuliaGraphs/GraphIO.jl) : GraphIO provides support to `Graphs.jl` for reading/writing graphs in various formats.
@@ -46,7 +46,7 @@ tags: []
 - [NumericalRepresentationTheory.jl](https://github.com/dlfivefifty/NumericalRepresentationTheory.jl) : representation theory of the symmetric group.
 - [RobustShortestPath.jl](https://github.com/chkwon/RobustShortestPath.jl) : Robust Shortest Path Finder.
 - [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) : Julia wrapper for SuiteSparse:GraphBLAS.
-
+- [ITensorNetworks.jl](https://github.com/mtfishman/ITensorNetworks.jl) : eneral tools for working with higher-dimensional tensor networks based on ITensors.jl.
 
 ## Visualizing Graphs
 
