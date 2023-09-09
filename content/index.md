@@ -5,8 +5,8 @@ draft:
 ## Find Julia packages
 
 - [JuliaHub packages](https://juliahub.com/ui/Packages)
-- [juliapackages.com](https://juliapackages.com/)
 - [Package announcement](https://discourse.julialang.org/c/package-announcements) in the Julia discourse forums.
+- [juliapackages.com](https://juliapackages.com/) (might be outdated, see [this thread](https://discourse.julialang.org/t/awesome-julia-a-list-of-anything-julia-worth-of-seeing/103371/18))
 - [Julia.jl](https://github.com/svaksha/Julia.jl) : Curated decibans of Julia programming language.
 
 ## Julia communities
