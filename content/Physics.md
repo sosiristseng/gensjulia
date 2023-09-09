@@ -60,7 +60,7 @@ tags: []
 - [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) : Data manipulation and analysis tools tailored for quantum computing experiments.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) : Package for simulating time dynamics of quantum systems with a focus on superconducting qubits.
 - [QuantumCumulants.jl](https://github.com/qojulia/QuantumCumulants.jl) : Generalized mean-field equations in open quantum systems. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
-- [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/).
+- [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/). [JuliaCon 2023 Video](https://www.youtube.com/watch?v=sWvk-2lxMZU)
 - [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) : A Julia package for computing Wigner symbols and related quantities.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 
