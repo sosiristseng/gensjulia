@@ -47,7 +47,7 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 ### Registry
 
 - [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl) : Create and maintain local package registries for Julia packages.
-- [Registrator.jl]<https://github.com/JuliaComputing/Registrator.jl> : Julia [package](https://pkg.julialang.org/) registration bot.
+- [Registrator.jl](https://github.com/JuliaComputing/Registrator.jl) : Julia [package](https://pkg.julialang.org/) registration bot.
 
 ### Templates
 
