@@ -64,7 +64,7 @@ See [[File IO]].
 
 - [Compose.jl](https://github.com/GiovineItalia/Compose.jl) : Compose is a vector graphics library for Julia. <https://github.com/GiovineItalia/Gadfly.jl> is built upon this package.
 - [ImageCore.jl](https://github.com/JuliaImages/ImageCore.jl) : Julia types for representing images.
-- [Rsvg.jl](https://github.com/lobingera/Rsvg.jl) : An adaptation of the [librsvg](https://wiki.gnome.org/LibRsvg) to render SVG to Cairo surfaces.
+- [Rsvg.jl](https://github.com/lobingera/Rsvg.jl) : An adaptation of the [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg) to render SVG to Cairo surfaces.
 - [TikzGraphs.jl](https://github.com/JuliaTeX/TikzGraphs.jl) : Graph layout package using algorithms built into [PGF/TikZ 3.0+](https://www.ctan.org/pkg/pgf).
 - [TikzPictures.jl](https://github.com/JuliaTeX/TikzPictures.jl) : Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
 
