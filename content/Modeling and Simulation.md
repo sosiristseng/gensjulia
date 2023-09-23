@@ -12,6 +12,11 @@ General modeling and simulation packages in Julia.
 - [SciML](https://github.com/SciML)
 - [Julia Dynamics](https://juliadynamics.github.io/JuliaDynamics/)
 
+## Resources
+
+- [Workshop for `ModelingToolkit.jl`](https://youtu.be/HEVOgSLBzWA) : A Youtube video for JuliaCon 2021.
+- [SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) : Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.
+
 ## File IO for models
 
 - [SBML.jl](https://github.com/LCSB-BioCore/SBML.jl) : Julia interface to the Systems Biology Markup Language (SBML) library.
@@ -112,6 +117,7 @@ See also [[Data Structures]].
 
 ## Utilities
 
+- [DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl) : Data interpolation and smoothing functions.
 - [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) : dealing with simulations and simulation parameters.
 - [SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) : Benchmarks for scientific machine learning (SciML) software and differential equation solvers.
 - [SimulationLogger.jl](https://github.com/JinraeKim/SimulationLogger.jl) : providing convenient logging tools for `DifferentialEquations.jl`.
@@ -120,8 +126,3 @@ See also [[Data Structures]].
 ## Others
 
 - [Mads.jl](https://github.com/madsjulia/Mads.jl) : [MADS](https://mads.gitlab.io/), Model Analysis & Decision Support.
-
-## Resources
-
-- [Workshop for `ModelingToolkit.jl`](https://youtu.be/HEVOgSLBzWA) : A Youtube video for JuliaCon 2021.
-- [SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) : Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.

@@ -115,6 +115,5 @@ tags: []
 - [JuliaHealth/DICOM.jl](https://github.com/JuliaHealth/DICOM.jl) : Julia package for reading and writing DICOM (Digital Imaging and Communications in Medicine) files. [DICOMClient](https://github.com/JuliaHealth/DICOMClient.jl)  provides a Julia client for connecting to servers.
 - [ICD_GEMs.jl](https://github.com/InPhyT/ICD_GEMs.jl): translate ICD-9 codes in ICD-10 and viceversa via the General Equivalence Mappings (GEMs). ICD stands for International Classification of Diseases.
 - [PharmaceuticalClassification.jl](https://github.com/JuliaHealth/PharmaceuticalClassification.jl) : Mappings between different systems for classifying medications.
-- [DataInterpolations.jl](https://github.com/PumasAI/DataInterpolations.jl) : A library of data interpolation and smoothing functions.
 - [ODMXMLTools.jl](https://github.com/PharmCat/ODMXMLTools.jl) : a simple tool set for working with [ODM-XML](https://www.cdisc.org/standards/data-exchange/odm), a vendor-neutral, platform-independent format for exchanging and archiving clinical and translational research data and friends.
 - [openBF](https://github.com/INSIGNEO/openBF) : A finite-volume solver for 1D elastic arterial blood flow networks.
