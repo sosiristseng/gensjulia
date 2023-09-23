@@ -8,6 +8,7 @@ updates:
       - "automerge"
   - package-ecosystem: "github-actions"
     directory: "/"
+    open-pull-requests-limit: 1
     schedule:
       interval: "daily"
     labels:
