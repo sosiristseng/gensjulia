@@ -15,7 +15,6 @@ Official Julia learning site: [Get started with Julia](https://julialang.org/lea
 
 - [Exercism](https://exercism.org/tracks/julia)
 - [Project Euler](https://github.com/heetbeet/project-euler-julia) : Project Euler puzzle notebooks for Julia.
-- [Rosseta Code](https://rosettacode.org/wiki/Category:Julia)
 
 ## General Guides
 
