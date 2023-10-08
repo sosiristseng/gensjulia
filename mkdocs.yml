@@ -79,13 +79,11 @@ exclude_docs: |
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/user
+      link: https://twitter.com/sosiristseng
     - icon: fontawesome/brands/github
-      link: https://github.com/user
+      link: https://github.com/sosiristseng
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0000-0000-0000
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:a@b.com
 
 # Extensions:
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
