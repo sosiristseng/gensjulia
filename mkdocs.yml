@@ -81,7 +81,8 @@ theme:
     repo: fontawesome/brands/github-alt
 
 exclude_docs: |
-  drafts/            # A "drafts" directory anywhere.
+  drafts/
+  _templates/
 
 # Social buttons at bottom
 extra:
