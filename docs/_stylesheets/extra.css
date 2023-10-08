@@ -1,0 +1,7 @@
+.md-grid {
+  max-width: 1440px;
+}
+
+.magiclink-github::before {
+  content: url('mark-github.svg');
+}
