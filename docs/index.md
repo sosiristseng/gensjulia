@@ -1,5 +1,5 @@
 ---
-title: Julia Resource List
+title: Home
 ---
 
 > [!note] Thank you SVAKSHA and [Julia.jl](https://github.com/svaksha/Julia.jl)!
