@@ -23,15 +23,9 @@ copyright: Copyright &copy; 2016 - 2023 Wen-Wei Tseng
 
 # MkDocs plugins
 plugins:
-  - blog:
-      enabled: true
-      blog_dir: blog
   - search
   - roamlinks
   - callouts
-  - tags:
-      tags_file: index.md
-      enabled: !ENV [CI, false]
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       enable_creation_date: !ENV [CI, false]
