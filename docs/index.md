@@ -1,36 +1,50 @@
 ---
-title: Welcome to MkDocs
-tags:
-  - test
+title: Julia Resource List
+draft:
 ---
+## Find Julia packages
 
-Roamlink: [[about]] yourself.
+- [JuliaHub packages](https://juliahub.com/ui/Packages)
+- [Package announcement](https://discourse.julialang.org/c/package-announcements) in the Julia discourse forums.
+- [juliapackages.com](https://juliapackages.com/) (might be outdated, see [this thread](https://discourse.julialang.org/t/awesome-julia-a-list-of-anything-julia-worth-of-seeing/103371/18))
+- [Julia.jl](https://github.com/svaksha/Julia.jl) : Curated decibans of Julia programming language. (last updated on [Jul 14, 2022](https://github.com/svaksha/Julia.jl/commit/c3985aeb1eb78fcde4648887dc5f6c7960503aa1))
 
-For full documentation visit [mkdocs](https://www.mkdocs.org) and [MkDocs Material theme](https://squidfunk.github.io/mkdocs-material/) websites.
+## Julia communities
 
-## Commands
+[[Julia communities]]
 
-+ `mkdocs new [dir-name]` - Create a new project.
-+ `mkdocs serve` - Start the live-reloading docs server.
-+ `mkdocs build` - Build the documentation site.
-+ `mkdocs -h` - Print help message and exit.
+## Julia learning resources
 
-## Project layout
+[[Julia learning resources]]
 
-```
-.github/        # Github actions
-    ...
-mkdocs.yml      # The configuration file.
-docs/
-    index.md    # The documentation homepage.
-    ...         # Other markdown pages, images and other files.
-    blog/       # Blog folder
-        posts/  # Blog posts folder
-includes/
-     examples.md # The files to be included in other files in `docs/`
-     ...
-```
+## Julia packages
 
-## Tags
+- [[Algorithms]]
+- [[Artificial Intelligence]]
+- [[Audio and Video Processing]]
+- [[Biology]]
+- [[Chemistry]]
+- [[Concurrency]]
+- [[Data Science]]
+- [[Data Structures]]
+- [[Development Tools]]
+- [[Earth and Space Science]]
+- [[Economics and Finance]]
+- [[File IO]]
+- [[Graph Theory]]
+- [[Graphics]]
+- [[Hardware and Robotics]]
+- [[Interoperativity]]
+- [[Mathematics]]
+- [[Modeling and Simulation]]
+- [[Optimization]]
+- [[Physics]]
+- [[Probability and Statistics]]
+- [[Programming Paradigms]]
+- [[Utilities]]
+- [[Visualization]]
+- [[Web]]
 
-[TAGS]
+> [!note] Thank you SVAKSHA and [Julia.jl](https://github.com/svaksha/Julia.jl)!
+> 
+> A large part of this Julia resource list is based on [Julia.jl](https://github.com/svaksha/Julia.jl), which is under COPYRIGHT © 2012-Now SVAKSHA, dual-licensed for the data ([ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/)) and the software ([AGPLv3+](http://www.gnu.org/licenses/agpl-3.0.en.html)), respectively.  This repository is also licensed under [ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/).
