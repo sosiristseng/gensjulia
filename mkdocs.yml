@@ -1,4 +1,4 @@
-site_name: My MkDocs Template
+site_name: Gens Julia
 site_url: !ENV [SITE_URL, 'https://sosiristseng.github.io/template-mkdocs-material/']
 site_author: Wen-Wei Tseng
 
