@@ -1,7 +1,5 @@
 ---
 title: Artificial Intelligence
-draft: false
-tags: []
 ---
 
 > Artificial intelligence, machine learning, and deep learning frameworks and models.

@@ -1,7 +1,5 @@
 ---
 title: File IO
-draft: false
-tags: []
 ---
 
 > General file read/write libraries in Julia.

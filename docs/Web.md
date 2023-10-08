@@ -1,7 +1,5 @@
 ---
 title: Web
-draft: false
-tags:
 ---
 
 > Generic external servers, web framework, etc., in Julia.

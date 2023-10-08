@@ -1,7 +1,5 @@
 ---
 title: Concurrency
-draft: false
-tags: []
 ---
 
 - Julia HPC and Cluster computing.

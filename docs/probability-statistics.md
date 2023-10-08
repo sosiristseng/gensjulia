@@ -1,7 +1,5 @@
 ---
 title: Probability and Statistics
-tags: []
-draft: false
 ---
 
 - [Wikipedia: Probability](https://en.wikipedia.org/wiki/Probability_theory).
@@ -84,7 +82,7 @@ draft: false
 
 ## Geostatistics
 
-See [[Earth and Space Science]].
+See [[earth-space-science]].
 
 ## Time series
 

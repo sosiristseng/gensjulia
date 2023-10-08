@@ -1,7 +1,5 @@
 ---
 title: Data Science
-draft: false
-tags: []
 ---
 
 > Data retrieval, manipulation, and storage in Julia.

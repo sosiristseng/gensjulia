@@ -1,7 +1,5 @@
 ---
 title: Biology
-draft: false
-tags: []
 ---
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc., in Julia.

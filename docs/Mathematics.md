@@ -1,8 +1,7 @@
 ---
 title: Mathematics
-draft: false
-tags: []
 ---
+
 [Mathematical](https://en.wikipedia.org/wiki/Lists_of_mathematics_topics) libraries/packages, and related resources in Julia.
 
 ## Organizations
@@ -66,7 +65,7 @@ tags: []
 
 [Wikipedia: Floating Point](https://en.wikipedia.org/wiki/Category:Floating_point)
 
-For floating-point datatypes, see [[Data Structures]].
+For floating-point datatypes, see [[data-structures]].
 
 - [ErrorfreeArithmetic.jl](https://github.com/JeffreySarnoff/ErrorfreeArithmetic.jl) : Error-free transformations for arithmetic ops.
 - [FastRounding.jl](https://github.com/JeffreySarnoff/FastRounding.jl) : Faster directed rounding for inline arithmetic.
@@ -232,7 +231,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 ## Symbolic Computation
 
-See [[Modeling and Simulation]]
+See [[modeling-simulation]]
 
 ## Polynomials
 
@@ -325,7 +324,7 @@ See [[Modeling and Simulation]]
 
 ### Graph Theory
 
-See [[Graph Theory]].
+See [[graph]].
 
 ## Information theory
 

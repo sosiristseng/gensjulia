@@ -1,7 +1,5 @@
 ---
 title: Data Structures
-draft: false
-tags: []
 ---
 
 ## Organizations
@@ -51,7 +49,7 @@ tags: []
 
 ## Graph data types
 
-See [[Graph Theory]].
+See [[graph]].
 
 ## Numeric data types
 

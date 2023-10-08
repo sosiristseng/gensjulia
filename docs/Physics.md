@@ -1,7 +1,5 @@
 ---
 title: Physics
-draft: false
-tags: []
 ---
 
 ## Organizations

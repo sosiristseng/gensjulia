@@ -1,7 +1,5 @@
 ---
 title: Modeling and simulation
-draft: false
-tags: []
 ---
 
 General modeling and simulation packages in Julia.
@@ -37,7 +35,7 @@ General modeling and simulation packages in Julia.
 
 ## Data structures
 
-See also [[Data Structures]].
+See also [[data-structures]].
 
 - [ComponentArrays.jl](https://github.com/jonniedie/ComponentArrays.jl) : Arrays with arbitrarily nested named components.
 - [LabelledArrays.jl](https://github.com/SciML/LabelledArrays.jl) : Arrays with a label for each element.

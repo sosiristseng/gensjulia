@@ -1,7 +1,5 @@
 ---
 title: Development Tools
-draft: false
-tags: []
 ---
 
 Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.org/wiki/DevOps)

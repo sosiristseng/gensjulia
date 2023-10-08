@@ -1,7 +1,5 @@
 ---
 title: Programming Paradigms
-draft: false
-tags: []
 ---
 
 - [Wikipedia: Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
@@ -138,7 +136,7 @@ tags: []
 
 ## Fuzzy Logic
 
-[Wikipedia: Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic) 
+[Wikipedia: Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic)
 
 ---
 

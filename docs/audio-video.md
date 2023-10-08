@@ -1,7 +1,5 @@
 ---
 title: Audio and Video Processing
-draft: false
-tags: []
 ---
 
 ## Organization

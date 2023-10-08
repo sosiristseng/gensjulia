@@ -1,7 +1,5 @@
 ---
 title: Hardware and Robotics
-draft: false
-tags: []
 ---
 
 > Controlling hardware and robots.

@@ -1,7 +1,5 @@
 ---
 title: Economics and Finance
-draft: false
-tags: []
 ---
 
 Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)

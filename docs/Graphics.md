@@ -1,7 +1,5 @@
 ---
 title: Graphics
-draft: false
-tags: []
 ---
 
 > Computer Vision, Graphics, games, geometry in Julia.
@@ -13,7 +11,7 @@ tags: []
 
 ## File IO
 
-See [[File IO]].
+See [[fileio]].
 
 ## Computer Vision (CV)
 

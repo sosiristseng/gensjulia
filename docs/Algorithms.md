@@ -1,7 +1,5 @@
 ---
 title: Algorithms
-draft: false
-tags: []
 ---
 
 > Generic algorithms for Julia.

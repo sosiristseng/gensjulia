@@ -1,7 +1,5 @@
 ---
 title: Graph Theory
-draft: false
-tags: []
 ---
 
 > General graph data structures, algorithms in Julia.

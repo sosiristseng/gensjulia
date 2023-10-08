@@ -1,11 +1,9 @@
 ---
-title: Chemistry
-draft: false
-tags: []
+title: chemistry
 ---
 
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
-- [Mendeleev.jl](https://github.com/Eben60/Mendeleev.jl): A package for accessing chemical elements data. 
+- [Mendeleev.jl](https://github.com/Eben60/Mendeleev.jl): A package for accessing chemical elements data.
 - [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) : The periodic table in Julia.
 
 ## Chemistry File IO
@@ -31,7 +29,7 @@ tags: []
 
 ## Simulation Methods
 
-> For general modeling and simulation, see [[Modeling and Simulation]] section
+> For general modeling and simulation, see [[modeling-simulation]] section
 
 - [Wikipedia: Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 - [Wikipedia: Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics)
