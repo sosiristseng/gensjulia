@@ -21,36 +21,36 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 
 ## Static analysis
 
-- [JET.jl](https://github.com/aviatesk/JET.jl) : experimental code analyzer for Julia.
-- [Lint.jl](https://github.com/tonyhffong/Lint.jl) : A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
+- https://github.com/aviatesk/JET.jl : experimental code analyzer for Julia.
+- https://github.com/tonyhffong/Lint.jl : A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 
 ## Style Guidelines
 
 [Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/)
 
-- [Aqua.jl](https://github.com/JuliaTesting/Aqua.jl) : Auto QUality Assurance (automated checks) for Julia packages.
-- [BlueStyle](https://github.com/invenia/BlueStyle) : A Julia style guide.
-- [YASGuide](https://github.com/jrevels/YASGuide) : Yet Another Style Guide For Julia.
+- https://github.com/JuliaTesting/Aqua.jl : Auto QUality Assurance (automated checks) for Julia packages.
+- https://github.com/invenia/BlueStyle : A Julia style guide.
+- https://github.com/jrevels/YASGuide : Yet Another Style Guide For Julia.
 
 ## Developing Julia packages
 
-- [Compat.jl](https://github.com/JuliaLang/Compat.jl) : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
-- [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) : providing a macro `@from` importing objects from files without having to `include` files repeatedly.
+- https://github.com/JuliaLang/Compat.jl : A package for cross-version compatibility between old Julia and the new - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
+- https://github.com/Roger-luo/FromFile.jl : providing a macro `@from` importing objects from files without having to `include` files repeatedly.
 
-- [PrecompileTools.jl](https://github.com/JuliaLang/PrecompileTools.jl) : Reduce time-to-first-execution of Julia code.
-- [Reexport.jl](https://github.com/simonster/Reexport.jl) : Julia macro for re-exporting one module from another.
-- [Requires.jl](https://github.com/JuliaPackaging/Requires.jl) : Lazy code loading in Julia packages. Will be replaced by [the extension system](https://pkgdocs.julialang.org/v1.9/creating-packages/#Conditional-loading-of-code-in-packages-(Extensions)) in Julia version 1.9+.
-- [VersionParsing.jl](https://github.com/JuliaInterop/VersionParsing.jl) : flexible Version Number parsing.
+- https://github.com/JuliaLang/PrecompileTools.jl : Reduce time-to-first-execution of Julia code.
+- https://github.com/simonster/Reexport.jl : Julia macro for re-exporting one module from another.
+- https://github.com/JuliaPackaging/Requires.jl : Lazy code loading in Julia packages. Will be replaced by [the extension system](https://pkgdocs.julialang.org/v1.9/creating-packages/#Conditional-loading-of-code-in-packages-(Extensions)) in Julia version 1.9+.
+- https://github.com/JuliaInterop/VersionParsing.jl : flexible Version Number parsing.
 
 ### Registry
 
-- [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl) : Create and maintain local package registries for Julia packages.
-- [Registrator.jl](https://github.com/JuliaComputing/Registrator.jl) : Julia [package](https://pkg.julialang.org/) registration bot.
+- https://github.com/GunnarFarneback/LocalRegistry.jl : Create and maintain local package registries for Julia packages.
+- https://github.com/JuliaComputing/Registrator.jl : Julia [package](https://pkg.julialang.org/) registration bot.
 
 ### Templates
 
-- [PkgTemplates.jl](https://github.com/invenia/PkgTemplates.jl) : Generate Julia package skeletons using a simple template system.
-- [PkgSkeleton.jl](https://github.com/tpapp/PkgSkeleton.jl) : Create new Julia packages, the easy way. Include templaye files for GitHub / GitLab CI.
+- https://github.com/invenia/PkgTemplates.jl : Generate Julia package skeletons using a simple template system.
+- https://github.com/tpapp/PkgSkeleton.jl : Create new Julia packages, the easy way. Include templaye files for GitHub / GitLab CI.
 
 ### Prebuilt Binaries
 
@@ -60,15 +60,15 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 
 ---
 
-- [BinaryBuilder.jl](https://github.com/JuliaPackaging/BinaryBuilder.jl) : Binary Dependency Builder for Julia.
-- [RunBinary.jl](https://gitlab.com/aplavin/RunBinary.jl) : running binary files from the `Yggdrasil` repo.
+- https://github.com/JuliaPackaging/BinaryBuilder.jl : Binary Dependency Builder for Julia.
+- https://gitlab.com/aplavin/RunBinary.jl : running binary files from the `Yggdrasil` repo.
 
 ### Compilers
 
-- [Clang.jl](https://github.com/JuliaInterop/Clang.jl) : Julia interface to libclang and C wrapper generator.
-- [llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) : A resurrected LLVM C Backend, with improvements for Julia.
-- [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) : Compiles your Julia environment into a system image or a standalone binary.
-- [StaticCompiler.jl](https://github.com/tshort/StaticCompiler.jl) : Compiles Julia code to a standalone library.
+- https://github.com/JuliaInterop/Clang.jl : Julia interface to libclang and C wrapper generator.
+- https://github.com/JuliaHubOSS/llvm-cbe : A resurrected LLVM C Backend, with improvements for Julia.
+- https://github.com/JuliaLang/PackageCompiler.jl : Compiles your Julia environment into a system image or a standalone binary.
+- https://github.com/tshort/StaticCompiler.jl : Compiles Julia code to a standalone library.
 
 ### Test-driven develpment (TDD)
 
@@ -76,21 +76,21 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 
 ---
 
-- [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) : tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov.
-- [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
-- [MockAWS.jl](https://github.com/JuliaCloud/MockAWS.jl) : patch functions for testing all AWS services.
-- [Mocking.jl](https://github.com/invenia/Mocking.jl) : allowing temporary overwriting of Julia methods for testing purposes.
-- [SafeTestsets.jl](https://github.com/YingboMa/SafeTestsets.jl) : `@safetestset` puts `@testset` into a module to reduce global side effects.
-- [TestEnv.jl](https://github.com/JuliaTesting/TestEnv.jl) : `TestEnv.activate()` loads your test enviroment, so you can use your test dependencies in the REPL.
-- [TestItemRunner.jl](https://github.com/julia-vscode/TestItemRunner.jl) : run Julia tests in VSCode.
-- [UnitTestDesign.jl](https://github.com/adolgert/UnitTestDesign.jl) : chooses effiennt combinations functional arguments to maximize test coverage.
-- [Watcher.jl](https://github.com/rened/Watcher.jl) : auto-run unit tests every time a file gets saved.
+- https://github.com/JuliaCI/Coverage.jl : tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov.
+- https://github.com/wookay/Jive.jl : running test in parallel. It also supports watch folder function.
+- https://github.com/JuliaCloud/MockAWS.jl : patch functions for testing all AWS services.
+- https://github.com/invenia/Mocking.jl : allowing temporary overwriting of Julia methods for testing purposes.
+- https://github.com/YingboMa/SafeTestsets.jl : `@safetestset` puts `@testset` into a module to reduce global side effects.
+- https://github.com/JuliaTesting/TestEnv.jl : `TestEnv.activate()` loads your test enviroment, so you can use your test dependencies in the REPL.
+- https://github.com/julia-vscode/TestItemRunner.jl : run Julia tests in VSCode.
+- https://github.com/adolgert/UnitTestDesign.jl : chooses effiennt combinations functional arguments to maximize test coverage.
+- https://github.com/rened/Watcher.jl : auto-run unit tests every time a file gets saved.
 
 ### Logging
 
 See aslo the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Logging/) facilities.
 
-- [ProgressLogging.jl](https://github.com/JuliaLogging/ProgressLogging.jl) : a package for defining progress logs.
+- https://github.com/JuliaLogging/ProgressLogging.jl : a package for defining progress logs.
 
 ## Benchmarking and Regression Testing
 
@@ -98,18 +98,19 @@ See aslo the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ---
 
-- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) : A benchmarking framework for the Julia language.
-- [ConicBenchmarkUtilities.jl](https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl) : Julia utilities for the conic benchmark format for mathematical optimization.
-- [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) : A module for CPU timing.
-- [DataBench.jl](https://github.com/xiaodaigh/DataBench.jl) : A package to benchmark data manipulation in Julia vs `R data.table`.
-- [PkgBenchmark.jl](https://github.com/JuliaCI/PkgBenchmark.jl) : Easy benchmark tracking for packages
-- [PkgEval.jl](https://github.com/JuliaCI/PkgEval.jl) : Evaluate Julia packages for a range of Julia versions.
-- [PkgJogger.jl](https://github.com/awadell1/PkgJogger.jl) : a benchmarking framework for Julia built on `BenchmarkTools.jl`, providing simple benchmark script loading and revision (by `Revise.jl`). It also enables continuous benchmarking.
-- [ProfileSVG.jl](https://github.com/kimikage/ProfileSVG.jl) : Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
-- [ProfileView.jl](https://github.com/timholy/ProfileView.jl) : Visualization of Julia profiling data
-- [StatProfilerHTML.jl](https://github.com/tkluck/StatProfilerHTML.jl) : Show Julia profiling data in an explorable HTML page.
-- [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) : Formatted output of timed sections in julia.
-- [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl) : Automated integrated regression tests for graphics libraries by comparing similarity between a newly generated image and a reference image.
+- https://github.com/JuliaCI/BenchmarkTools.jl : A benchmarking framework for the Julia language.
+- https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl : Julia utilities for the conic benchmark format for mathematical optimization.
+- https://github.com/schmrlng/CPUTime.jl : A module for CPU timing.
+- https://github.com/xiaodaigh/DataBench.jl : A package to benchmark data manipulation in Julia vs `R data.table`.
+- https://github.com/JuliaCI/PkgBenchmark.jl : Easy benchmark tracking for packages
+- https://github.com/JuliaCI/PkgEval.jl : Evaluate Julia packages for a range of Julia versions.
+- https://github.com/awadell1/PkgJogger.jl : a benchmarking framework for Julia built on `BenchmarkTools.jl`, providing simple benchmark script loading and revision (by `Revise.jl`). It also enables continuous benchmarking.
+- https://github.com/kimikage/ProfileSVG.jl : Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
+- https://github.com/timholy/ProfileView.jl : Visualization of Julia profiling data
+- https://github.com/tkluck/StatProfilerHTML.jl : Show Julia profiling data in an explorable HTML page.
+- https://github.com/KristofferC/TimerOutputs.jl : Formatted output of timed sections in julia.
+- https://github.com/JuliaPlots/VisualRegressionTests.jl : Automated integrated regression tests for graphics libraries by comparing similarity between a newly generated image and a reference image.
+- https://github.com/IanButterworth/SystemBenchmark.jl : Julia package for benchmarking a system's performance.
 
 ## Debugger
 
@@ -117,27 +118,28 @@ See aslo the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ---
 
-- [Debugger.jl](https://github.com/JuliaDebug/Debugger.jl) : Julia debugger using the `@enter` macro.
-- [Ghost.jl](https://github.com/dfdx/Ghost.jl) : a code tracer for the Julia programming language. It lets you trace the function execution, recording all primitive operations onto a linearized tape.
-- [Infiltrator.jl](https://github.com/JuliaDebug/Infiltrator.jl) : `@infiltrate` macro sets a "breakpoint" in a local context. All code is completely compiled.
-- [JuliaInterpreter.jl](https://github.com/JuliaDebug/JuliaInterpreter.jl) : Interpreter for Julia code.
-- [Rebugger.jl](https://github.com/timholy/Rebugger.jl) : An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks, but it can trace execution via the manipulation of Julia expressions.
-- [Suppressor.jl](https://github.com/JuliaIO/Suppressor.jl) :  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
-- [ToggleableAsserts.jl](https://github.com/MasonProtter/ToggleableAsserts.jl) : Assertions that can be turned on or off with a switch, without runtime penalty when they're off.
+- https://github.com/JuliaDebug/Debugger.jl : Julia debugger using the `@enter` macro.
+- https://github.com/dfdx/Ghost.jl : a code tracer for the Julia programming language. It lets you trace the function execution, recording all primitive operations onto a linearized tape.
+- https://github.com/JuliaDebug/Infiltrator.jl : `@infiltrate` macro sets a "breakpoint" in a local context. All code is completely compiled.
+- https://github.com/JuliaDebug/JuliaInterpreter.jl : Interpreter for Julia code.
+- https://github.com/timholy/Rebugger.jl : An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks, but it can trace execution via the manipulation of Julia expressions.
+- https://github.com/JuliaIO/Suppressor.jl :  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
+- https://github.com/MasonProtter/ToggleableAsserts.jl : Assertions that can be turned on or off with a switch, without runtime penalty when they're off.
 
 ## Documentation and report generation
 
 [Julia docstrings](https://docs.julialang.org/en/v1/manual/documentation/)
 
-- [Books.jl](https://github.com/JuliaBooks/Books.jl) : generate books (or dashboards) in pdf/HTML/docx with embedded Julia output by pandoc document processor. Currently, this package is used to write the [Julia Data Science book](https://github.com/JuliaDataScience/JuliaDataScience).
-- [CommonMark.jl](https://github.com/MichaelHatherly/CommonMark.jl) : A CommonMark-compliant parser for Julia.
-- [DocStringExtensions.jl](https://github.com/JuliaDocs/DocStringExtensions.jl) : Extensions for Julia's docsystem.
-- [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) : Official documentation generator for Julia.
-	- [DocumenterCitations.jl](https://github.com/ali-ramadhan/DocumenterCitations.jl) : uses [Bibliography.jl](https://github.com/Humans-of-Julia/Bibliography.jl) to add support for BibTeX citations and references in documentation pages generated by [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl).
-- [Literate.jl](https://github.com/fredrikekre/Literate.jl) : literate programming in Julia.
-- [Remark.jl](https://github.com/piever/Remark.jl) : A Julia package to create presentations from markdown using Remark.
-- [sphinx-julia](https://github.com/bastikr/sphinx-julia) : Documenting Julia projects with Sphinx.
-- [Weave.jl](https://github.com/JunoLab/Weave.jl) : A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave.
+- https://github.com/JuliaBooks/Books.jl : generate books (or dashboards) in pdf/HTML/docx with embedded Julia output by pandoc document processor. Currently, this package is used to write the [Julia Data Science book](https://github.com/JuliaDataScience/JuliaDataScience).
+- https://github.com/MichaelHatherly/CommonMark.jl : A CommonMark-compliant parser for Julia.
+- https://github.com/JuliaDocs/DocStringExtensions.jl : Extensions for Julia's docsystem.
+- https://github.com/JuliaDocs/Documenter.jl : Official documentation generator for Julia.
+	- https://github.com/ali-ramadhan/DocumenterCitations.jl : uses https://github.com/Humans-of-Julia/Bibliography.jl to add support for BibTeX citations and references in documentation pages generated by https://github.com/JuliaDocs/Documenter.jl.
+	- https://github.com/JuliaComputing/MultiDocumenter.jl : Aggragates mdocumentations from multiple sources.
+- https://github.com/fredrikekre/Literate.jl : literate programming in Julia.
+- https://github.com/piever/Remark.jl : A Julia package to create presentations from markdown using Remark.
+- https://github.com/bastikr/sphinx-julia : Documenting Julia projects with Sphinx.
+- https://github.com/JunoLab/Weave.jl : A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave.
 
 ## Integrated development environment (IDE)
 
@@ -147,34 +149,32 @@ See aslo the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 - [jedit-julia](https://github.com/tuckerkevin/jedit-julia) : A [jEdit](http://jedit.org/) mode for Julia.
 - [Julia.tmbundle](https://github.com/JuliaEditorSupport/Julia.tmbundle) : Julia language support for TextMate 2 (and Sublime Text).
 - [LiClipse](https://www.liclipse.com/) : Eclipse plus some customizations, supports Julia.
-- [Reminisce](https://github.com/JuliaIDE/Reminisce) : Sublime-style saving of tabs and content for Light Table.
-- [juliamono](https://github.com/cormullion/juliamono) : A monospaced font for Julia with unicode characters and ligatures.
+- https://github.com/cormullion/juliamono : A monospaced font for Julia with unicode characters and ligatures.
 
 ### Emacs
 
 - [ESS support](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. Also see its [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
-- [julia-emacs](https://github.com/JuliaEditorSupport/julia-emacs) : Julia support in Emacs.
-- [julia-repl](https://github.com/tpapp/julia-repl) : Run an interior Julia REPL in a terminal inside Emacs.
+- https://github.com/JuliaEditorSupport/julia-emacs : Julia support in Emacs.
+- https://github.com/tpapp/julia-repl : Run an interior Julia REPL in a terminal inside Emacs.
 
 ### Vim
 
-- [julia-vim](https://github.com/JuliaEditorSupport/julia-vim)
-- [Neovim.jl](https://github.com/bfredl/Neovim.jl) by @bfredl : Neovim client for Julia.
-- [vim-notebook](https://github.com/baruchel/vim-notebook) : Vim users can use Julia from the `vim-notebook` plugin.
+- https://github.com/JuliaEditorSupport/julia-vim
+- https://github.com/bfredl/Neovim.jl by @bfredl : Neovim client for Julia.
+- https://github.com/baruchel/vim-notebook : Vim users can use Julia from the `vim-notebook` plugin.
 
 ### Jupyter Notebooks
 
 [Jupyter](https://github.com/jupyter)
 
-- [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) : Julia kernel for Jupyter.
-- [Interact.jl](https://github.com/JuliaGizmos/Interact.jl) : Library for interactive widgets in IJulia.
-- [NBInclude.jl](https://github.com/stevengj/NBInclude.jl) : Import code from IJulia Jupyter notebooks into Julia programs.
-- [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia) : is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend.
+- https://github.com/JuliaLang/IJulia.jl : Julia kernel for Jupyter.
+- https://github.com/JuliaGizmos/Interact.jl : Library for interactive widgets in IJulia.
+- https://github.com/stevengj/NBInclude.jl : Import code from IJulia Jupyter notebooks into Julia programs.
+- https://github.com/quinnj/Sublime-IJulia : is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend.
 
 ### Web IDE
 
 [Wikipedia: web IDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
-
 
 - [Google colab Julia notebook](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_for_Pythonistas.ipynb)
 - [Julia Hub](https://juliahub.com/ui/index.html)
@@ -185,10 +185,10 @@ See aslo the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ---
 
-- [CodeTools.jl](https://github.com/JunoLab/CodeTools.jl>\) : A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
-- [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl) : A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
-- [LanguageServer.jl](https://github.com/julia-vscode/LanguageServer.jl) : An implementation of the Microsoft Language Server Protocol for the julia language.
-- [LNR.jl](https://github.com/JunoLab/LNR.jl) : Line numbering reader.
+- https://github.com/JunoLab/CodeTools.jl : A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
+- https://github.com/JunoLab/Hiccup.jl : A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
+- https://github.com/julia-vscode/LanguageServer.jl : An implementation of the Microsoft Language Server Protocol for the julia language.
+- https://github.com/JunoLab/LNR.jl : Line numbering reader.
 
 ## Shell scripting
 
@@ -197,11 +197,11 @@ See aslo the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ## GUI
 
-- [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) : Julia wrapper around [Electron](https://www.electronjs.org/).
-- [Electron.jl](https://github.com/davidanthoff/Electron.jl) : Julia wrapper for [Electron](https://www.electronjs.org/) with a more minimalistic feature set than `Blink.jl`.
-- [Gtk.jl](https://github.com/JuliaGraphics/Gtk.jl) : Julia interface to the GTK windowing toolkit.
-- [QML.jl](https://github.com/barche/QML.jl) : Small example for starting an interface to Qt5 QML.
-- [Tk.jl](https://github.com/JuliaGraphics/Tk.jl) : The Julia interface for the Tk windowing toolkit.
+- https://github.com/JuliaGizmos/Blink.jl : Julia wrapper around [Electron](https://www.electronjs.org/).
+- https://github.com/davidanthoff/Electron.jl : Julia wrapper for [Electron](https://www.electronjs.org/) with a more minimalistic feature set than `Blink.jl`.
+- https://github.com/JuliaGraphics/Gtk.jl : Julia interface to the GTK windowing toolkit.
+- https://github.com/barche/QML.jl : Small example for starting an interface to Qt5 QML.
+- https://github.com/JuliaGraphics/Tk.jl : The Julia interface for the Tk windowing toolkit.
 
 
 ## Continuous integration (CI) providers
