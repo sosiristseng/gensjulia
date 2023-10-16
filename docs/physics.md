@@ -17,14 +17,14 @@ title: Physics
 
 [Wikipedia: Plasma](https://en.wikipedia.org/wiki/Plasma_(physics))
 
-- [OrbitTomography.jl](https://github.com/lstagner/OrbitTomography.jl) : A Method for Determining the Population of Individual Fast-ion Orbits from Experimental Measurements.
+- https://github.com/lstagner/OrbitTomography.jl : A Method for Determining the Population of Individual Fast-ion Orbits from Experimental Measurements.
 
 ## Electricity
 
-- [ACME.jl](https://github.com/HSU-ANT/ACME.jl) : Analog Circuit Modeling and Emulation for Julia.
-- [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) : Package for dynamical modeling of power grids.
-- [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) : Data structures in Julia to enable power systems analysis.
-- [PowerSimulations.jl](https://github.com/NREL-SIIP/PowerSimulations.jl) : Julia for optimization simulation and modeling of PowerSystems.
+- https://github.com/HSU-ANT/ACME.jl : Analog Circuit Modeling and Emulation for Julia.
+- https://github.com/JuliaEnergy/PowerDynamics.jl : Package for dynamical modeling of power grids.
+- https://github.com/NREL-SIIP/PowerSystems.jl : Data structures in Julia to enable power systems analysis.
+- https://github.com/NREL-SIIP/PowerSimulations.jl : Julia for optimization simulation and modeling of PowerSystems.
 
 ## Electromagnetism
 
@@ -33,11 +33,11 @@ title: Physics
 
 ---
 
-- [Peacock.jl](https://github.com/sp94/Peacock.jl) : Photonic crystals in Julia.
-- [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl) : A package for simulation of physical optics.
-- [PSSFSS.jl](https://github.com/simonp0420/PSSFSS.jl) : Analysis of polarization and frequency selective surfaces in Julia.
-- [RadiationSpectra.jl](https://github.com/JuliaPhysics/RadiationSpectra.jl) : Toolkit for analysis of radiation spectra in Julia.
-- [SpikeSorting.jl](https://github.com/paulmthompson/SpikeSorting.jl) : Online spike sorting methods in Julia.
+- https://github.com/sp94/Peacock.jl : Photonic crystals in Julia.
+- https://github.com/JuliaPhysics/PhysicalOptics.jl : A package for simulation of physical optics.
+- https://github.com/simonp0420/PSSFSS.jl : Analysis of polarization and frequency selective surfaces in Julia.
+- https://github.com/JuliaPhysics/RadiationSpectra.jl : Toolkit for analysis of radiation spectra in Julia.
+- https://github.com/paulmthompson/SpikeSorting.jl : Online spike sorting methods in Julia.
 
 ## Computational Fluid Dynamics (CFD)
 
@@ -46,25 +46,25 @@ title: Physics
 
 ---
 
-- [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) : Fast and friendly fluid dynamics on CPUs and GPUs. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=Nlq3J7PCB_Q)
-- [WaterLily.jl](https://github.com/weymouth/WaterLily.jl) : a simple and fast fluid simulator written in pure Julia.
+- https://github.com/CliMA/Oceananigans.jl : Fast and friendly fluid dynamics on CPUs and GPUs. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=Nlq3J7PCB_Q)
+- https://github.com/weymouth/WaterLily.jl : a simple and fast fluid simulator written in pure Julia.
 
 ## Quantum Mechanics
 
-- [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) : Package for the quantum computation and quantum simulation based on the neutral-atom architecture. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
-- [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) : This library allows for efficient calculation of [Clifford](https://en.wikipedia.org/wiki/Clifford_algebra) circuits by tracking the evolution of X and Z generators.
-- [Hadamard.jl](https://github.com/JuliaMath/Hadamard.jl) : Fast multidimensional Walsh-Hadamard transforms.
-- [MERAKit.jl](https://github.com/mhauru/MERAKit.jl) : provides Julia implementations of some basic [Multiscale Entaglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
-- [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) : Data manipulation and analysis tools tailored for quantum computing experiments.
-- [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) : Package for simulating time dynamics of quantum systems with a focus on superconducting qubits.
-- [QuantumControl.jl](https://github.com/JuliaQuantumControl/QuantumControl.jl) : Julia Framework for Quantum Dynamics and Control. [JuliaCon 2023 Video](https://www.youtube.com/watch?v=GgA8qPGifJ8)
-- [QuantumCumulants.jl](https://github.com/qojulia/QuantumCumulants.jl) : Generalized mean-field equations in open quantum systems. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
-- [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/). [JuliaCon 2023 Video](https://www.youtube.com/watch?v=sWvk-2lxMZU)
-- [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) : A Julia package for computing Wigner symbols and related quantities.
-- [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
+- https://github.com/QuEraComputing/Bloqade.jl : Package for the quantum computation and quantum simulation based on the neutral-atom architecture. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
+- https://github.com/BBN-Q/Cliffords.jl : This library allows for efficient calculation of [Clifford](https://en.wikipedia.org/wiki/Clifford_algebra) circuits by tracking the evolution of X and Z generators.
+- https://github.com/JuliaMath/Hadamard.jl : Fast multidimensional Walsh-Hadamard transforms.
+- Https://github.com/mhauru/MERAKit.jl : provides Julia implementations of some basic [Multiscale Entaglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
+- https://github.com/BBN-Q/Qlab.jl : Data manipulation and analysis tools tailored for quantum computing experiments.
+- https://github.com/BBN-Q/QSimulator.jl : Package for simulating time dynamics of quantum systems with a focus on superconducting qubits.
+- https://github.com/JuliaQuantumControl/QuantumControl.jl : Julia Framework for Quantum Dynamics and Control. [JuliaCon 2023 Video](https://www.youtube.com/watch?v=GgA8qPGifJ8)
+- https://github.com/qojulia/QuantumCumulants.jl : Generalized mean-field equations in open quantum systems. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
+- https://github.com/qojulia/QuantumOptics.jl : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/). [JuliaCon 2023 Video](https://www.youtube.com/watch?v=sWvk-2lxMZU)
+- https://github.com/Jutho/WignerSymbols.jl : A Julia package for computing Wigner symbols and related quantities.
+- https://github.com/QuantumBFS/Yao.jl : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 
 ## Thermodynamics
 
 [Wikipedia: Thermodynamics](https://en.wikipedia.org/wiki/Category:Thermodynamics)
 
-- [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamic properties of moist air (real gas mixture).
+- https://github.com/pjabardo/Psychro.jl : Thermodynamic properties of moist air (real gas mixture).
