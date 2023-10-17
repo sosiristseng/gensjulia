@@ -24,7 +24,7 @@ copyright: Copyright &copy; 2016 - 2023 Wen-Wei Tseng
 # MkDocs plugins
 plugins:
   - search
-  - roamlinks
+  - ezlinks
   - callouts
 
 # Theme configuration
