@@ -1,3 +1,3 @@
 mkdocs-material==9.4.6
 mkdocs-ezlinked-plugin==0.3.3
-mkdocs-callouts==1.9.2
+mkdocs-callouts==1.10.0
