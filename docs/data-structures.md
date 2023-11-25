@@ -61,6 +61,7 @@ See [[graph]].
 - https://github.com/JuliaGeometry/Quaternions.jl : Quaternions, octonions and dual-quaternions for 3D rotational orientation.
 - https://github.com/timholy/Ratios.jl : Faster Rational-like types for Julia at the risk of greater risk of overflow.
 - https://github.com/PainterQubits/Unitful.jl : A Julia package for physical units.
+- https://github.com/SymbolicML/DynamicQuantities.jl : Lightweight and fast physical quantities in Julia.
 
 ### Intervals
 
