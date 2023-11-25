@@ -22,6 +22,7 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 ## Static analysis
 
 - https://github.com/aviatesk/JET.jl : experimental code analyzer for Julia.
+- https://github.com/JuliaLang/AllocCheck.jl : a Julia package that statically checks if a function call may allocate by analyzing the generated LLVM IR of it and its callees.
 - https://github.com/tonyhffong/Lint.jl : A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 
 ## Style Guidelines
