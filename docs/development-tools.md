@@ -13,9 +13,6 @@ Julia Developement tools, compilers, debuggers, [DevOps](https://en.wikipedia.or
 ## Resources
 
 - [Awesome devops](https://github.com/wmariuss/awesome-devops)
-- [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) : JuliaLang binary caching infrastructure.
-- [Devops Weekly](https://www.devopsweekly.com/) email subscription and the [public archive](https://devopsweeklyarchive.com/).
-- [julia-buildbot](https://github.com/JuliaCI/julia-buildbot) : Buildbot configuration for [build.julialang.org](https://build.julialang.org/).
 - [JuliaHub](https://juliahub.com/ui/Home)
 - [General registry](https://github.com/JuliaRegistries/General) : The official registry of general Julia packages.
 

@@ -75,7 +75,7 @@ See [[graph]].
 
 - https://github.com/JeffreySarnoff/ArbNumerics.jl : extended precision math, accurate and performant
 - https://github.com/JuliaMath/BFloat16s.jl : This package defines the [BFloat16 data type](https://en.wikipedia.org/wiki/Bfloat16_floating-point_format). The only currently available hardware implementation of this datatype are Google's [Cloud TPUs](https://en.wikipedia.org/wiki/Tensor_processing_unit).
-- https://github.com/JuliaMath/DecFP.jl : The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) [Intel Decimal Floating-Point Math Library](https://software.intel.com/en-us/articles/intel-decimal-floating-point-math-library).
+- https://github.com/JuliaMath/DecFP.jl : The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) [Intel Decimal Floating-Point Math Library](https://www.intel.com/content/www/us/en/developer/articles/tool/intel-decimal-floating-point-math-library.html).
 - https://github.com/JuliaMath/Decimals.jl : Pure Julia decimal arithmetic library.
 - https://github.com/JuliaMath/DoubleFloats.jl : Numbers with 85 accurate bits.
 - https://github.com/cjdoris/LogarithmicNumbers.jl : A [logarithmic number system](https://en.wikipedia.org/wiki/Logarithmic_number_system) for Julia. Provides the signed `ULogarithmic` and unsigned `Logarithmic` types for representing real numbers on a logarithmic scale.
