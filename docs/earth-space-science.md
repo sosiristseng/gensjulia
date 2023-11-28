@@ -17,6 +17,7 @@ title: Earth and Space Science
 
 ---
 
+- https://github.com/ODINN-SciML/ODINN.jl : Global glacier model using Universal Differential Equations for climate-glacier interactions.
 - https://github.com/gaelforget/ClimateModels.jl : Julia interface to various climate models. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=_Y6mNrN7eWA)
 - https://github.com/JuliaClimate/ClimateTools.jl : This package is a collection of commonly-used tools in Climate Science.
 - https://github.com/JuliaClimate/INMET.jl : Julia API to access data from the [Instituto Nacional de Metereologia (INMET)](https://portal.inmet.gov.br/).
