@@ -24,10 +24,9 @@ title: Concurrency
 
 ## General Concurrency Packages
 
-- https://github.com/JuliaActors/Actors.jl : [Actor Model](https://en.wikipedia.org/wiki/Actor_model) cocurrent model.
-- https://github.com/JuliaFolds/FLoops.jl : the macro `@floop` for a fast generic iteration over complex collections.
-- https://github.com/JuliaFolds/Folds.jl : A unified interface for sequential, threaded, and distributed folds. The [docs](https://juliafolds.github.io/Folds.jl/stable/) list what functions it supports.
+- https://github.com/JuliaActors/Actors.jl : [Actor Model](https://en.wikipedia.org/wiki/Actor_model) concurrent model.
 - https://github.com/JuliaArrays/TiledIteration.jl : Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
+- https://github.com/JuliaFolds/Folds.jl : A unified interface for sequential, threaded, and distributed folds. The [docs](https://juliafolds.github.io/Folds.jl/stable/) list what functions it supports.
 - https://github.com/JuliaParallel/MessageUtils.jl : A collection of utilities for messaging.
 
 ## Bindings
@@ -59,6 +58,7 @@ title: Concurrency
 
 - https://github.com/tkf/ThreadsX.jl : Multithreaded base functions such as `map()`, `reduce()`, `foreach()`.
 - https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires `lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
+- https://github.com/JuliaFolds/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic iteration over complex collections.
 
 ## Multiprocessing and Distributed Computing
 
@@ -69,19 +69,20 @@ title: Concurrency
 
 ---
 
-- https://github.com/JuliaParallel/MPI.jl :  Julia interface to the Message Passing Interface ([MPI](https://www.mpi-forum.org/))
-- https://github.com/JuliaParallel/Dagger.jl : A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations. Similar to [`dask`](https://www.dask.org/) library in Python.
-- https://github.com/JuliaParallel/DistributedArrays.jl : A task persistency mechanism based on hash-graphs for Dispatcher.jl.
-- https://github.com/JuliaParallel/ClusterManagers.jl : Support for different clustering technologies.
-- https://github.com/zgornel/DispatcherCache.jl : Tool for building and executing a computation graph given a series of dependent operations.
+- https://github.com/ChevronETC/Schedulers.jl : It provides elastic and fault tolerant parallel map and parallel map reduce methods.
 - https://github.com/ChrisRackauckas/ParallelDataTransfer.jl : A bunch of helper functions for transferring data between worker processes.
 - https://github.com/eschnett/Persist.jl : Running jobs in the background, independent of the Julia shell.
-- https://github.com/ChevronETC/Schedulers.jl : It provides elastic and fault tolerant parallel map and parallel map reduce methods. The primary feature that distinguishes Schedulers parallel `map` method from Julia's `Distributed.pmap()` is elasticity where the cluster is permitted to dynamically grow/shrink.
+- https://github.com/JuliaParallel/ClusterManagers.jl : Support for different clustering technologies.
+- https://github.com/JuliaParallel/Dagger.jl : A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations. Similar to [`dask`](https://www.dask.org/) library in Python.
+- https://github.com/JuliaParallel/DistributedArrays.jl : A task persistency mechanism based on hash-graphs for Dispatcher.jl.
+- https://github.com/JuliaParallel/MPI.jl :  Julia interface to the Message Passing Interface ([MPI](https://www.mpi-forum.org/))
+- https://github.com/JuliaPluto/Malt.jl : a multiprocessing package for Julia. It is used by https://github.com/fonsp/Pluto.jl to manage the Julia process that notebook code is executed in, as a replacement to Distributed.
+- https://github.com/zgornel/DispatcherCache.jl : Tool for building and executing a computation graph given a series of dependent operations.
 
 ## GPU computing
 
 - [Wikipedia: GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
-- Sample notebooks for [GPU Julia](https://nbviewer.org/7436359), and [GPU Transpose](https://nbviewer.org/gist/jakebolewski/7436439).
+- [Sample OpenCL notebooks for GPU Julia](https://nbviewer.org/7436359), and [GPU Transpose](https://nbviewer.org/gist/jakebolewski/7436439).
 - Blog post on [High-Performance GPU Computing](https://developer.nvidia.com/blog/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
 
 ---
