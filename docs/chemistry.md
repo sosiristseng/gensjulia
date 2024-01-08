@@ -1,5 +1,5 @@
 ---
-title: chemistry
+title: Chemistry
 ---
 
 - https://github.com/caseykneale/ChemometricsTools.jl : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
