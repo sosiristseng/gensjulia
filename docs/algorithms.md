@@ -45,6 +45,6 @@ title: Algorithms
 
 ## Genetic algorithm
 
-[Wikipedia: Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+[Wikipedia: Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm). See also the [[optimization]] section.
 
 - https://github.com/wildart/Evolutionary.jl : Evolutionary & genetic algorithms for Julia.

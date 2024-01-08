@@ -10,6 +10,7 @@ title: Optimization
 - [Julia Opt](https://github.com/JuliaOpt)
 - [Julia Smooth Optimizers](https://github.com/JuliaSmoothOptimizers)
 - [Julia for Dynamic Optimization](https://github.com/JuDO-dev)
+
 ## Frameworks
 
 - https://github.com/jump-dev/JuMP.jl : Modeling Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
