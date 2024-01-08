@@ -1,10 +1,10 @@
 site_name: Gens Julia
-site_url: !ENV [SITE_URL, 'https://sosiristseng.github.io/template-mkdocs-material/']
+site_url: !ENV [SITE_URL, 'https://sosiristseng.github.io/gensjulia/']
 site_author: Wen-Wei Tseng
 
 # Repository
-repo_url: !ENV [REPO_URL, 'https://github.com/sosiristseng/template-mkdocs-material/']
-repo_name: !ENV [REPO_NAME, 'sosiristseng/template-mkdocs-material']
+repo_url: !ENV [REPO_URL, 'https://github.com/sosiristseng/gensjulia/']
+repo_name: !ENV [REPO_NAME, 'sosiristseng/gensjulia']
 edit_uri: 'edit/main/docs/' # Leave blank to disable the edit button,
 
 copyright: Copyright &copy; 2016 - 2023 Wen-Wei Tseng
@@ -109,9 +109,9 @@ markdown_extensions:
       smart_enable: all
   # - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
