@@ -116,4 +116,4 @@ Official Julia learning site: [Get started with Julia](https://julialang.org/lea
 - `Plots.jl` [Official docs](https://docs.juliaplots.org/latest/)
 - https://github.com/goropikari/PlotsGallery.jl : An unofficial `Plots.jl` Gallery inspired by MATLAB Plot Gallery
 - `PyPlot.jl` [examples by gizmaa](https://gist.github.com/gizmaa/7214002)
-- `Makie.jl` examples: [BeautifulMakie](https://beautiful.makie.org/dev/)
+- `Makie.jl` examples: [BeautifulMakie](https://beautiful.makie.org/)
