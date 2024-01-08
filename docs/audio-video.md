@@ -9,6 +9,8 @@ title: Audio and Video Processing
 
 ## Audio
 
+- https://github.com/dpsanders/MusicTheory.jl : provide a Julian interface for representing the objects and structures in ("Western") music theory (based on semitones).
+
 ### Audio files IO
 
 - https://github.com/JuliaIO/FLAC.jl : Julia bindings for libFLAC.
