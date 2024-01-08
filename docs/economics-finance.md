@@ -11,15 +11,16 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 
 [Wikipedia: Econometrics](https://en.wikipedia.org/wiki/Econometrics)
 
-- https://github.com/s-broda/ARCHModels.jl : A Julia package for estimating [ARMA-GARCH](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) models.
+- https://github.com/DynareJulia/Dynare.jl : A Julia rewrite of Dynare: solving, simulating and estimating DSGE models.
 - https://github.com/EconForge/Dolo.jl : A tool to describe and solve economic models.
 - https://github.com/FRBNY-DSGE/DSGE.jl : Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE).
-- https://github.com/QuantEcon/Expectations.jl : Expectation operators for `Distributions.jl` objects.
-- https://github.com/micahjsmith/FredData.jl : Pull [data](https://fred.stlouisfed.org/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 - https://github.com/JuliaQuant/MarketTechnicals.jl : Technical analysis of financial time series in Julia by @JuliaQuant.
+- https://github.com/micahjsmith/FredData.jl : Pull [data](https://fred.stlouisfed.org/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
+- https://github.com/QuantEcon/Expectations.jl : Expectation operators for `Distributions.jl` objects.
 - https://github.com/QuantEcon/QuantEcon.jl :Julia implementation of [QuantEcon](https://quantecon.org/quantecon-jl/) routines.
-- https://github.com/s-baumann/SchumakerSpline.jl : An equivalent Julia package to R's [schumaker](https://cran.r-project.org/web/packages/schumaker/index.html) to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
 - https://github.com/RJDennis/SolveDSGE.jl : a Julia package for solving Dynamic Stochastic General Equilibrium (DSGE) models.
+- https://github.com/s-baumann/SchumakerSpline.jl : An equivalent Julia package to R's [schumaker](https://cran.r-project.org/web/packages/schumaker/index.html) to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
+- https://github.com/s-broda/ARCHModels.jl : A Julia package for estimating [ARMA-GARCH](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) models.
 
 ## Finance
 
