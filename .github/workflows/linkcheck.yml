@@ -30,8 +30,9 @@ jobs:
         uses: actions/checkout@v4
       - name: Restore lychee cache
         id: restore-cache
-        uses: actions/cache/restore@v4
+        uses: actions/cache@v4
         with:
+          save-always: 'true'
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
@@ -43,9 +44,3 @@ jobs:
           args: '--accept 200,204,429 --verbose --no-progress --cache --max-cache-age 1d docs/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Save lychee cache
-        uses: actions/cache/save@v4
-        if: always()
-        with:
-          path: .lycheecache
-          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
