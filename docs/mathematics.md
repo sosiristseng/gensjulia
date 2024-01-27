@@ -207,6 +207,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/ITensor/ITensors.jl : A Julia library for efficient tensor calculations.
 - https://github.com/ahwillia/Einsum.jl : [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation) in julia.
 - https://github.com/mcabbott/Tullio.jl : Tullio is a very flexible [einsum](https://en.wikipedia.org/wiki/Einstein_notation) macro. A package for writing array operations in index notation.
+- https://github.com/willow-ahrens/Finch.jl : Finch is a cutting-edge Julia-to-Julia compiler specially designed for optimizing loop nests over sparse or structured multidimensional arrays.
 
 ## Digital signal processing (DSP)
 
@@ -236,18 +237,18 @@ See [[modeling-simulation]]
 
 [Wikipedia: Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials)
 
-- https://github.com/RJDennis/ChebyshevApprox.jl : Julia code to approximate continuous functions using Chebyshev polynomials.
-- https://github.com/timholy/CoordinateSplittingPTrees.jl : Accurate and efficient full-degree multidimensional polynomial interpolation.
 - https://github.com/andreasnoack/FastPolynomialRoots.jl : Fast and backward stable computation of roots of polynomials in Julia.
-- https://github.com/JuliaAlgebra/FixedPolynomials.jl : A package for really fast evaluation of multivariate polynomials. (No `Porject.toml`)
-- https://github.com/pjabardo/Jacobi.jl : Jacobi polynomials and Gauss quadrature related functions.
 - https://github.com/daviddelaat/MultiPoly.jl : Sparse multivariate polynomials in Julia. (No `Porject.toml`)
-- https://github.com/JuliaAlgebra/MultivariatePolynomials.jl : Multivariate polynomials and multivariate moments.
-- https://github.com/JuliaMath/Polynomials.jl : Polynomial manipulations and [PolyExt](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules.
 - https://github.com/giordano/PolynomialRoots.jl : Fast complex polynomial root finder, with support for arbitrary precision calculations
-- https://github.com/simonbyrne/Remez.jl : [Remez algorithm](https://en.wikipedia.org/wiki/Remez_algorithm) for computing minimax polynomial approximations.
+- https://github.com/JuliaAlgebra/FixedPolynomials.jl : A package for really fast evaluation of multivariate polynomials. (No `Porject.toml`)
+- https://github.com/JuliaAlgebra/MultivariatePolynomials.jl : Multivariate polynomials and multivariate moments.
 - https://github.com/JuliaAlgebra/SemialgebraicSets.jl : Extension of MultivariatePolynomials to semialgebraic sets.
 - https://github.com/JuliaIntervals/TaylorModels.jl : A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a Taylor polynomial. [📹 JuliaCon 2018](https://youtu.be/o1h7BUW04NI).
+- https://github.com/JuliaMath/Polynomials.jl : Polynomial manipulations and [PolyExt](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules.
+- https://github.com/pjabardo/Jacobi.jl : Jacobi polynomials and Gauss quadrature related functions.
+- https://github.com/RJDennis/ChebyshevApprox.jl : Julia code to approximate continuous functions using Chebyshev polynomials.
+- https://github.com/simonbyrne/Remez.jl : [Remez algorithm](https://en.wikipedia.org/wiki/Remez_algorithm) for computing minimax polynomial approximations.
+- https://github.com/timholy/CoordinateSplittingPTrees.jl : Accurate and efficient full-degree multidimensional polynomial interpolation.
 
 ## Functions
 
