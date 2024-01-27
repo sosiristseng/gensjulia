@@ -26,7 +26,6 @@ title: Data Science
 - https://github.com/JuliaData/Tables.jl : An generic interface for tables in Julia.
 - https://github.com/JuliaPy/Pandas.jl : A Julia front-end to Python's `pandas` package.
 
-
 ## Data Manipulation
 
 - https://github.com/JuliaData/TableOperations.jl : Common table operations on `Tables.jl` interface implementations.

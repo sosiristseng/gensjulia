@@ -15,12 +15,12 @@ General modeling and simulation packages in Julia.
 - [Workshop for `ModelingToolkit.jl`](https://youtu.be/HEVOgSLBzWA) : A Youtube video for JuliaCon 2021.
 - https://github.com/SciML/SciMLTutorials.jl : Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.
 
-## File IO for models
+## Loading model files
 
 - https://github.com/LCSB-BioCore/SBML.jl : Julia interface to the Systems Biology Markup Language (SBML) library.
-- https://github.com/SciML/SBMLToolkit.jl : importing models specified in the Systems Biology Markup Language (SBML) into the Julia SciML ecosystem.
 - https://github.com/SciML/CellMLToolkit.jl : a Julia library that connects `CellML` models to the Scientific Julia ecosystem.
 - https://github.com/SciML/ReactionNetworkImporters.jl : Loading BioNetGen `.net` file.
+- https://github.com/SciML/SBMLToolkit.jl : importing models specified in the Systems Biology Markup Language (SBML) into the Julia SciML ecosystem.
 
 ## Symbolic Computation
 
@@ -28,10 +28,10 @@ General modeling and simulation packages in Julia.
 
 - https://github.com/chakravala/Reduce.jl : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 - https://github.com/jlapeyre/Symata.jl : language for symbolic mathematics.
-- https://github.com/MilesCranmer/SymbolicRegression.jl : Distributed High-Performance symbolic regression in Julia.
-- https://github.com/JuliaSymbolics/Symbolics.jl : A fast and modern CAS for a fast and modern language.
-- https://github.com/symengine/SymEngine.jl : Julia wrappers of https://github.com/symengine/symengine.
 - https://github.com/JuliaPy/SymPy.jl : Julia interface to [SymPy](https://www.sympy.org/) via `PyCall.jl`.
+- https://github.com/JuliaSymbolics/Symbolics.jl : A fast and modern CAS for a fast and modern language.
+- https://github.com/MilesCranmer/SymbolicRegression.jl : Distributed High-Performance symbolic regression in Julia.
+- https://github.com/symengine/SymEngine.jl : Julia wrappers of https://github.com/symengine/symengine.
 
 ## Data structures
 
@@ -45,23 +45,23 @@ See also [[data-structures]].
 
 [Wikipedia: Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
+- https://github.com/BenLauwens/SimJulia.jl : A discrete event process oriented simulation framework written in Julia.
+- https://github.com/bradcarman/ModelingToolkitDesigner.jl : A helper tool for visualizing and editing a ModelingToolkit.jl system connections.
+- https://github.com/DrugowitschLab/DiffModels.jl : Diffusion Model simulation and first-passage time densities in Julia.
+- https://github.com/gabrevaya/LatentDiffEq.jl : A high-level Flux + DiffEq library solving Generative ODE modeling with Known Unknowns (GOKU). [JuliaCon 2021 video](https://youtu.be/jhIgs4swrMA)
+- https://github.com/jangevaare/Pathogen.jl : Utilities to simulate and perform inference of disease dynamics.
+- https://github.com/JuliaApproximation/SingularIntegralEquations.jl : An experimental Julia package for solving singular integral equations.
+- https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
+- https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving Riemann–Hilbert problems.
+- https://github.com/JuliaTurkuDataScience/FdeSolver.jl : A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.
+- https://github.com/ModiaSim/Modia.jl : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.
+- https://github.com/QuantumBFS/QuDiffEq.jl : Quantum Algorithms for solving differential equations
 - https://github.com/SciML/Catalyst.jl : Domain-specific language (DSL) for chemical reaction networks.
 - https://github.com/SciML/DataDrivenDiffEq.jl : Data driven modeling and automated discovery of dynamical systems.
 - https://github.com/SciML/DiffEqFlux.jl : Combining DifferentialEquations.jl and Flux.jl as its building blocks to support research in Scientific Machine Learning, specifically neural differential equations and universal differential equations.
-- https://github.com/SciML/SciMLSensitivity.jl : A component of the DiffEq ecosystem for sensitivity analysis.
 - https://github.com/SciML/DifferentialEquations.jl : High-performance solvers of differential equations.
-- https://github.com/DrugowitschLab/DiffModels.jl : Diffusion Model simulation and first-passage time densities in Julia.
-- https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
-- https://github.com/JuliaTurkuDataScience/FdeSolver.jl : A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.
-- https://github.com/gabrevaya/LatentDiffEq.jl : A high-level Flux + DiffEq library solving Generative ODE modeling with Known Unknowns (GOKU). [JuliaCon 2021 video](https://youtu.be/jhIgs4swrMA)
 - https://github.com/SciML/ModelingToolkit.jl : A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia.
-- https://github.com/bradcarman/ModelingToolkitDesigner.jl : A helper tool for visualizing and editing a ModelingToolkit.jl system connections.
-- https://github.com/ModiaSim/Modia.jl : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.
-- https://github.com/jangevaare/Pathogen.jl : Utilities to simulate and perform inference of disease dynamics.
-- https://github.com/QuantumBFS/QuDiffEq.jl : Quantum Algorithms for solving differential equations
-- https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving Riemann–Hilbert problems.
-- https://github.com/BenLauwens/SimJulia.jl : A discrete event process oriented simulation framework written in Julia.
-- https://github.com/JuliaApproximation/SingularIntegralEquations.jl : An experimental Julia package for solving singular integral equations.
+- https://github.com/SciML/SciMLSensitivity.jl : A component of the DiffEq ecosystem for sensitivity analysis.
 - https://github.com/SciML/Sundials.jl : A Julia package that interfaces to the [Sundials](https://computing.llnl.gov/projects/sundials) library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
 ### Partial Differential Equations
@@ -75,29 +75,29 @@ See also [[data-structures]].
 ---
 
 - https://github.com/CliMA/ClimaCore.jl : Tools for building spatial discretizations. [JuliaCon 2021 video](https://youtu.be/4bQvF3rGB84)
-- https://github.com/SciML/DiffEqOperators.jl : Linear operators for discretizations of differential equations.
-- https://github.com/JuliaFEM/FEMBasis.jl : Package contains interpolation routines for standard finite element function spaces.
-- https://github.com/PetrKryslUCSD/FinEtools.jl : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
+- https://github.com/cvdlab/LinearAlgebraicRepresentation.jl : Official Julia implementation of [LAR](https://linkinghub.elsevier.com/retrieve/pii/S001044851300184X), the Linear Algebraic Representation for Solid Modeling. LAR is a general representation scheme for geometric and topological modeling.
 - https://github.com/FourierFlows/FourierFlows.jl : Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains.
 - https://github.com/gridap/Gridap.jl : Grid-based approximation of PDEs with finite element (FE) discretizations.
-- https://github.com/lcw/Heptapus.jl : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
+- https://github.com/j-fu/VoronoiFVM.jl : Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method.
+- https://github.com/JuliaFEM/FEMBasis.jl : Package contains interpolation routines for standard finite element function spaces.
 - https://github.com/JuliaFEM/JuliaFEM.jl : Finite Element method solver.
+- https://github.com/JuliaParallel/PETSc.jl : A Julia interface for [PETSc](https://www.mcs.anl.gov/petsc/).
 - https://github.com/JuliaSmoothOptimizers/Krylov.jl : A Julia Basket of Hand-Picked Krylov Methods.
-- https://github.com/cvdlab/LinearAlgebraicRepresentation.jl : Official Julia implementation of [LAR](https://linkinghub.elsevier.com/retrieve/pii/S001044851300184X), the Linear Algebraic Representation for Solid Modeling. LAR is a general representation scheme for geometric and topological modeling.
+- https://github.com/lcw/Heptapus.jl : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
+- https://github.com/PetrKryslUCSD/FinEtools.jl : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
+- https://github.com/SciML/DiffEqOperators.jl : Linear operators for discretizations of differential equations.
 - https://github.com/SciML/MethodOfLines.jl : Automatic Finite Difference PDE solving with Julia.
 - https://github.com/SciML/NeuralOperators.jl : Learning the solution operator for partial differential equations in pure Julia.
 - https://github.com/SciML/NeuralPDE.jl : Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations.
-- https://github.com/JuliaParallel/PETSc.jl : A Julia interface for [PETSc](https://www.mcs.anl.gov/petsc/).
 - https://github.com/trixi-framework/Trixi.jl : Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.  [JuliaCon 2021 video](https://youtu.be/hoViWRAhCBE)
-- https://github.com/j-fu/VoronoiFVM.jl : Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method.
 
 ## Stochastic algorithms
 
 [Wikipedia: Stochastic simulation](https://en.wikipedia.org/wiki/Stochastic_simulation) algorithms (SSA) are also included in the `DifferentialEquations` ecosystem.
 
 - https://github.com/alanderos91/BioSimulator.jl : A stochastic simulation framework in Julia.
-- https://github.com/sdwfrost/Gillespie.jl : Stochastic Gillespie-type simulations using Julia.
 - https://github.com/SciML/StochasticDiffEq.jl : Solvers for stochastic differential equations in the SciML ecosystem.
+- https://github.com/sdwfrost/Gillespie.jl : Stochastic Gillespie-type simulations using Julia.
 
 ## Agent-based models
 
@@ -114,11 +114,11 @@ See also [[data-structures]].
 
 ## Utilities
 
-- https://github.com/SciML/DataInterpolations.jl : Data interpolation and smoothing functions.
-- https://github.com/JuliaDynamics/DrWatson.jl : dealing with simulations and simulation parameters.
-- https://github.com/SciML/SciMLBenchmarks.jl : Benchmarks for scientific machine learning (SciML) software and differential equation solvers.
 - https://github.com/JinraeKim/SimulationLogger.jl : providing convenient logging tools for `DifferentialEquations.jl`.
 - https://github.com/jonniedie/SimulationLogs.jl : Signal logging and scoping for `DifferentialEquations.jl` simulations.
+- https://github.com/JuliaDynamics/DrWatson.jl : dealing with simulations and simulation parameters.
+- https://github.com/SciML/DataInterpolations.jl : Data interpolation and smoothing functions.
+- https://github.com/SciML/SciMLBenchmarks.jl : Benchmarks for scientific machine learning (SciML) software and differential equation solvers.
 
 ## Others
 

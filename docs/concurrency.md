@@ -31,8 +31,8 @@ title: Concurrency
 
 ## Bindings
 
-- https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl : Julia interface to [OS X's Accelerate framework](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/).
 - https://github.com/JuliaGPU/ArrayFire.jl : Julia Wrapper for the [ArrayFire](https://arrayfire.com/) library.
+- https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl : Julia interface to [OS X's Accelerate framework](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/).
 - https://github.com/JuliaParallel/Elly.jl : [Hadoop](https://hadoop.apache.org/) HDFS and Yarn client.
 - https://github.com/JuliaParallel/Hwloc.jl : Wrapper to the [hwloc library](https://www.open-mpi.org/projects/hwloc/) to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading.
 
@@ -51,21 +51,21 @@ title: Concurrency
 
 ---
 
-- https://github.com/JuliaSIMD/LoopVectorization.jl : vectorize your for loop using the `@turbo` macro.
 - https://github.com/eschnett/SIMD.jl : Explicit SIMD vector operations for Julia.
+- https://github.com/JuliaSIMD/LoopVectorization.jl : vectorize your for loop using the `@turbo` macro.
 
 ## Multi-Threading
 
-- https://github.com/tkf/ThreadsX.jl : Multithreaded base functions such as `map()`, `reduce()`, `foreach()`.
-- https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires `lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
+- https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
 - https://github.com/JuliaFolds/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic iteration over complex collections.
+- https://github.com/tkf/ThreadsX.jl : Multithreaded base functions such as `map()`, `reduce()`, `foreach()`.
 
 ## Multiprocessing and Distributed Computing
 
 - [Wikipedia: Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.
 - [Wikipedia: Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 - [Julia at scale](https://discourse.julialang.org/c/domain/parallel/34) topic on discourse.
-- https://github.com/magerton/FARMTest.jl : Simple example scripts for running Julia on a SLURM, using https://github.com/kleinhenz/SlurmClusterManager.jl
+- https://github.com/magerton/FARMTest.jl : Simple example scripts for running Julia on a SLURM cluster, using https://github.com/kleinhenz/SlurmClusterManager.jl
 
 ---
 
@@ -77,6 +77,7 @@ title: Concurrency
 - https://github.com/JuliaParallel/DistributedArrays.jl : A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 - https://github.com/JuliaParallel/MPI.jl :  Julia interface to the Message Passing Interface ([MPI](https://www.mpi-forum.org/))
 - https://github.com/JuliaPluto/Malt.jl : a multiprocessing package for Julia. It is used by https://github.com/fonsp/Pluto.jl to manage the Julia process that notebook code is executed in, as a replacement to Distributed.
+- https://github.com/kleinhenz/SlurmClusterManager.jl : julia package for running code on slurm clusters. See https://github.com/magerton/FARMTest.jl for simple example scripts.
 - https://github.com/zgornel/DispatcherCache.jl : Tool for building and executing a computation graph given a series of dependent operations.
 
 ## GPU computing
@@ -87,13 +88,13 @@ title: Concurrency
 
 ---
 
+- https://github.com/hjabird/CVortex.jl : Julia wrapper for [cvortex](https://github.com/hjabird/cvortex) GPU accelerated vortex filament and vortex particle methods.
 - https://github.com/JuliaGPU/AMDGPU.jl : AMD GPU (ROCm) programming in Julia.
 - https://github.com/JuliaGPU/ArrayFire.jl : Julia Wrapper for the [ArrayFire](https://arrayfire.com/) library.
-- https://github.com/hjabird/CVortex.jl : Julia wrapper for [cvortex](https://github.com/hjabird/cvortex) GPU accelerated vortex filament and vortex particle methods.
 
 ### NVIDIA CUDA
 
-- https://github.com/JuliaGPU/CUDA.jl : CUDA programming in Julia. See also [JuliaCon 2021 video](https://youtu.be/fw0R5G8pB0U).
-- https://github.com/xiaodaigh/CuCountMap.jl : Fast `StatsBase.countmap` for small types on the GPU via `CUDA.jl`
 - https://github.com/JuliaFolds/FoldsCUDA.jl : provides `Transducers.jl`-compatible fold (reduce) implemented using `CUDA.jl`. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
+- https://github.com/JuliaGPU/CUDA.jl : CUDA programming in Julia. See also [JuliaCon 2021 video](https://youtu.be/fw0R5G8pB0U).
 - https://github.com/JuliaGPU/NVTX.jl : Julia bindings for [NVTX](https://nvidia.github.io/NVTX/doxygen/index.html), for instrumenting with the [Nvidia Nsight Systems profiler](https://developer.nvidia.com/nsight-systems). [JuliaCon 2023 video](https://www.youtube.com/watch?v=B7ZlScN_rk8).
+- https://github.com/xiaodaigh/CuCountMap.jl : Fast `StatsBase.countmap` for small types on the GPU via `CUDA.jl`

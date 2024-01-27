@@ -28,10 +28,10 @@ title: Hardware and Robotics
 ---
 
 - https://github.com/JuliaBerry/JuliaBerry.jl : An omnibus package with a high level API for controlling peripherals on the Raspberry Pi computer.
-- https://github.com/JuliaBerry/PiGPIO.jl : Manage external hardware using GPIO pins on the Raspberry Pi.
 - https://github.com/JuliaBerry/PiCraft.jl : Manipulate Minecraft on the Raspberry Pi from Julia.
-- https://github.com/JuliaIO/SerialPorts.jl : SerialPort IO streams in Julia backed by Python's `pySerial`. (With Python dependencies)
+- https://github.com/JuliaBerry/PiGPIO.jl : Manage external hardware using GPIO pins on the Raspberry Pi.
 - https://github.com/JuliaIO/LibSerialPort.jl : Julia wrapper for the [libserialport](https://github.com/sigrokproject/libserialport) C library.
+- https://github.com/JuliaIO/SerialPorts.jl : SerialPort IO streams in Julia backed by Python's `pySerial`. (With Python dependencies)
 
 ## Robots
 
@@ -39,9 +39,9 @@ title: Hardware and Robotics
 
 ---
 
+- https://github.com/jdlangs/RobotOS.jl : Julia interface to [ROS](http://wiki.ros.org/) (Robot Operating System).
 - https://github.com/JuliaRobotics/Caesar.jl : Robot toolkit: Towards non-parametric and parametric navigation solutions.
 - https://github.com/JuliaRobotics/MotionCaptureJointCalibration.jl : Kinematic calibration for robots using motion capture data.
 - https://github.com/JuliaRobotics/RigidBodyDynamics.jl : Julia implementation of various rigid body dynamics and kinematics algorithms.
-- https://github.com/jdlangs/RobotOS.jl : Julia interface to [ROS](http://wiki.ros.org/) (Robot Operating System).
 - https://github.com/JuliaRobotics/RigidBodySim.jl : Simulation and visualization of articulated rigid body systems in Julia.
 - https://github.com/rdeits/StrandbeestRobot.jl : Simulation of a 12-legged parallel walking mechanism in Julia, inspired by Theo Jansen's Strandbeest.

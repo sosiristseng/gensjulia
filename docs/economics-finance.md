@@ -24,8 +24,8 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 
 ## Finance
 
+- https://github.com/felipenoris/InterestRates.jl : Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures.
 - https://github.com/JuliaFinance/BusinessDays.jl : A highly optimized Business Days calculator written in Julia language. Also known as Working Days calculator.
 - https://github.com/JuliaFinance/Currencies.jl :  Simple checked fixed-point currencies for Julia.
-- https://github.com/felipenoris/InterestRates.jl : Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures.
 - https://github.com/JuliaQuant/MarketData.jl : Time series market data
 - https://github.com/JuliaQuant/Timestamps.jl : Immutable timestamped values.

@@ -77,7 +77,7 @@ Julia has built-in [Fortran interface](https://docs.julialang.org/en/v1/manual/c
 - https://github.com/magonser/FStrings.jl : Implementation of Python style [fsrings](https://peps.python.org/pep-0498/) literal string interpolation based on `Printf.@sprintf`.
 - https://github.com/JuliaPy/PyCall.jl : Call Python functions from Julia.
 - https://github.com/JuliaPy/pyjulia : Python interface to Julia. (Call Julia functions from Python)
-- https://github.com/cjdoris/PythonCall.jl : Bringing Python and Julia code in harmony. You can also call Julia from Python.
+- https://github.com/JuliaPy/PythonCall.jl : Bringing Python and Julia code in harmony. You can also call Julia from Python.
 
 ## R
 

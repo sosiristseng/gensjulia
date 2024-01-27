@@ -41,12 +41,12 @@ title: Web
 - https://github.com/EricForgy/Pages.jl : A simple way to create and interact with web pages.
 - https://github.com/GenieFramework/Genie.jl : The highly productive Julia web framework.
 - https://github.com/JuliaGizmos/Blink.jl : Julia wrapper around [Electron](https://electronjs.org/).
+- https://github.com/JuliaGizmos/WebIO.jl : WebIO provides a simple abstraction for displaying and interacting with web content.
 - https://github.com/neomatrixcode/Diana.jl : [GraphQL](http://graphql.org/) for Julia.
 - https://github.com/neomatrixcode/Merly.jl : A micro framework for web programming in Julia.
 - https://github.com/plotly/Dash.jl : A Julia interface to the [Dash](https://plotly.com/dash/) ecosystem for creating analytic web applications in Julia.
 - https://github.com/SimonDanisch/Bonito.jl : Easy way of building interactive applications from Julia.
 - https://github.com/wookay/Bukdu.jl : A web development framework for Julia, influenced by [Phoenix framework](https://www.phoenixframework.org/).
-- https://github.com/JuliaGizmos/WebIO.jl : WebIO provides a simple abstraction for displaying and interacting with web content.
 
 ## Middleware
 
@@ -67,14 +67,14 @@ title: Web
 ## Security
 
 - https://github.com/JuliaCloud/GoogleCloud.jl : OAuth2 support for Julia.
-- https://github.com/tanmaykm/OpenIDConnect.jl : [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) is a simple identity layer on top of the OAuth 2.0 protocol.
 - https://github.com/JuliaLang/MbedTLS.jl : Wrapper around [mbedtls](https://tls.mbed.org/).
+- https://github.com/tanmaykm/OpenIDConnect.jl : [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) is a simple identity layer on top of the OAuth 2.0 protocol.
 
 ## URI and URL
 
-- https://github.com/rahulkp220/Tinyurl.jl : The simplest URL shortener for Julia.
 - https://github.com/JuliaWeb/UAParser.jl : UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 - https://github.com/JuliaWeb/URIs.jl : URI parsing in Julia.
+- https://github.com/rahulkp220/Tinyurl.jl : The simplest URL shortener for Julia.
 
 ## Static site generators
 
@@ -82,11 +82,14 @@ title: Web
 
 ### Franklin.jl
 
-- https://github.com/tlienart/Franklin.jl : static site generation with live Julia code evaulation.
-- https://github.com/tlienart/FranklinTemplates.jl
+https://github.com/tlienart/Franklin.jl : static site generation with live Julia code evaulation.
+
+- https://github.com/tlienart/FranklinTemplates.jl : Simple website templates for Franklin.jl
 - https://tlienart.github.io/PkgPage.jl : package front-pages powered by `Franklin.jl`.
 
 ### Pluto.jl
+
+https://github.com/fonsp/Pluto.jl : Simple reactive notebooks for Julia.
 
 - https://github.com/JuliaPluto/PlutoSliderServer.jl : Web server to host Pluto notebooks supporting static conversion to HTML files.
 - https://github.com/rikhuijzer/PlutoStaticHTML.jl : Convert Pluto notebooks to pure HTML files. [Template for Julia tutorials](https://rikhuijzer.github.io/JuliaTutorialsTemplate/).
