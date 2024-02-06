@@ -24,10 +24,11 @@ Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
 ## Makie.jl
 
-https://github.com/MakieOrg/Makie.jl : High level plotting on the GPU. Examples at https://docs.makie.org/stable/ and https://github.com/lazarusA/BeautifulMakie.
+https://github.com/MakieOrg/Makie.jl : High level plotting on the GPU. Examples: https://docs.makie.org/stable/ and https://github.com/lazarusA/BeautifulMakie.
 
 - https://github.com/MakieOrg/GraphMakie.jl : Plotting graph structures with `Makie.jl`.
 - https://github.com/BioJulia/BioMakie.jl : plotting functions for protein structures, multiple sequence alignments, and some other related plots like protein structure contact maps. [JuliaCon 2023 video](https://www.youtube.com/watch?v=-C7Zbh6UTgk)
+- https://github.com/sefffal/PairPlots.jl : This package produces pair plots, otherwise known as corner plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 
 ## Gadfly
 
