@@ -27,7 +27,7 @@ jobs:
         with:
           fetch-depth: 0 # full history
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         id: cp
         with:
           python-version: ${{ env.PY_VER }}
