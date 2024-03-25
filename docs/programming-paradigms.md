@@ -50,7 +50,7 @@ title: Programming Paradigms
 - https://github.com/oxinabox/Pipe.jl : Improved function piping in Julia.
 - https://github.com/pao/Monads.jl : Monadic expressions and sequences for Julia. [hSee the doc](https://monadsjl.readthedocs.io/en/latest/).
 - https://github.com/swadey/LispSyntax.jl : lisp-like language in julia. [LispREPL.jl](https://github.com/swadey/LispREPL.jl) : REPL for `LispSyntax.jl`.
-- https://github.com/vtjnash/Glob.jl : Posix-compliant file name pattern matching.
+- https://github.com/vtjnash/Glob.jl : POSIX-compliant file name pattern matching.
 
 ## Reactive Programming
 
@@ -71,12 +71,6 @@ title: Programming Paradigms
 [Wikipedia: Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing))
 
 - https://github.com/JuliaDebug/JuliaInterpreter.jl : Interpreter for Julia code.
-
-## Transplier
-
-[Wikipedia: Transpilers](https://en.wikipedia.org/wiki/Source-to-source_compiler)
-
-- https://github.com/kskyten/Transpilers.jl : a common interface for transpiling code into Julia.
 
 ## Macro and Metaprogramming
 
