@@ -29,7 +29,7 @@ title: Graph Theory
 ## Graph algorithms
 
 - [aleph_star](https://github.com/imagry/aleph_star) : Reinforcement learning with A* and a deep heuristic.
-- [Wikipedia: Graphal gorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
+- [Wikipedia: Graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
 
 ---
 
@@ -43,7 +43,8 @@ title: Graph Theory
 - https://github.com/JuliaGraphs/MatrixNetworks.jl : Graph and Network algorithms.
 - https://github.com/JuliaGraphs/NetworkLayout.jl : Layout algorithms for graphs and trees in pure Julia.
 - https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl : Julia wrapper for SuiteSparse:GraphBLAS.
-- https://github.com/mtfishman/ITensorNetworks.jl : eneral tools for working with higher-dimensional tensor networks based on ITensors.jl.
+- https://github.com/mlewe/BlossomV.jl : An interface for the [Blossom V](https://pub.ista.ac.at/~vnk/software.html) perfect (graph) matching algorithm. (**paid commercial license**)
+- https://github.com/mtfishman/ITensorNetworks.jl : general tools for working with higher-dimensional tensor networks based on ITensors.jl.
 - https://github.com/oxinabox/LayeredLayouts.jl : Layered Layout Algorithms for Directed Acyclic Graphs (DAGs).
 
 ## Visualizing Graphs

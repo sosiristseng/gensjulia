@@ -39,7 +39,7 @@ title: Home
 ### Julia Events
 
 - [Julia events](https://julialang.org/community/#events)
-- [JuliaCon](https://juliacon.org/) is an annual technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The website is hoste at [juliacon.github.io](https://github.com/JuliaCon/www.juliacon.org). It is created using `Franklin.jl`, and is served by Github pages.
+- [JuliaCon](https://juliacon.org/) is an annual technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The website is hosted at [juliacon.github.io](https://github.com/JuliaCon/www.juliacon.org). It is created using `Franklin.jl`, and is served by Github pages.
 
 ### Research papers using Julia
 
@@ -76,7 +76,7 @@ Official Julia learning site: [Get started with Julia](https://julialang.org/lea
 
 - [Julia Cheatsheet](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 - [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia/)
-- [Julia-cheatsheet.pdf](https://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) : StevenJ's Julia cheatsheet.
+- [Julia-cheatsheet.pdf](https://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) : StevenJ's Julia cheat sheet.
 - [Julia express](https://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
 
 ### Coding practice
@@ -99,7 +99,7 @@ Official Julia learning site: [Get started with Julia](https://julialang.org/lea
 
 ### Learn Julia by examples
 
-- [Fall in Love with Julia](https://github.com/jolin-io/fall-in-love-with-julia): An introductory 101 series to get to know the power of Julialang.
+- [Fall in Love with Julia](https://github.com/jolin-io/fall-in-love-with-julia): An introductory 101 series to get to know the power of Julia.
 - [Intermediate Julia workshop](https://github.com/dpsanders/intermediate_julia_2019), held at JuliaCon 2019, Baltimore, Maryland, USA
 - [Introduction to Applied Linear Algebra in Julia](https://web.stanford.edu/~boyd/vmls/)
 - [Julia by example](https://juliabyexample.helpmanual.io/)

@@ -8,5 +8,19 @@
     "tag:yaml.org,2002:python/name:materialx.emoji.to_svg",
     "tag:yaml.org,2002:python/name:materialx.emoji.twemoji",
     "tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format"
+  ],
+  "cSpell.words": [
+    "Armin",
+    "Biere",
+    "BLAS",
+    "Bogumil",
+    "Kaminski",
+    "metaprogramming",
+    "picosat",
+    "POSIX",
+    "Quantile",
+    "Rackauckas",
+    "satisfiability",
+    "transpiling"
   ]
 }

@@ -18,14 +18,6 @@ title: Algorithms
 - https://github.com/JuliaStrings/NaturalSort.jl : [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order).
 - https://github.com/xiaodaigh/SortingLab.jl : Experimental faster sorting algorithms.
 
-## Pattern Matching
-
-- https://github.com/jolin-io/SimpleMatch.jl : a simple Julia pattern matching package providing only the `@match` macro.
-- https://github.com/JuliaServices/Match.jl : Advanced Pattern Matching for Julia.
-- https://github.com/JuliaStats/Loess.jl : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
-- https://github.com/mlewe/BlossomV.jl : An interface for the Blossom V perfect (graph) matching algorithm. (**paid license**)
-- https://github.com/thautwarm/MLStyle.jl : Julia functional programming infrastructures and metaprogramming facilities.
-
 ## NP-complete Problems
 
 [Wikipedia: NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems) problems cannot be solved in polynomial time complexity and often have to be inexactly solved using heuristics.

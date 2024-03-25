@@ -52,6 +52,14 @@ title: Programming Paradigms
 - https://github.com/swadey/LispSyntax.jl : lisp-like language in julia. [LispREPL.jl](https://github.com/swadey/LispREPL.jl) : REPL for `LispSyntax.jl`.
 - https://github.com/vtjnash/Glob.jl : POSIX-compliant file name pattern matching.
 
+### Pattern matching
+
+- [Wikipedia pattern matching](https://en.wikipedia.org/wiki/Pattern_matching)
+
+- https://github.com/jolin-io/SimpleMatch.jl : a simple Julia pattern matching package providing only the `@match` macro.
+- https://github.com/JuliaServices/Match.jl : Advanced Pattern Matching for Julia.
+- https://github.com/thautwarm/MLStyle.jl : Julia functional programming infrastructures and metaprogramming facilities.
+
 ## Reactive Programming
 
 [Wikipedia: Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)

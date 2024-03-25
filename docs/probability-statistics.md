@@ -26,7 +26,7 @@ title: Probability and Statistics
 
 [Wikipedia: Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process)
 
-### Markovian
+### Markov Logic Network
 
 [Wikipedia: Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 
@@ -51,11 +51,12 @@ title: Probability and Statistics
 
 - https://github.com/ahwillia/NonNegLeastSquares.jl : Some nonnegative least squares solvers in Julia.
 - https://github.com/FixedEffects/FixedEffectModels.jl : Fast estimation of linear models with IV and high dimensional categorical variables.
-- https://github.com/francescoalemanno/KissSmoothing.jl : Easily smooth your data with a `denoise()` funtion.
+- https://github.com/francescoalemanno/KissSmoothing.jl : Easily smooth your data with a `denoise()` function.
 - https://github.com/joshday/SparseRegression.jl : Statistical Models with Regularization in Pure Julia.
 - https://github.com/JuliaStats/GLM.jl : Linear models (LM) and generalized linear models (GLM).
 - https://github.com/JuliaStats/GLMNet.jl : Julia wrapper for [glmnet](https://www.jstatsoft.org/article/view/v033i01), fitting Lasso/ElasticNet GLM models.
 - https://github.com/JuliaStats/Lasso.jl : Lasso solvers for linear and generalized linear models.
+- https://github.com/JuliaStats/Loess.jl : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 - https://github.com/JuliaStats/MixedModels.jl : A Julia package for fitting (statistical) mixed-effects models.
 - https://github.com/JuliaStats/Survival.jl : A Julia package for performing [survival analysis](https://en.wikipedia.org/wiki/Survival_analysis).
 - https://github.com/pjabardo/CurveFit.jl : Simple least squares and curve fitting functions.
