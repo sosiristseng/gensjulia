@@ -122,7 +122,7 @@ See also [[data-science]]
 - https://github.com/queryverse/ExcelReaders.jl : A package that provides functionality to read Excel files.
 - https://github.com/sambitdash/LabelNumerals.jl : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc.
 - https://github.com/sambitdash/PDFIO.jl : PDF Reader Library for native Julia.
-- https://github.com/sylvaticus/OdsIO.jl : Open Document Format Spreadsheet (ODS) I/O for Julia using the python ezodf module.
+- https://github.com/sylvaticus/OdsIO.jl : Open Document Format Spreadsheet (ODS) I/O for Julia using the python [ezodf](https://github.com/T0ha/ezodf) module.
 
 ### LaTeX
 
@@ -131,6 +131,7 @@ See also [[data-science]]
 ---
 
 - https://github.com/chakravala/VerTeX.jl : typeset scattered graph data rewriter based on LaTeX nodes.
+- https://github.com/co1emi11er2/Handcalcs.jl : converting Julia calculations into rendered LaTeX.
 - https://github.com/korsbo/Latexify.jl : Convert julia objects to LaTeX equations, arrays or other environments.
 - https://github.com/MichaelHatherly/Tectonic.jl : Julia interface for the [tectonic](https://github.com/tectonic-typesetting/tectonic) LaTeX engine.
 - https://github.com/oxinabox/Expr2LaTeX.jl : Take a julia `Expr` and render it as LaTeX.
