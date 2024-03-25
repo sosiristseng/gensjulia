@@ -14,13 +14,21 @@
     "Biere",
     "BLAS",
     "Bogumil",
+    "Jacobians",
     "Kaminski",
+    "Knitr",
+    "libclang",
+    "Lobatto",
     "metaprogramming",
+    "pandoc",
     "picosat",
     "POSIX",
+    "Pweave",
     "Quantile",
     "Rackauckas",
+    "Radau",
     "satisfiability",
+    "Sweave",
     "transpiling"
   ]
 }
