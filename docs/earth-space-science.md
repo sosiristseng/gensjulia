@@ -59,6 +59,7 @@ title: Earth and Space Science
 
 - https://github.com/AIRCentre/SARProcessing.jl : processing of synthetic aperture radar (SAR) data, including loading [Single-Look-Complex][] (SLC) and [Ground-Range-Detected][] (GRD) images, speckle reduction, object detection in SAR image, interferometry, and more. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=HONx0bzFneU)
 - https://github.com/GenericMappingTools/GMT.jl :Julia wrapper for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt)(GMT).
+- https://github.com/JuliaEarth/CoordRefSystems.jl : Unitful coordinate reference systems for geographic maps in Julia.
 - https://github.com/JuliaEarth/GeoStats.jl : An extensible framework for high-performance geostatistics in Julia.
 - https://github.com/JuliaEarth/GeoStatsImages.jl : Training images for geostastical simulation.
 - https://github.com/JuliaEarth/GslibIO.jl : Utilities to read/write extended GSLIB files in Julia.
