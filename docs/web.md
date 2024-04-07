@@ -29,12 +29,12 @@ title: Web
 ## Server backends
 
 - https://github.com/Arkoniak/Telegram.jl : Native Julia [Telegram bot api](https://core.telegram.org/bots/api#available-methods) wrapper.
-- https://github.com/fredrikekre/Canvas.jl (by @fredrikekre) : a Julia package for interacting with the [Canvas LMS REST API](https://canvas.instructure.com/doc/api/), which is a online education [platform](https://www.instructure.com/).
+- https://github.com/fredrikekre/Canvas.jl : a Julia package for interacting with the [Canvas LMS REST API](https://canvas.instructure.com/doc/api/), a online education [platform](https://www.instructure.com/).
 - https://github.com/Humans-of-Julia/HoJBot.jl : The Discord bot for Humans of Julia community server.
 - https://github.com/Joseki-jl/Joseki.jl : Suggested opening moves for building APIs in Julia.
 - https://github.com/joshday/NewsAPI.jl : Helper functions for using [newsapi.org](https://newsapi.org)
 - https://github.com/randyzwitch/Twitter.jl : Julia package to access the Twitter API.
-- https://github.com/Xh4H/Discord.jl : Julia Discord wrapper.
+- https://github.com/Xh4H/Discord.jl : Julia Discord API wrapper.
 
 ## Web frameworks
 
