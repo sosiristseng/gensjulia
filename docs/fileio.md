@@ -137,6 +137,7 @@ See also [[data-science]]
 - https://github.com/oxinabox/Expr2LaTeX.jl : Take a julia `Expr` and render it as LaTeX.
 - https://github.com/scheinerman/LatexPrint.jl : Print Julia objects in a form suitable for LaTeX mathematics mode.
 - https://github.com/stevengj/LaTeXStrings.jl : Convenient input and display of LaTeX equation strings for the Julia language.
+- https://github.com/PumasAI/SummaryTables.jl : A Julia package for creating publication-ready summary tables in HTML, docx, LaTeX and Typst.
 
 ### Citations
 
