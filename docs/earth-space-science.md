@@ -2,7 +2,7 @@
 title: Earth and Space Science
 ---
 
-> Climate modeling, ecology, cartography, GIS, Meteorology, astrophysicas, astronomy, etc., in Julia.
+> Climate modeling, ecology, cartography, GIS, Meteorology, astrophysics, astronomy, etc., in Julia.
 
 ## Seismology
 

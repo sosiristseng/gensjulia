@@ -19,7 +19,7 @@ title: Web
 - https://github.com/JuliaWeb/GeoIP.jl : estimating the geographic location of IP addresses.
 - https://github.com/JuliaWeb/Gumbo.jl : Julia wrapper around Google's [gumbo](https://github.com/google/gumbo-parser) HTML parser.
 - https://github.com/JuliaWeb/Hyperscript.jl : A lightweight DOM representation for working with HTML, SVG, and CSS in Julia.
-- https://github.com/MillironX/Kelpie.jl : an HTML templating engine in Julia.
+- https://github.com/MillironX/Kelpie.jl : an HTML template engine in Julia.
 - https://github.com/tkf/DisplayAs.jl : to show objects in a chosen MIME type.
 
 ## Email
@@ -82,7 +82,7 @@ title: Web
 
 ### Franklin.jl
 
-https://github.com/tlienart/Franklin.jl : static site generation with live Julia code evaulation.
+https://github.com/tlienart/Franklin.jl : static site generation with live Julia code evaluation.
 
 - https://github.com/tlienart/FranklinTemplates.jl : Simple website templates for Franklin.jl
 - https://tlienart.github.io/PkgPage.jl : package front-pages powered by `Franklin.jl`.

@@ -128,7 +128,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/JuliaFolds/FGenerators.jl : A package for defining `Transducers.jl`-compatible extended foldl with a simple `@yield`-based syntax.
 - https://github.com/JuliaFolds/Transducers.jl : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
 - https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl : Partly to extend linear algebra functionality in base to cover generic element types, e.g. `BigFloat` and `Quaternion`, and partly to be a place to experiment with fast linear algebra routines.
-- https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl : Iterative algorithms for solving linear systems, eigensystems, and singular value problems.
+- https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl : Iterative algorithms for solving linear systems, eigen systems, and singular value problems.
 - https://github.com/JuliaLinearAlgebra/LinearMaps.jl : A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 - https://github.com/JuliaLinearAlgebra/MKL.jl : Intel MKL linear algebra backend for Julia.
 - https://github.com/JuliaMath/IntelVectorMath.jl : Julia bindings for the Intel Vector Math Library.
@@ -172,7 +172,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 
 > Special Array/Matrix Algorithms, for Array Types, see Data Types section.
 
-- https://github.com/IshitaTakeshi/KSVD.jl : K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
+- https://github.com/IshitaTakeshi/KSVD.jl : K-SVD is an algorithm for creating over-complete dictionaries for sparse representations.
 - https://github.com/JuliaArrays/CatIndices.jl : Julia package for indices-aware array concatenation and growth.
 - https://github.com/JuliaArrays/EndpointRanges.jl : Julia package for doing arithmetic on endpoints in array indexing.
 - https://github.com/JuliaArrays/PaddedViews.jl : Add virtual padding to the edges of an array.
@@ -206,7 +206,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/ahwillia/Einsum.jl : [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation) in julia.
 - https://github.com/chakravala/AbstractTensors.jl : Tensor algebra abstract type interoperability with vector bundle parameter.
 - https://github.com/ITensor/ITensors.jl : A Julia library for efficient tensor calculations.
-- https://github.com/mcabbott/Tullio.jl : Tullio is a very flexible [einsum](https://en.wikipedia.org/wiki/Einstein_notation) macro. A package for writing array operations in index notation.
+- https://github.com/mcabbott/Tullio.jl : A very flexible [einsum](https://en.wikipedia.org/wiki/Einstein_notation) macro. A package for writing array operations in index notation.
 - https://github.com/willow-ahrens/Finch.jl : Finch is a cutting-edge Julia-to-Julia compiler specially designed for optimizing loop nests over sparse or structured multidimensional arrays.
 
 ## Digital signal processing (DSP)
@@ -217,7 +217,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/JuliaDSP/Wavelets.jl : Fast Discrete Wavelet Transforms written in Julia by JuliaDSP.
 - https://github.com/nantonel/ImageMethodReverb.jl : Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
 - https://github.com/sairus7/SortFilters.jl : Fast moving quantile filters implemented as fast moving window sort algorithm.
-- https://github.com/stevengj/MDCT.jl : This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
+- https://github.com/stevengj/MDCT.jl : This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine transform (DCT-IV) functions in Julia (via FFTW).
 
 ### Fast Fourier transform (FFT)
 
@@ -238,11 +238,11 @@ See [[modeling-simulation]]
 [Wikipedia: Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials)
 
 - https://github.com/andreasnoack/FastPolynomialRoots.jl : Fast and backward stable computation of roots of polynomials in Julia.
-- https://github.com/daviddelaat/MultiPoly.jl : Sparse multivariate polynomials in Julia. (No `Porject.toml`)
+- https://github.com/daviddelaat/MultiPoly.jl : Sparse multivariate polynomials in Julia. (No `Project.toml`)
 - https://github.com/giordano/PolynomialRoots.jl : Fast complex polynomial root finder, with support for arbitrary precision calculations
-- https://github.com/JuliaAlgebra/FixedPolynomials.jl : A package for really fast evaluation of multivariate polynomials. (No `Porject.toml`)
+- https://github.com/JuliaAlgebra/FixedPolynomials.jl : A package for really fast evaluation of multivariate polynomials. (No `Project.toml`)
 - https://github.com/JuliaAlgebra/MultivariatePolynomials.jl : Multivariate polynomials and multivariate moments.
-- https://github.com/JuliaAlgebra/SemialgebraicSets.jl : Extension of MultivariatePolynomials to semialgebraic sets.
+- https://github.com/JuliaAlgebra/SemialgebraicSets.jl : Extension of MultivariatePolynomials to semi-algebraic sets.
 - https://github.com/JuliaIntervals/TaylorModels.jl : A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a Taylor polynomial. [📹 JuliaCon 2018](https://youtu.be/o1h7BUW04NI).
 - https://github.com/JuliaMath/Polynomials.jl : Polynomial manipulations and [PolyExt](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules.
 - https://github.com/pjabardo/Jacobi.jl : Jacobi polynomials and Gauss quadrature related functions.
