@@ -123,6 +123,7 @@ See also [[data-science]]
 - https://github.com/sambitdash/LabelNumerals.jl : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc.
 - https://github.com/sambitdash/PDFIO.jl : PDF Reader Library for native Julia.
 - https://github.com/sylvaticus/OdsIO.jl : Open Document Format Spreadsheet (ODS) I/O for Julia using the python [ezodf](https://github.com/T0ha/ezodf) module.
+- https://github.com/PumasAI/WriteDocx.jl : A Julia package to create docx files for Microsoft Word from scratch.
 
 ### LaTeX
 
