@@ -13,9 +13,6 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-env:
-  PY_VER: '3.12'
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,11 +25,20 @@ jobs:
           fetch-depth: 0 # full history
       - name: Setup Python
         uses: actions/setup-python@v5
-        id: cp
+        id: setup-python
         with:
-          python-version: ${{ env.PY_VER }}
-          cache: 'pip'
-      - name: Install python packages
+          python-version: '3.x'
+      - name: Cache python
+        uses: actions/cache@v4
+        if: ${{ contains(runner.name, 'GitHub Actions') }}
+        id: cache-py
+        with:
+          key: ${{ runner.os }}-pip-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('requirements.txt') }}
+          path: |
+            ${{ env.pythonLocation }}/lib
+            ${{ env.pythonLocation }}/bin
+      - name: Install Python dependencies
+        if: ${{ !contains(runner.name, 'GitHub Actions') || steps.cache-py.outputs.cache-hit != 'true' }}
         run: pip install -r requirements.txt
       - name: Setup Pages
         id: pages

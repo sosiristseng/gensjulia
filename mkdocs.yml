@@ -26,6 +26,9 @@ plugins:
   - search
   - ezlinks
   - callouts
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      enable_creation_date: !ENV [CI, false]
 
 # Theme configuration
 # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
@@ -73,6 +76,7 @@ theme:
 
 exclude_docs: |
   drafts/
+  .obsidian/
   _templates/
 
 # Social buttons at bottom
@@ -83,13 +87,14 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/sosiristseng
     - icon: fontawesome/brands/orcid
-      link: https://orcid.org/0000-0000-0000-0000
+      link: https://orcid.org/0000-0003-3858-4622
 
 # Extensions:
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/
 # https://python-markdown.github.io/extensions/
 # https://facelessuser.github.io/pymdown-extensions/
 markdown_extensions:
+  - nl2br  # for mkdocs-callouts
   - abbr
   - admonition
   - attr_list
