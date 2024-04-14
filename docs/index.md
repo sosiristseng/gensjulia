@@ -10,7 +10,6 @@ title: Home
 
 - [JuliaHub packages](https://juliahub.com/ui/Packages)
 - [Package announcement](https://discourse.julialang.org/c/package-announcements) in the Julia discourse forums.
-- [juliapackages.com](https://juliapackages.com/) (might be outdated, see [this thread](https://discourse.julialang.org/t/awesome-julia-a-list-of-anything-julia-worth-of-seeing/103371/18))
 - [Julia.jl](https://github.com/svaksha/Julia.jl) : Curated decibans of Julia programming language. (last updated on [Jul 14, 2022](https://github.com/svaksha/Julia.jl/commit/c3985aeb1eb78fcde4648887dc5f6c7960503aa1))
 
 ## Julia communities
