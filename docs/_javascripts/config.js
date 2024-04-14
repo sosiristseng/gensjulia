@@ -1,18 +1,18 @@
-// window.MathJax = {
-//     loader: { load: ['[tex]/mhchem'] },
-//     tex: {
-//         packages: { '[+]': ['mhchem'] },
-//         inlineMath: [["\\(", "\\)"]],
-//         displayMath: [["\\[", "\\]"]],
-//         processEscapes: true,
-//         processEnvironments: true
-//     },
-//     options: {
-//         ignoreHtmlClass: ".*|",
-//         processHtmlClass: "arithmatex"
-//     }
-// };
+window.MathJax = {
+    loader: { load: ['[tex]/mhchem'] },
+    tex: {
+        packages: { '[+]': ['mhchem'] },
+        inlineMath: [["\\(", "\\)"]],
+        displayMath: [["\\[", "\\]"]],
+        processEscapes: true,
+        processEnvironments: true
+    },
+    options: {
+        ignoreHtmlClass: ".*|",
+        processHtmlClass: "arithmatex"
+    }
+};
 
-// document$.subscribe(() => {
-//     MathJax.typesetPromise()
-// })
+document$.subscribe(() => {
+    MathJax.typesetPromise()
+})
