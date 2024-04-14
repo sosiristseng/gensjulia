@@ -3,7 +3,7 @@ name: Check markdown links
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *' # Every month
+    - cron: '00 00 * * 1' # Every week
   push:
     branches:
       - main
@@ -11,12 +11,6 @@ on:
       - 'docs/**'
       - '.lycheeignore'
       - '.github/workflows/linkcheck.yml'
-  pull_request:
-    branches:
-      - main
-    paths:
-      - 'docs/**'
-      - '.lycheeignore'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -25,6 +19,8 @@ concurrency:
 jobs:
   linkcheck:
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,7 +36,15 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.3
         id: lychee
         with:
-          fail: true
           args: '--accept 200,204,429 --verbose --no-progress --cache --max-cache-age 1d docs/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Issue From File
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: |
+            report
+            automated issue
