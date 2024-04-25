@@ -33,7 +33,7 @@ jobs:
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
       - name: Lychee Checker
-        uses: lycheeverse/lychee-action@v1.9.3
+        uses: lycheeverse/lychee-action@v1.10.0
         id: lychee
         with:
           args: '--accept 200,204,429 --verbose --no-progress --cache --max-cache-age 1d docs/'
