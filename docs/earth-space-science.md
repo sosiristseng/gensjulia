@@ -110,7 +110,7 @@ title: Earth and Space Science
 
 - https://github.com/cormullion/Astro.jl : Jan Meeus astronomical formulas and some time/date code in Julia.
 - https://github.com/crbinz/Interplanetary.jl : Functions for low-fidelity interplanetary navigation and guidance simulations.
-- https://github.com/JuliaAstro/AstroLib.jl : Bundle of small astronomical and astrophysical routines, based on [IDL Astronomy User's Library](http://idlastro.gsfc.nasa.gov/homepage.html) (AstroLib).
+- https://github.com/JuliaAstro/AstroLib.jl : Bundle of small astronomical and astrophysical routines, based on [IDL Astronomy User's Library](https://asd.gsfc.nasa.gov/archive/idlastro/) (AstroLib).
 - https://github.com/JuliaAstro/Cosmology.jl : Cosmology library for Julia.
 - https://github.com/JuliaAstro/DustExtinction.jl : Tools for interstellar dust extinction in astronomy
 - https://github.com/JuliaAstro/ERFA.jl : Julia wrapper for [liberfa](https://github.com/liberfa/erfa) (Essential Routines for Fundamental Astronomy), which is based on the [SOFA](http://www.iausofa.org) library.
