@@ -125,7 +125,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/chakravala/Leibniz.jl : Operator algebras for mixed-symmetry multivariate differentiable tensor fields.
 - https://github.com/christianpeel/LLLplus.jl : LLL lattice reduction, sphere decoder, and related lattice tools.
 - https://github.com/gragusa/Divergences.jl : A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
-- https://github.com/JuliaFolds/FGenerators.jl : A package for defining `Transducers.jl`-compatible extended foldl with a simple `@yield`-based syntax.
+- https://github.com/JuliaFolds/FGenerators.jl : A package for defining `Transducers.jl`-compatible extended `foldl` with a simple `@yield`-based syntax.
 - https://github.com/JuliaFolds/Transducers.jl : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
 - https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl : Partly to extend linear algebra functionality in base to cover generic element types, e.g. `BigFloat` and `Quaternion`, and partly to be a place to experiment with fast linear algebra routines.
 - https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl : Iterative algorithms for solving linear systems, eigen systems, and singular value problems.
@@ -183,7 +183,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/JuliaMatrices/SpecialMatrices.jl : Julia package for working with special matrix types.
 - https://github.com/JuliaMatrices/ToeplitzMatrices.jl : Fast matrix multiplication and division for Toeplitz matrices in Julia.
 - https://github.com/JuliaStats/PDMats.jl : Uniform Interface for positive definite matrices of various structures.
-- https://github.com/MichielStock/Kronecker.jl : A general-purpose toolbox for efficient Kronecker-based algebra that combines lazy evaluation and algebraic tricks such that it can implicitely work with huge matrices. It allows to work with large Kronecker systems both much faster and using much less memory than the naive implementation of the [Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product).
+- https://github.com/MichielStock/Kronecker.jl : A general-purpose toolbox for efficient Kronecker-based algebra that combines lazy evaluation and algebraic tricks such that it can implicitly work with huge matrices. It allows to work with large Kronecker systems both much faster and using much less memory than the naive implementation of the [Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product).
 - https://github.com/timholy/AxisAlgorithms.jl : Efficient filtering and linear algebra routines for multidimensional arrays.
 - https://github.com/timholy/PositiveFactorizations.jl : Positive-definite (approximations) to matrices.
 - https://github.com/timholy/WoodburyMatrices.jl : Library support for the [Woodbury matrix identity](https://en.wikipedia.org/wiki/Woodbury_matrix_identity).
@@ -194,7 +194,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 [Wikipedia: Sparse Matrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices)
 
 - https://github.com/FixedEffects/InteractiveFixedEffectModels.jl : Estimate factor models on sparse datasets.
-- https://github.com/JuliaSmoothOptimizers/MUMPS.jl : An interface to [MUMPS](https://graal.ens-lyon.fr/MUMPS/index.php?page=home) (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
+- https://github.com/JuliaSmoothOptimizers/MUMPS.jl : An interface to MUMPS, a libray for the solution of sparse linear systems on multicore computers.
 - https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl : A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
 - https://github.com/JuliaSparse/MatrixMarket.jl : A package to read the [MatrixMarket file format](https://math.nist.gov/MatrixMarket/formats.html#MMformat).
 - https://github.com/JuliaSparse/Metis.jl : Julia interface to the [Metis](https://github.com/KarypisLab/METIS) graph-partitioning algorithms.

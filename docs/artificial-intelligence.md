@@ -47,7 +47,7 @@ https://github.com/denizyuret/Knet.jl : Koç University deep learning framework 
 
 ### Bindings to libraries
 
-- https://github.com/cstjean/ScikitLearn.jl : Julia implementation of the scikit-learn API via `PyCall.jl`. [Cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/).
+- https://github.com/cstjean/ScikitLearn.jl : Julia implementation of the scikit-learn API via `PyCall.jl`.
 - https://github.com/dmlc/XGBoost.jl : a Julia interface of [XGBoost](https://github.com/dmlc/xgboost), an efficient and scalable implementation of distributed gradient boosting framework. [Julia Con 2023 Video](https://www.youtube.com/watch?v=d5v4ELN3NSc)
 - https://github.com/DrChainsaw/ONNXNaiveNASflux.jl : Import/export ONNX models for `Flux.jl`.
 - https://github.com/FluxML/ONNX.jl : Read [ONNX](https://onnx.ai/) graphs and load these models in Julia.

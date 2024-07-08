@@ -84,7 +84,7 @@ See [[fileio]].
 
 - https://github.com/chakravala/Ganja.jl : Visualization for geometric algebra, not just algebra, using https://github.com/enkimute/ganja.js
 - https://github.com/chakravala/Grassmann.jl : ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
-- https://github.com/JuliaGeometry/Clipper.jl : Julia wrapper for Angus Johnson's [Clipper](http://www.angusj.com/delphi/clipper.php) library.
+- https://github.com/JuliaGeometry/Clipper.jl : Julia wrapper for Angus Johnson's [Clipper](https://angusj.com/delphi/clipper/documentation/Docs/Overview/_Body.htm) library.
 - https://github.com/JuliaGeometry/CoordinateTransformations.jl : A fresh approach to coordinate transformations.
 - https://github.com/JuliaGeometry/Descartes.jl : A research project into the representation of solid geometry.
 - https://github.com/JuliaGeometry/GeometricalPredicates.jl : Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
@@ -92,9 +92,9 @@ See [[fileio]].
 - https://github.com/JuliaGeometry/Meshes.jl : Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 - https://github.com/JuliaGeometry/OctTrees.jl : Fast quad and oct-trees.
 - https://github.com/JuliaGeometry/RayTraceEllipsoid.jl : Ray trace ellipsoid-shaped domes i.e. finds intersection points and refract/reflect according to the refractive indices.
-- https://github.com/JuliaGeometry/Rotations.jl : Implementations for various 3D rotation parameterisations.
+- https://github.com/JuliaGeometry/Rotations.jl : Implementations for various 3D rotation parametrizations.
 - https://github.com/JuliaGeometry/TetGen.jl : [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen) wrapper.
-- https://github.com/JuliaGeometry/TriangleIntersect.jl : Fast ray-triangle intersections for raytracing.
+- https://github.com/JuliaGeometry/TriangleIntersect.jl : Fast ray-triangle intersections for ray tracing.
 - https://github.com/JuliaGeometry/VoronoiCells.jl : Manipulate Voronoi cells in 2D.
 - https://github.com/JuliaGeometry/VoronoiDelaunay.jl : Fast and robust Voronoi & Delaunay tessellation creation with Julia.
 - https://github.com/JuliaGraphics/SignedDistanceFields.jl : Simple and efficient SDF calculation.
@@ -118,7 +118,7 @@ See [[fileio]].
 - https://github.com/romstad/Chess.jl : Julia chess programming library.
 - https://github.com/sebastianpech/JuliaKara.jl : A julia port of the learning environment [Kara](https://www.swisseduc.ch/informatik/karatojava/).
 - https://github.com/xiaodaigh/Game2048.jl : Simulation of the game 2048 in Julia. The base package is https://github.com/xiaodaigh/Game2048Core.jl .
-- https://kyjor.itch.io/super-mango-julia : Super Mango is a short 2D platformer crafted with the Julia programming language, which was created as an example for all of https://github.com/Kyjor/JulGame.jl.
+- https://kyjor.itch.io/super-mango-julia : Super Mango is a short 2D platformer game crafted with the Julia programming language, which was created as an example for all of https://github.com/Kyjor/JulGame.jl.
 
 ## Misc
 

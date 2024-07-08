@@ -37,6 +37,7 @@
     "hemireals",
     "Jacobians",
     "Kaminski",
+    "Khronos",
     "Knet",
     "Knitr",
     "libclang",
@@ -45,12 +46,15 @@
     "matplotlib",
     "metaprogramming",
     "microbiome",
+    "multicore",
     "neuroimaging",
     "ONNX",
     "orcid",
     "pandoc",
+    "parametrizations",
     "periodograms",
     "picosat",
+    "platformer",
     "plotly",
     "POSIX",
     "pseudospectra",
@@ -67,10 +71,13 @@
     "strided",
     "struct",
     "Sweave",
+    "Tetris",
     "timeseries",
     "Toeplitz",
     "transcriptome",
     "transpiling",
-    "Unitful"
+    "Unitful",
+    "Voronoi",
+    "Vulkan"
   ]
 }
