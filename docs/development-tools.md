@@ -69,7 +69,7 @@ Julia development tools, compilers, debuggers, [DevOps](https://en.wikipedia.org
 
 ### Test-driven development (TDD)
 
-- [Unittest in Julia](https://docs.julialang.org/en/v1/stdlib/Test/)
+- [Official docs: Unittest](https://docs.julialang.org/en/v1/stdlib/Test/)
 
 ---
 
@@ -127,6 +127,8 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 ## Documentation and report generation
 
 [Julia docstrings](https://docs.julialang.org/en/v1/manual/documentation/)
+
+---
 
 - https://github.com/fredrikekre/Literate.jl : literate programming in Julia.
 - https://github.com/JuliaBooks/Books.jl : generate books (or dashboards) in pdf/HTML/docx with embedded Julia output by pandoc document processor. Currently, this package is used to write the [Julia Data Science book](https://github.com/JuliaDataScience/JuliaDataScience).
@@ -205,7 +207,7 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ### GitHub
 
-[GitHub actions for Julia](https://github.com/julia-actions). A sample CI file can be accessed [here](https://github.com/tpapp/PkgSkeleton.jl/blob/master/.github/workflows/CI.yml).
+[GitHub actions for Julia](https://github.com/julia-actions). [A sample CI file](https://github.com/tpapp/PkgSkeleton.jl/blob/master/.github/workflows/CI.yml).
 
 - [setup-julia](https://github.com/julia-actions/setup-julia) : downloading a specified version of Julia and adding it to PATH.
 - [cache](https://github.com/julia-actions/cache) : A shortcut action to cache Julia artifacts, packages, and registries.

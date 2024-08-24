@@ -25,3 +25,4 @@ title: Utilities
 - https://github.com/SebastianM-C/PkgCite.jl : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
 - https://github.com/sglyon/REPLMods.jl : Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
 - https://github.com/timholy/ProgressMeter.jl : Progress meter for long-running computations.
+- https://github.com/tecosaur/About.jl : See information about a function, type, value, or something else entirely.
