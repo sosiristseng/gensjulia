@@ -53,6 +53,7 @@ title: Web
 - https://github.com/JuliaInterop/ZMQ.jl : Julia interface to [ZeroMQ](https://zeromq.org/).
 - https://github.com/JuliaWeb/JuliaWebAPI.jl : Julia package for deploying APIs on JuliaBox to facilitate wrapping Julia functions into a remote callable API via ZMQ and HTTP.
 - https://github.com/JuliaWeb/Mux.jl : to define servers in terms of highly modular and composable components called middleware.
+- https://github.com/JuliaComputing/OpenAPI.jl : [OpenAPI](https://github.com/OAI/OpenAPI-Specification) helper and code generator for Julia.
 
 ## Networking
 
