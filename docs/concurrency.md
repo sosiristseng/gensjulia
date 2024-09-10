@@ -58,7 +58,7 @@ title: Concurrency
 
 - https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
 - https://github.com/JuliaFolds/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic iteration over complex collections.
-- https://github.com/tkf/ThreadsX.jl : Multithreaded base functions such as `map()`, `reduce()`, `foreach()`.
+- https://github.com/JuliaFolds2/OhMyThreads.jl : Simple multithreading in julia.
 
 ## Multiprocessing and Distributed Computing
 
