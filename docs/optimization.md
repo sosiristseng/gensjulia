@@ -15,6 +15,7 @@ title: Optimization
 
 - https://github.com/jump-dev/JuMP.jl : Modeling Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
 - https://github.com/SciML/Optimization.jl : brings together all of the optimization packages it can find, local and global, into one unified Julia interface.
+- https://github.com/JuliaSmoothOptimizers/JSOSuite.jl : One stop solutions for all things optimization.
 
 ## Bindings for external solvers
 
