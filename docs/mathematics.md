@@ -162,6 +162,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/JuliaData/CategoricalArrays.jl : Arrays for working with categorical data (both nominal and ordinal) in Julia.
 - https://github.com/JuliaMath/RandomMatrices.jl : Random Matrices, extending the `Distributions` package to provide methods for working with matrix-valued random variables.
 - https://github.com/JuliaSIMD/StrideArrays.jl : Library supporting the ArrayInterface.jl strided array interface.
+- https://github.com/meggart/DiskArrays.jl : Accessing array data on slower media (e.g., hard disk).
 - https://github.com/RalphAS/Pseudospectra.jl : a package for computing pseudospectra of non-symmetric matrices, and plotting them along with eigenvalues ("spectral portraits").
 - https://github.com/sisl/Vec.jl : Provides 2D and 3D vector types for vector operations. All types are immutable and are subtypes of `StaticArrays.jl`.
 - https://github.com/timholy/NamedAxesArrays.jl : Performant arrays where each axis can be named.
