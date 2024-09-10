@@ -30,10 +30,11 @@ https://github.com/MakieOrg/Makie.jl : High level plotting on the GPU. Examples:
 - https://github.com/BioJulia/BioMakie.jl : plotting functions for protein structures, multiple sequence alignments, and some other related plots like protein structure contact maps. [JuliaCon 2023 video](https://www.youtube.com/watch?v=-C7Zbh6UTgk)
 - https://github.com/sefffal/PairPlots.jl : This package produces pair plots, otherwise known as corner plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 
-## Gadfly
+## ggplot-like
 
 - https://github.com/GiovineItalia/Gadfly.jl : A statistical graphics plotting and data visualization system. [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an SVG file using the D3 browser interface.
 - https://github.com/JuliaGraphics/Immerse.jl : Dive deeper into your data with interactive graphics.
+- https://github.com/TidierOrg/TidierPlots.jl : Tidier data visualization in Julia, modeled after the ggplot2 R package.
 
 ## gnuplot
 
