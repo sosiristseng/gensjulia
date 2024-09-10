@@ -40,6 +40,12 @@ title: Optimization
 - https://github.com/MOSEK/Mosek.jl : Interface to the Mosek solver in Julia.
 - https://github.com/odow/NEOSServer.jl : A Julia interface for the NEOS Optimisation Server.
 
+## Genetic algorithm
+
+[Wikipedia: Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm).
+
+- https://github.com/wildart/Evolutionary.jl : Evolutionary & genetic algorithms for Julia.
+
 ## Linear Programming and Optimization
 
 [Wikipedia: Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)

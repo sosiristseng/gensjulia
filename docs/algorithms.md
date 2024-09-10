@@ -40,3 +40,10 @@ title: Algorithms
 [Wikipedia: Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm). See also the [[optimization]] section.
 
 - https://github.com/wildart/Evolutionary.jl : Evolutionary & genetic algorithms for Julia.
+
+## Homomorphic encryption
+
+[Wikipedia: Homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
+
+- https://github.com/hpsc-lab/SecureArithmetic.jl : Secure arithmetic operations using fully homomorphic encryption.
+- https://github.com/hpsc-lab/OpenFHE.jl : Fully homomorphic encryption in Julia using [OpenFHE](https://github.com/openfheorg/openfhe-development).
