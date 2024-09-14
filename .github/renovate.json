@@ -9,13 +9,5 @@
         "automerge": true
       }
   ],
-  "lockFileMaintenance": {
-    "enabled": true,
-    "automerge": true
-  },
-  "git-submodules": {
-    "enabled": true
-  },
-  "platformAutomerge": true,
   "automergeStrategy": "squash"
 }
