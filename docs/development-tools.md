@@ -78,6 +78,7 @@ Julia development tools, compilers, debuggers, [DevOps](https://en.wikipedia.org
 - https://github.com/julia-vscode/TestItemRunner.jl : run Julia tests in VSCode.
 - https://github.com/JuliaCI/Coverage.jl : tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov.
 - https://github.com/JuliaCloud/MockAWS.jl : patch functions for testing all AWS services.
+- https://github.com/JuliaTesting/ReTest.jl : Testing framework for Julia, allowing deferred execution and filtered test sets.
 - https://github.com/JuliaTesting/TestEnv.jl : `TestEnv.activate()` loads your test environment, so you can use your test dependencies in the REPL.
 - https://github.com/rened/Watcher.jl : auto-run unit tests every time a file gets saved.
 - https://github.com/Seelengrab/Supposition.jl : property-based testing using choice sequences. It's been heavily inspired by the testing framework [Hypothesis](https://hypothesis.readthedocs.io/en/latest/).
