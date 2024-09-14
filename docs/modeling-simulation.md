@@ -21,6 +21,7 @@ General modeling and simulation packages in Julia.
 - https://github.com/SciML/CellMLToolkit.jl : a Julia library that connects `CellML` models to the Scientific Julia ecosystem.
 - https://github.com/SciML/ReactionNetworkImporters.jl : Loading BioNetGen `.net` file.
 - https://github.com/SciML/SBMLToolkit.jl : importing models specified in the Systems Biology Markup Language (SBML) into the Julia SciML ecosystem.
+- https://github.com/Electa-Git/FMIExchange.jl : load Model Exchange Functional Mock-up Units (FMUs) and simulate them using the `DifferentialEquations.jl` package.
 
 ## Symbolic Computation
 
@@ -123,3 +124,5 @@ See also [[data-structures]].
 ## Others
 
 - https://github.com/madsjulia/Mads.jl : [MADS](https://mads.gitlab.io/), Model Analysis & Decision Support.
+- https://github.com/ThummeTo/FMI.jl : integrating the [Functional Mock-Up Interface](https://fmi-standard.org/).
+- https://github.com/OpenModelica/OMJulia.jl : Julia scripting [OpenModelica](https://www.openmodelica.org/) interface.
