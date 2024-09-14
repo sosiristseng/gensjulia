@@ -71,6 +71,7 @@ https://github.com/denizyuret/Knet.jl : Koç University deep learning framework 
 
 - https://github.com/dfdx/Boltzmann.jl : Restricted Boltzmann Machines and Deep Belief Networks in Julia
 - https://github.com/irhum/TopoChains.jl : A flexible data structure for multi-input multi-output models.
+- https://github.com/Julia-XAI/ExplainableAI.jl : Explainable AI in Julia.
 - https://github.com/JuliaGaussianProcesses/KernelFunctions.jl : Kernel functions for machine learning.
 - https://github.com/JuliaML/LossFunctions.jl : Julia package of loss functions for machine learning. [Documentation](https://juliaml.github.io/LossFunctions.jl/stable)
 - https://github.com/JuliaML/ValueHistories.jl : Utilities to efficiently track learning curves or other optimization information.
