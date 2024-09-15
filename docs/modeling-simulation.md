@@ -47,11 +47,11 @@ See also [[data-structures]].
 [Wikipedia: Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 - https://github.com/BenLauwens/SimJulia.jl : A discrete event process oriented simulation framework written in Julia.
-- https://github.com/bradcarman/ModelingToolkitDesigner.jl : A helper tool for visualizing and editing a ModelingToolkit.jl system connections.
+- https://github.com/bradcarman/ModelingToolkitDesigner.jl : A helper tool for visualizing and editing a `ModelingToolkit.jl` system connections.
 - https://github.com/DrugowitschLab/DiffModels.jl : Diffusion Model simulation and first-passage time densities in Julia.
-- https://github.com/gabrevaya/LatentDiffEq.jl : A high-level Flux + DiffEq library solving Generative ODE modeling with Known Unknowns (GOKU). [JuliaCon 2021 video](https://youtu.be/jhIgs4swrMA)
 - https://github.com/jangevaare/Pathogen.jl : Utilities to simulate and perform inference of disease dynamics.
 - https://github.com/JuliaApproximation/SingularIntegralEquations.jl : An experimental Julia package for solving singular integral equations.
+- https://github.com/JuliaComputing/ModelingToolkitSampledData.jl : A standard library with discrete-time components for ModelingToolkit. It requires `JuliaSimCompiler.jl`, a proprietary product. [JuliaCon 2024 video](https://youtu.be/wL-jYQ_O9Nc)
 - https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
 - https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving Riemann–Hilbert problems.
 - https://github.com/JuliaTurkuDataScience/FdeSolver.jl : A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.
@@ -75,16 +75,17 @@ See also [[data-structures]].
 
 ---
 
-- https://github.com/CliMA/ClimaCore.jl : Tools for building spatial discretizations. [JuliaCon 2021 video](https://youtu.be/4bQvF3rGB84)
+- https://github.com/CliMA/ClimaCore.jl : Tools for building spatial discretization. [JuliaCon 2021 video](https://youtu.be/4bQvF3rGB84)
 - https://github.com/cvdlab/LinearAlgebraicRepresentation.jl : Official Julia implementation of [LAR](https://linkinghub.elsevier.com/retrieve/pii/S001044851300184X), the Linear Algebraic Representation for Solid Modeling. LAR is a general representation scheme for geometric and topological modeling.
 - https://github.com/FourierFlows/FourierFlows.jl : Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains.
-- https://github.com/gridap/Gridap.jl : Grid-based approximation of PDEs with finite element (FE) discretizations.
+- https://github.com/gridap/Gridap.jl : Grid-based approximation of PDEs with finite element (FE) discretization.
 - https://github.com/j-fu/VoronoiFVM.jl : Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method.
 - https://github.com/JuliaFEM/FEMBasis.jl : Package contains interpolation routines for standard finite element function spaces.
 - https://github.com/JuliaFEM/JuliaFEM.jl : Finite Element method solver.
 - https://github.com/JuliaParallel/PETSc.jl : A Julia interface for [PETSc](https://www.mcs.anl.gov/petsc/).
 - https://github.com/JuliaSmoothOptimizers/Krylov.jl : A Julia Basket of Hand-Picked Krylov Methods.
 - https://github.com/lcw/Heptapus.jl : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
+- https://github.com/omlins/ParallelStencil.jl : writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs.
 - https://github.com/PetrKryslUCSD/FinEtools.jl : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
 - https://github.com/SciML/DiffEqOperators.jl : Linear operators for discretizations of differential equations.
 - https://github.com/SciML/MethodOfLines.jl : Automatic Finite Difference PDE solving with Julia.
@@ -118,8 +119,10 @@ See also [[data-structures]].
 - https://github.com/JinraeKim/SimulationLogger.jl : providing convenient logging tools for `DifferentialEquations.jl`.
 - https://github.com/jonniedie/SimulationLogs.jl : Signal logging and scoping for `DifferentialEquations.jl` simulations.
 - https://github.com/JuliaDynamics/DrWatson.jl : dealing with simulations and simulation parameters.
+- https://github.com/MarcusGalea/PhysicsInformedRegression.jl : solving inverse problems (parameter estimation) using physics informed regression. It requires well-defined derivatives. [JuliaCon 2024 video](https://youtu.be/ohmiQv5WemQ)
 - https://github.com/SciML/DataInterpolations.jl : Data interpolation and smoothing functions.
-- https://github.com/SciML/SciMLBenchmarks.jl : Benchmarks for scientific machine learning (SciML) software and differential equation solvers.
+- https://github.com/SciML/DiffEqParamEstim.jl : a package for simplified parameter estimation with `DifferentialEquations.jl`.
+- https://github.com/SciML/SciMLBenchmarks.jl : Benchmarks for scientific machine learning (SciML) software and differential equation solvers. [Benchmark results](https://benchmarks.sciml.ai/stable/)
 
 ## Others
 

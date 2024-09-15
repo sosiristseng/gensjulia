@@ -17,6 +17,7 @@ title: Earth and Space Science
 
 ---
 
+- https://github.com/CliMA/Oceananigans.jl : Fast and friendly fluid dynamics on CPUs and GPUs. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=Nlq3J7PCB_Q)
 - https://github.com/gaelforget/ClimateModels.jl : Julia interface to various climate models. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=_Y6mNrN7eWA)
 - https://github.com/jrising/OptiMimi.jl : Optimization for the `Mimi.jl` modeling framework.
 - https://github.com/JuliaClimate/ClimateTools.jl : This package is a collection of commonly-used tools in Climate Science.

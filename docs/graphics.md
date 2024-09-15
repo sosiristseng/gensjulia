@@ -87,6 +87,7 @@ See [[fileio]].
 - https://github.com/JuliaGeometry/Clipper.jl : Julia wrapper for Angus Johnson's [Clipper](https://angusj.com/delphi/clipper/documentation/Docs/Overview/_Body.htm) library.
 - https://github.com/JuliaGeometry/CoordinateTransformations.jl : A fresh approach to coordinate transformations.
 - https://github.com/JuliaGeometry/Descartes.jl : A research project into the representation of solid geometry.
+- https://github.com/JuliaGeo/GeometryOps.jl : a package for geometric calculations on (primarily 2D) geometries. [JuliaCon 2024 video](https://github.com/JuliaGeo/GeometryOps.jl)
 - https://github.com/JuliaGeometry/GeometricalPredicates.jl : Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
 - https://github.com/JuliaGeometry/GeometryTypes.jl : Geometry types and for Julia, based on FixedSizeArrays.
 - https://github.com/JuliaGeometry/Meshes.jl : Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.

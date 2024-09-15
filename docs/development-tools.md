@@ -117,13 +117,11 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ---
 
-- https://github.com/dfdx/Ghost.jl : a code tracer for the Julia programming language. It lets you trace the function execution, recording all primitive operations onto a linearized tape.
+- https://github.com/dfdx/Ghost.jl : a code tracer for the Julia programming language. It lets you `trace(f, args...)` the function execution, recording all primitive operations onto a linearized tape.
 - https://github.com/JuliaDebug/Debugger.jl : Julia debugger using the `@enter` macro.
-- https://github.com/JuliaDebug/Infiltrator.jl : `@infiltrate` macro sets a "breakpoint" in a local context. All code is completely compiled.
+- https://github.com/JuliaDebug/Infiltrator.jl : `@infiltrate` macro sets a "breakpoint" in a local context. All code is completely compiled and faster than `Debugger.jl`. [JuliaCon 2024 video](https://youtu.be/N4OUN8Js1S0)
 - https://github.com/JuliaDebug/JuliaInterpreter.jl : Interpreter for Julia code.
 - https://github.com/JuliaIO/Suppressor.jl :  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
-- https://github.com/MasonProtter/ToggleableAsserts.jl : Assertions that can be turned on or off with a switch, without runtime penalty when they're off.
-- https://github.com/timholy/Rebugger.jl : An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks, but it can trace execution via the manipulation of Julia expressions.
 
 ## Documentation and report generation
 
@@ -191,11 +189,14 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 
 ## GUI
 
-- https://github.com/barche/QML.jl : Small example for starting an interface to Qt5 QML.
-- https://github.com/davidanthoff/Electron.jl : Julia wrapper for [Electron](https://www.electronjs.org/) with a more minimalistic feature set than `Blink.jl`.
-- https://github.com/JuliaGizmos/Blink.jl : Julia wrapper around [Electron](https://www.electronjs.org/).
+- https://github.com/JuliaGraphics/QML.jl : Small example for starting an interface to [Qt6 QML](http://qt.io/).
+- https://github.com/davidanthoff/Electron.jl : Julia wrapper for [Electron][] with a more minimalistic feature set than `Blink.jl`.
+- https://github.com/JuliaGizmos/Blink.jl : Julia wrapper around [Electron][].
 - https://github.com/JuliaGraphics/Gtk.jl : Julia interface to the GTK windowing toolkit.
-- https://github.com/JuliaGraphics/Tk.jl : The Julia interface for the Tk windowing toolkit.
+- https://github.com/JuliaGraphics/Tk.jl : The Julia interface for the [Tk](https://wiki.tcl-lang.org/page/Tk) windowing toolkit.
+- https://github.com/PeaceFounder/AppBundler.jl : building Julia GUI applications in modern desktop application installer formats in Linux (snap), Windows (MSIX), and MacOS (DMG). [JuliaCon 2024 video](https://youtu.be/wICPVpDa7aw)
+
+[Electron]: https://www.electronjs.org
 
 
 ## Continuous integration (CI) providers

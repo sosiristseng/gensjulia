@@ -59,6 +59,7 @@
     "plotly",
     "POSIX",
     "pseudospectra",
+    "pseudospectral",
     "Pweave",
     "pyplot",
     "Quantile",

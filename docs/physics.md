@@ -13,11 +13,11 @@ title: Physics
 
 - [PhysicalConstants](https://github.com/JuliaPhysics/PhysicalConstants.jl) : Curated physical constants.
 
-## Plasma Physics
+## Particle Physics
 
-[Wikipedia: Plasma](https://en.wikipedia.org/wiki/Plasma_(physics))
+[Wikipedia: Particle Physics](https://en.wikipedia.org/wiki/Particle_physics)
 
-- https://github.com/lstagner/OrbitTomography.jl : A Method for Determining the Population of Individual Fast-ion Orbits from Experimental Measurements.
+- https://github.com/JuliaHEP/Geant4.jl : Julia bindings for the [Geant4](https://geant4.web.cern.ch/) particle transportation toolkit.
 
 ## Electricity
 
@@ -46,7 +46,6 @@ title: Physics
 
 ---
 
-- https://github.com/CliMA/Oceananigans.jl : Fast and friendly fluid dynamics on CPUs and GPUs. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=Nlq3J7PCB_Q)
 - https://github.com/weymouth/WaterLily.jl : a simple and fast fluid simulator written in pure Julia.
 
 ## Quantum Mechanics
