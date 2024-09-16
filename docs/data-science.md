@@ -4,14 +4,12 @@ title: Data Science
 
 > Data retrieval, manipulation, and storage in Julia.
 
-## Organizations
+- [Julia ML](https://github.com/JuliaML) organization
+- [Julia Data](https://github.com/JuliaData) organization
+- [Julia Databases](https://github.com/JuliaDatabases) organization
+- [Julia stats](https://github.com/JuliaStats) organization
 
-- [Julia ML](https://github.com/JuliaML)
-- [Julia Data](https://github.com/JuliaData)
-- [Julia Databases](https://github.com/JuliaDatabases)
-- [Julia stats](https://github.com/JuliaStats)
-
-## Resources
+---
 
 - Blog on [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
 - [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/) of different languages and libraries.
@@ -36,7 +34,6 @@ title: Data Science
 
 - https://github.com/jerryzhenleicai/LevelDB.jl : Julia interface to Google's LevelDB key value database.
 - https://github.com/JuliaData/IndexedTables.jl : Tabular data structures where some of the columns form a sorted index. It provides the backend to `JuliaDB.jl`.
-- https://github.com/JuliaData/JuliaDB.jl : working with large persistent data sets.
 - https://github.com/JuliaDatabases/DBInterface.jl : An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
 - https://github.com/JuliaDatabases/JDBC.jl : Julia interface to Java database drivers.
 - https://github.com/JuliaDatabases/ODBC.jl : A low-level ODBC interface for the Julia programming language. [Tabular Data I/O in Julia](https://randyzwitch.com/julia-import-data/).
@@ -68,7 +65,7 @@ title: Data Science
 
 ## Accessing datasets
 
-For tabular data file: [[docs/fileio]]
+For tabular data file: [[fileio]]
 
 - https://github.com/4gh/WorldBankData.jl : The [World Bank](https://data.worldbank.org/) data.
 - https://github.com/dfdx/FaceDatasets.jl : A package for easy access to face-related datasets.
@@ -76,4 +73,4 @@ For tabular data file: [[docs/fileio]]
 - https://github.com/neomatrixcode/Faker.jl : A package that generates fake data.
 - https://github.com/oxinabox/DataDeps.jl : reproducible data setup for reproducible science.
 - https://github.com/tecosaur/DataToolkit.jl : Providing a data CLI for reproducible, flexible, and convenient data management.
-- https://github.com/tecosaur/DataToolkit.jl : Reproducible, felexible, and convenient data management.
+- https://github.com/tecosaur/DataToolkit.jl : Reproducible, flexible, and convenient data management.
