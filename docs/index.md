@@ -2,7 +2,7 @@
 title: Home
 ---
 
-> [!note] Thank you SVAKSHA and [Julia.jl](https://github.com/svaksha/Julia.jl)!
+> [!NOTE] Thank you SVAKSHA and [Julia.jl](https://github.com/svaksha/Julia.jl)!
 >
 > A large part of this Julia resource list is based on [Julia.jl](https://github.com/svaksha/Julia.jl), which is under COPYRIGHT © 2012-Now SVAKSHA, dual-licensed for the data ([ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/)) and the software ([AGPLv3+](http://www.gnu.org/licenses/agpl-3.0.en.html)), respectively.  This repository is also licensed under [ODbL-v1.0+](https://opendatacommons.org/licenses/odbl/1-0/).
 
