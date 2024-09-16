@@ -4,8 +4,6 @@ title: Biology
 
 > Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc., in Julia.
 
-## Organization
-
 - [BioJulia](https://biojulia.dev/) organization
 - [Julia Health](https://juliahealth.org) organization
 
@@ -74,7 +72,6 @@ title: Biology
 ## Metabolic networks
 
 - https://github.com/LCSB-BioCore/COBREXA.jl : constraint-based reconstruction and analysis tools for exa-scale metabolic models in Julia. It uses [JuMP](https://github.com/jump-dev/JuMP.jl) to formulate optimization problems.
-- https://github.com/opencobra/COBRA.jl : COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Analysis (FBA), Flux Variability Analysis (FVA), or any of its associated variants such as `distributedFBA`.
 - https://github.com/stelmo/Escher.jl : `escherplot` is a `Makie.jl` recipe that plots maps of metabolic models.
 
 ## Molecular Biology
