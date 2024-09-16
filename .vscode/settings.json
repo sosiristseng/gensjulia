@@ -80,6 +80,7 @@
     "transcriptome",
     "transpiling",
     "Unitful",
+    "vectorize",
     "Voronoi",
     "Vulkan"
   ]

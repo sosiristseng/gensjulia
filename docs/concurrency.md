@@ -2,25 +2,22 @@
 title: Concurrency
 ---
 
-- Julia HPC and Cluster computing.
-- Distributed Computing and Grid computing.
-- Cloud computing
-- Parallel computing
-- Hardware architectures (ARM, CUDA, GPU, MIPS) anb compute kernels
+> - Julia HPC and Cluster computing.
+> - Distributed Computing and Grid computing.
+> - Cloud computing
+> - Parallel computing
+> - Hardware architectures (ARM, CUDA, GPU, MIPS) anb compute kernels
 
-## Organizations
+- [Julia Parallel](https://github.com/JuliaParallel) organization
+- [Julia Folds](https://github.com/JuliaFolds) organization
+- [Julia Folds2](https://github.com/JuliaFolds2) organization
+- [Julia Cloud](https://github.com/JuliaCloud) organization
 
-- [Julia Parallel](https://github.com/JuliaParallel)
-- [Julia Folds](https://github.com/JuliaFolds)
-- [Julia Cloud](https://github.com/JuliaCloud)
-
-## Resources
+---
 
 - [Julia manual for parallel computing](https://docs.julialang.org/en/v1/manual/parallel-computing/)
 - [Wikipedia: Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
 - [Wikipedia: Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
-
----
 
 ## General Concurrency Packages
 
@@ -29,7 +26,7 @@ title: Concurrency
 - https://github.com/JuliaFolds/Folds.jl : A unified interface for sequential, threaded, and distributed folds. The [docs](https://juliafolds.github.io/Folds.jl/stable/) list what functions it supports.
 - https://github.com/JuliaParallel/MessageUtils.jl : A collection of utilities for messaging.
 
-## Bindings
+## Bindings to external libraries
 
 - https://github.com/JuliaGPU/ArrayFire.jl : Julia Wrapper for the [ArrayFire](https://arrayfire.com/) library.
 - https://github.com/JuliaLinearAlgebra/AppleAccelerate.jl : Julia interface to [OS X's Accelerate framework](https://developer.apple.com/library/mac/documentation/Accelerate/Reference/AccelerateFWRef/).
@@ -57,7 +54,7 @@ title: Concurrency
 ## Multi-Threading
 
 - https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
-- https://github.com/JuliaFolds/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic iteration over complex collections.
+- https://github.com/JuliaFolds2/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic iteration over complex collections.
 - https://github.com/JuliaFolds2/OhMyThreads.jl : Simple multithreading in julia.
 
 ## Multiprocessing and Distributed Computing
@@ -88,13 +85,13 @@ title: Concurrency
 
 ---
 
-- https://github.com/hjabird/CVortex.jl : Julia wrapper for [cvortex](https://github.com/hjabird/cvortex) GPU accelerated vortex filament and vortex particle methods.
 - https://github.com/JuliaGPU/AMDGPU.jl : AMD GPU (ROCm) programming in Julia.
 - https://github.com/JuliaGPU/ArrayFire.jl : Julia Wrapper for the [ArrayFire](https://arrayfire.com/) library.
+- https://github.com/JuliaGPU/GPUArrays.jl : Reusable array functionality for Julia's various GPU backends.
+- https://github.com/JuliaGPU/oneAPI.jl : Julia support for the [oneAPI](https://software.intel.com/en-us/oneapi) programming toolkit.
 
 ### NVIDIA CUDA
 
-- https://github.com/JuliaFolds/FoldsCUDA.jl : provides `Transducers.jl`-compatible fold (reduce) implemented using `CUDA.jl`. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
+- https://github.com/JuliaFolds/FoldsCUDA.jl : provides `Transducers.jl`-compatible fold (`FLoops.jl`) implemented using `CUDA.jl`.
 - https://github.com/JuliaGPU/CUDA.jl : CUDA programming in Julia. See also [JuliaCon 2021 video](https://youtu.be/fw0R5G8pB0U).
-- https://github.com/JuliaGPU/NVTX.jl : Julia bindings for [NVTX](https://nvidia.github.io/NVTX/doxygen/index.html), for instrumenting with the [Nvidia Nsight Systems profiler](https://developer.nvidia.com/nsight-systems). [JuliaCon 2023 video](https://www.youtube.com/watch?v=B7ZlScN_rk8).
-- https://github.com/xiaodaigh/CuCountMap.jl : Fast `StatsBase.countmap` for small types on the GPU via `CUDA.jl`
+- https://github.com/JuliaGPU/NVTX.jl : Julia bindings for [NVIDIA Tools Extension Library (NVTX)](https://nvidia.github.io/NVTX/doxygen/index.html), for instrumenting with the [Nvidia Nsight Systems profiler](https://developer.nvidia.com/nsight-systems). [JuliaCon 2023 video](https://www.youtube.com/watch?v=B7ZlScN_rk8).
