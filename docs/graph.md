@@ -21,7 +21,7 @@ title: Graph Theory
 - https://github.com/scheinerman/SimpleGraphs.jl : A module for working with simple graphs (no loops, no multiple edges, no directed edges).
 - https://github.com/simonschoelly/SimpleValueGraphs.jl : A `Graphs.jl` compatible package for graphs with multiple, homogeneous vertex, edge and graph metadata.
 
-## File I/O
+## File IO
 
 - https://github.com/JuliaGraphs/GraphIO.jl : GraphIO provides support to `Graphs.jl` for reading/writing graphs in various formats.
 - https://github.com/JuliaGraphs/SNAPDatasets.jl : `Graphs.jl`-formatted graph files taken from the [SNAP Datasets](https://snap.stanford.edu/data/index.html) collection.

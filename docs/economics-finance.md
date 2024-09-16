@@ -14,7 +14,6 @@ Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/w
 - https://github.com/DynareJulia/Dynare.jl : A Julia rewrite of Dynare: solving, simulating and estimating DSGE models.
 - https://github.com/EconForge/Dolo.jl : A tool to describe and solve economic models.
 - https://github.com/FRBNY-DSGE/DSGE.jl : Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE).
-- https://github.com/JuliaQuant/MarketTechnicals.jl : Technical analysis of financial time series in Julia by @JuliaQuant.
 - https://github.com/micahjsmith/FredData.jl : Pull [data](https://fred.stlouisfed.org/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 - https://github.com/QuantEcon/Expectations.jl : Expectation operators for `Distributions.jl` objects.
 - https://github.com/QuantEcon/QuantEcon.jl :Julia implementation of [QuantEcon](https://quantecon.org/quantecon-jl/) routines.
