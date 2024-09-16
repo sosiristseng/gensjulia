@@ -2,12 +2,10 @@
 title: Data Structures
 ---
 
-## Organizations
+- [Julia Collections](https://github.com/JuliaCollections) organization
+- [Julia ArbTypes](https://github.com/JuliaArbTypes) organization
 
-- [Julia Collections](https://github.com/JuliaCollections)
-- [Julia ArbTypes](https://github.com/JuliaArbTypes)
-
-## Resources
+---
 
 - [Youtube: The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017 by Jeff Bezanson
 - [Youtube: The Unreasonable Effectiveness of Multiple Dispatch](https://youtu.be/kc9HwsxE1OY)  at JuliaCon 2019 by Stefan Karpinski
@@ -20,7 +18,7 @@ title: Data Structures
 - https://github.com/noahbenson/Air.jl : an immutable data structure and software transactional memory tool for Julia.
 - https://github.com/tkoolen/TypeSortedCollections.jl : It provides the `TypeSortedCollection` type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner.
 
-### Functors
+### Function object
 
 - https://github.com/JuliaCollections/FunctionalCollections.jl : Functional and and persistent data structures for Julia.
 
@@ -101,8 +99,6 @@ See the [[mathematics]] section.
 ### Accessing elements
 
 - https://github.com/devmotion/SimpleUnPack.jl : Lightweight Julia macro for destructuring properties and fields. (Requires Julia >= 1.7)
-- https://github.com/JeffreySarnoff/TypedDelegation.jl : Easily apply functions onto fields' values.
-- https://github.com/JuliaObjects/Accessors.jl : updating immutable data simple. It is the successor of `Setfield.jl`.
-- https://github.com/jw3126/Setfield.jl : Update deeply nested immutable structs.
+- https://github.com/JuliaObjects/Accessors.jl : updating immutable data simple. It is the successor of https://github.com/jw3126/Setfield.jl.
 - https://github.com/mauro3/Parameters.jl : Types with default field values, keyword constructors and (un-)pack macros.
-- https://github.com/mauro3/UnPack.jl : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable datatypes.
+- https://github.com/mauro3/UnPack.jl : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable data types.
