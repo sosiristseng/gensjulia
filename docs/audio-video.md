@@ -2,12 +2,14 @@
 title: Audio and Video Processing
 ---
 
-## Organization
-
-- [Julia Audio](https://github.com/JuliaAudio)
-- [Julia Music](https://github.com/JuliaMusic)
+- [Julia Audio](https://github.com/JuliaAudio) organization
+- [Julia Music](https://github.com/JuliaMusic) organization
 
 ## Audio
+
+- [Using faust in Julia](https://faustdoc.grame.fr/tutorials/julia/) : `faust` is a functional programming language for sound synthesis and audio processing.
+
+---
 
 - https://github.com/dpsanders/MusicTheory.jl : provide a Julian interface for representing the objects and structures in ("Western") music theory (based on semitones).
 
@@ -29,10 +31,6 @@ title: Audio and Video Processing
 - https://github.com/JuliaMusic/MusicManipulations.jl : Manipulate music data, humanize, quantize and analyze music performances with Julia.
 - https://github.com/JuliaMusic/MusicProcessing.jl : Music Processing Library in Julia inspired by [librosa](https://librosa.org/doc/latest/index.html).
 - https://github.com/JuliaMusic/MusicVisualizations.jl : Providing music-related visualization built on top of the packages of JuliaMusic.
-
-### Resources
-
-- [Using faust in Julia](https://faustdoc.grame.fr/tutorials/julia/) : `faust` is a functional programming language for sound synthesis and audio processing.
 
 ## Videos
 
