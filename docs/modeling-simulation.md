@@ -48,6 +48,7 @@ See also [[data-structures]].
 
 - https://github.com/BenLauwens/SimJulia.jl : A discrete event process oriented simulation framework written in Julia.
 - https://github.com/bradcarman/ModelingToolkitDesigner.jl : A helper tool for visualizing and editing a `ModelingToolkit.jl` system connections.
+- https://github.com/cadCAD-org/CadCAD.jl : Complex Adaptive Dynamics Computer Aided Design (CadCAD) is a language for encoding Generalized Dynamical Systems (GDS) as computer programs. The Julia implementation is based on its [Python counterpart](https://github.com/cadCAD-org/cadcad-ri).
 - https://github.com/DrugowitschLab/DiffModels.jl : Diffusion Model simulation and first-passage time densities in Julia.
 - https://github.com/jangevaare/Pathogen.jl : Utilities to simulate and perform inference of disease dynamics.
 - https://github.com/JuliaApproximation/SingularIntegralEquations.jl : An experimental Julia package for solving singular integral equations.
