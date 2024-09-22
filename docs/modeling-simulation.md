@@ -30,6 +30,7 @@ General modeling and simulation packages in Julia.
 - https://github.com/chakravala/Reduce.jl : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 - https://github.com/jlapeyre/Symata.jl : language for symbolic mathematics.
 - https://github.com/JuliaPy/SymPy.jl : Julia interface to [SymPy](https://www.sympy.org/) via `PyCall.jl`.
+- https://github.com/jverzani/SymPyPythonCall.jl : Julia interface to [SymPy](https://www.sympy.org/) via `PythonCall.jl`.
 - https://github.com/JuliaSymbolics/Symbolics.jl : A fast and modern CAS for a fast and modern language.
 - https://github.com/MilesCranmer/SymbolicRegression.jl : Distributed High-Performance symbolic regression in Julia.
 - https://github.com/symengine/SymEngine.jl : Julia wrappers of https://github.com/symengine/symengine.
@@ -46,13 +47,13 @@ See also [[data-structures]].
 
 [Wikipedia: Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
-- https://github.com/BenLauwens/SimJulia.jl : A discrete event process oriented simulation framework written in Julia.
 - https://github.com/bradcarman/ModelingToolkitDesigner.jl : A helper tool for visualizing and editing a `ModelingToolkit.jl` system connections.
 - https://github.com/cadCAD-org/CadCAD.jl : Complex Adaptive Dynamics Computer Aided Design (CadCAD) is a language for encoding Generalized Dynamical Systems (GDS) as computer programs. The Julia implementation is based on its [Python counterpart](https://github.com/cadCAD-org/cadcad-ri).
-- https://github.com/DrugowitschLab/DiffModels.jl : Diffusion Model simulation and first-passage time densities in Julia.
+- https://github.com/CedarEDA/DAECompiler.jl : the core compiler engine of the [Cedar EDA](https://github.com/CedarEDA) platform. It provides a domain-agnostic framework for high-performance simulation of Differential Algebraic Equations (DAEs). [JuliaCon 2024 video](https://youtu.be/D5U-4Fplqvg)
 - https://github.com/jangevaare/Pathogen.jl : Utilities to simulate and perform inference of disease dynamics.
 - https://github.com/JuliaApproximation/SingularIntegralEquations.jl : An experimental Julia package for solving singular integral equations.
 - https://github.com/JuliaComputing/ModelingToolkitSampledData.jl : A standard library with discrete-time components for ModelingToolkit. It requires `JuliaSimCompiler.jl`, a proprietary product. [JuliaCon 2024 video](https://youtu.be/wL-jYQ_O9Nc)
+- https://github.com/JuliaDynamics/ConcurrentSim.jl : A discrete event process oriented simulation framework written in Julia.
 - https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
 - https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving Riemann–Hilbert problems.
 - https://github.com/JuliaTurkuDataScience/FdeSolver.jl : A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.
