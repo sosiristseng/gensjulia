@@ -17,6 +17,7 @@ title: Data Structures
 - https://github.com/JuliaCollections/DataStructures.jl : Julia implementation of Data structures.
 - https://github.com/noahbenson/Air.jl : an immutable data structure and software transactional memory tool for Julia.
 - https://github.com/tkoolen/TypeSortedCollections.jl : It provides the `TypeSortedCollection` type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner.
+- https://github.com/rafaqz/Interfaces.jl : Macros to define and implement interfaces, to ensure they are checked and correct. [JuliaCon 2024 video](https://youtu.be/TbBrFg8BT-w)
 
 ### Function object
 

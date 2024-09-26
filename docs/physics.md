@@ -6,6 +6,7 @@ title: Physics
 
 - [Julia Dynamics](https://github.com/JuliaDynamics)
 - [Julia Energy](https://github.com/JuliaEnergy)
+- [Julia high energy physics](https://github.com/JuliaHEP)
 - [Julia Physics](https://github.com/JuliaPhysics)
 - [QuantumBFS](https://github.com/QuantumBFS)
 
@@ -18,6 +19,7 @@ title: Physics
 [Wikipedia: Particle Physics](https://en.wikipedia.org/wiki/Particle_physics)
 
 - https://github.com/JuliaHEP/Geant4.jl : Julia bindings for the [Geant4](https://geant4.web.cern.ch/) particle transportation toolkit.
+- https://github.com/JuliaHEP/UnROOT.jl : Native Julia I/O package to work with [CERN ROOT](https://root.cern/) files objects. [JuliaCon 2024 video](https://youtu.be/pLNm7aSKc7U)
 
 ## Electricity
 

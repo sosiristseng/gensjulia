@@ -73,16 +73,13 @@ For floating-point datatypes, see [[data-structures]].
 
 ## Algebra
 
-Resources: [Ideles adeles algebraic number theory](https://github.com/williamstein/adeles)
+Resources: https://github.com/williamstein/adeles algebraic number theory
 
-- https://github.com/jhlq/Equations.jl : Derive mathematical relations.
-- https://github.com/JuliaComputing/SemiringAlgebra.jl : [Semiring Algebra](https://dspace.mit.edu/handle/1721.1/115964).
+- https://github.com/JuliaComputing/SemiringAlgebra.jl : [Semiring Algebra](https://dspace.mit.edu/handle/1721.1/115964). A linear algebraic approach to graph algorithms that exploits the sparse adjacency matrix representation of graphs can provide a variety of benefits.
 - https://github.com/MurrayT/OEIS.jl : A basic wrapper to allow access to [OEIS](http://oeis.org/) integer sequences from within Julia.
 - https://github.com/Nemocas/Nemo.jl : A computer algebra package for the Julia programming language.
 - https://github.com/scheinerman/Mods.jl : Easy modular arithmetic for Julia.
 - https://github.com/thofma/Hecke.jl : A package for algebraic number theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
-- https://github.com/timholy/HemirealFactorizations.jl : Matrix factorizations over the hemireals.
-- https://github.com/timholy/HemirealNumbers.jl : Implementation of hemireal arithmetic for Julia.
 
 ### Boolean Algebra
 
@@ -189,6 +186,7 @@ Resources: [Ideles adeles algebraic number theory](https://github.com/williamste
 - https://github.com/timholy/PositiveFactorizations.jl : Positive-definite (approximations) to matrices.
 - https://github.com/timholy/WoodburyMatrices.jl : Library support for the [Woodbury matrix identity](https://en.wikipedia.org/wiki/Woodbury_matrix_identity).
 - https://github.com/WaveProp/HMatrices.jl : A Julia library for hierarchical matrices.
+- https://github.com/niclaspopp/RandomizedDiagonalEstimation.jl : randomized diagonal estimation of matrices and matrix functions. [JuliaCon 2024 video](https://youtu.be/ly8S1NjbaK0)
 
 #### Sparse Matrices
 
@@ -300,6 +298,7 @@ See [[modeling-simulation]]
 - https://github.com/JuliaDiff/HyperDualNumbers.jl : Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
 - https://github.com/JuliaDiff/ReverseDiff.jl : Reverse Mode Automatic Differentiation for Julia.
 - https://github.com/mlubin/ReverseDiffSparse.jl : Hessian algorithmic differentiation to compute hessian sparsity pattern.
+- https://github.com/TimSiebert1/ADOLC.jl : A Julia wrapper of the automatic differentiation package https://github.com/coin-or/ADOL-C. [JuliaCon 2024 video](https://www.youtube.com/watch?v=ctIZi0ToYeM)
 
 ## Mathematical Analysis
 
