@@ -23,7 +23,8 @@ title: Concurrency
 
 - https://github.com/JuliaActors/Actors.jl : [Actor Model](https://en.wikipedia.org/wiki/Actor_model) concurrent model.
 - https://github.com/JuliaArrays/TiledIteration.jl : Julia package to facilitate writing multithreaded, multidimensional, cache-efficient code.
-- https://github.com/JuliaFolds/Folds.jl : A unified interface for sequential, threaded, and distributed folds. The [docs](https://juliafolds.github.io/Folds.jl/stable/) list what functions it supports.
+- https://github.com/JuliaFolds2/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic for loop iteration over complex collections.
+- https://github.com/JuliaFolds2/Folds.jl : A unified interface for sequential, threaded, and distributed folds.
 - https://github.com/JuliaParallel/MessageUtils.jl : A collection of utilities for messaging.
 
 ## Bindings to external libraries
@@ -49,12 +50,11 @@ title: Concurrency
 ---
 
 - https://github.com/eschnett/SIMD.jl : Explicit SIMD vector operations for Julia.
-- https://github.com/JuliaSIMD/LoopVectorization.jl : vectorize your for loop using the `@turbo` macro.
+- https://github.com/JuliaSIMD/LoopVectorization.jl : vectorize for loops using the `@turbo` macro.
 
 ## Multi-Threading
 
-- https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
-- https://github.com/JuliaFolds2/FLoops.jl : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic iteration over complex collections.
+- https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the `lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
 - https://github.com/JuliaFolds2/OhMyThreads.jl : Simple multithreading in julia.
 
 ## Multiprocessing and Distributed Computing
@@ -62,7 +62,7 @@ title: Concurrency
 - [Wikipedia: Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.
 - [Wikipedia: Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 - [Julia at scale](https://discourse.julialang.org/c/domain/parallel/34) topic on discourse.
-- https://github.com/magerton/FARMTest.jl : Simple example scripts for running Julia on a SLURM cluster, using https://github.com/kleinhenz/SlurmClusterManager.jl
+- https://github.com/magerton/FARMTest.jl : Simple example scripts showing hot to run Julia on a SLURM cluster, using https://github.com/kleinhenz/SlurmClusterManager.jl
 
 ---
 
