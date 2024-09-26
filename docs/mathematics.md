@@ -170,7 +170,7 @@ Resources: https://github.com/williamstein/adeles algebraic number theory
 
 > Special Array/Matrix Algorithms, for Array Types, see Data Types section.
 
-- https://github.com/IshitaTakeshi/KSVD.jl : K-SVD is an algorithm for creating over-complete dictionaries for sparse representations.
+- https://github.com/RomeoV/KSVD.jl : K-SVD is an algorithm for creating over-complete dictionaries for sparse representations. [JuliaCon 2024 video](https://www.youtube.com/watch?v=N3QxTTAp9Xo)
 - https://github.com/JuliaArrays/CatIndices.jl : Julia package for indices-aware array concatenation and growth.
 - https://github.com/JuliaArrays/EndpointRanges.jl : Julia package for doing arithmetic on endpoints in array indexing.
 - https://github.com/JuliaArrays/PaddedViews.jl : Add virtual padding to the edges of an array.
