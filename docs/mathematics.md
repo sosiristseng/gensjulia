@@ -304,7 +304,7 @@ See [[modeling-simulation]]
 
 [Wikipedia: Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
 
-- https://github.com/chakravala/Fatou.jl : Fatou sets in Julia (Fractals, Newton basins, Mandelbrot).
+- https://github.com/chakravala/Fatou.jl : [Fatou/Julia sets](https://en.wikipedia.org/wiki/Julia_set) in Julia (Fractals, Newton basins, Mandelbrot).
 - https://github.com/chakravala/Wilkinson.jl : Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 - https://github.com/chkwon/Complementarity.jl : This package provides a modeling and computational interface for solving [Mixed Complementarity Problems (MCP)](https://en.wikipedia.org/wiki/Mixed_complementarity_problem), modeling by `JuMP.jl` and computing by `PATHSolver.jl`.
 - https://github.com/chkwon/PATHSolver.jl : This package provides a Julia wrapper of the PATH Solver for solving _linear_ Mixed Complementarity Problems (MCP).
