@@ -22,7 +22,7 @@ title: Concurrency
 ## General Concurrency Packages
 
 - https://github.com/JuliaActors/Actors.jl : [Actor Model](https://en.wikipedia.org/wiki/Actor_model) concurrent model.
-- https://github.com/JuliaArrays/TiledIteration.jl : Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
+- https://github.com/JuliaArrays/TiledIteration.jl : Julia package to facilitate writing multithreaded, multidimensional, cache-efficient code.
 - https://github.com/JuliaFolds/Folds.jl : A unified interface for sequential, threaded, and distributed folds. The [docs](https://juliafolds.github.io/Folds.jl/stable/) list what functions it supports.
 - https://github.com/JuliaParallel/MessageUtils.jl : A collection of utilities for messaging.
 
