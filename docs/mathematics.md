@@ -127,14 +127,15 @@ Resources: https://github.com/williamstein/adeles algebraic number theory
 - https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl : Partly to extend linear algebra functionality in base to cover generic element types, e.g. `BigFloat` and `Quaternion`, and partly to be a place to experiment with fast linear algebra routines.
 - https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl : Iterative algorithms for solving linear systems, eigen systems, and singular value problems.
 - https://github.com/JuliaLinearAlgebra/LinearMaps.jl : A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
-- https://github.com/JuliaLinearAlgebra/MKL.jl : Intel MKL linear algebra backend for Julia.
-- https://github.com/JuliaMath/IntelVectorMath.jl : Julia bindings for the Intel Vector Math Library.
+- https://github.com/JuliaLinearAlgebra/MKL.jl : Intel [MKL](https://en.wikipedia.org/wiki/Math_Kernel_Library) linear algebra backend for Julia.
+- https://github.com/JuliaMath/IntelVectorMath.jl : Julia bindings for the [Intel Vector Math Library](https://www.intel.com/content/www/us/en/develop/documentation/onemkl-developer-reference-c/top/vector-mathematical-functions.html).
 - https://github.com/JuliaParallel/Elemental.jl : A Julia interface to the [Elemental linear algebra library](https://github.com/elemental/Elemental) with third-party interfaces.
 - https://github.com/JuliaRandom/VSL.jl : Julia bindings for the Intel Vector Statistics Library. Requires `MKL.jl`.
 - https://github.com/Jutho/TensorOperations.jl : Julia package for tensor contractions and related operations.
-- https://github.com/lopezm94/SugarBLAS.jl : Syntactic sugar for BLAS polynomials.
+- https://github.com/lopezm94/SugarBLAS.jl : syntactic sugar for BLAS polynomials.
 - https://github.com/mcabbott/TensorCast.jl :  working with multi-dimensional arrays in index notation.
 - https://github.com/wildart/LMCLUS.jl : Julia's package for Linear Manifold Clustering.
+- https://github.com/fverdugo/PartitionedArrays.jl : distributed (a.k.a. partitioned) vectors and sparse matrices in Julia.
 
 ### Array Data Structures
 
