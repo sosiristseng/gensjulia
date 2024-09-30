@@ -58,6 +58,7 @@ See also [[data-structures]].
 - https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving Riemann–Hilbert problems.
 - https://github.com/JuliaTurkuDataScience/FdeSolver.jl : A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.
 - https://github.com/ModiaSim/Modia.jl : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.
+- https://github.com/nathanaelbosch/ProbNumDiffEq.jl : Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing. [JuliaCon 2024 video](https://youtu.be/iH_GQiOaeUo)
 - https://github.com/QuantumBFS/QuDiffEq.jl : Quantum Algorithms for solving differential equations
 - https://github.com/SciML/Catalyst.jl : Domain-specific language (DSL) for chemical reaction networks.
 - https://github.com/SciML/DataDrivenDiffEq.jl : Data driven modeling and automated discovery of dynamical systems.

@@ -121,6 +121,7 @@ Resources: https://github.com/williamstein/adeles algebraic number theory
 - https://github.com/chakravala/DirectSum.jl : Abstract tangent bundle vector space type operations.
 - https://github.com/chakravala/Leibniz.jl : Operator algebras for mixed-symmetry multivariate differentiable tensor fields.
 - https://github.com/christianpeel/LLLplus.jl : LLL lattice reduction, sphere decoder, and related lattice tools.
+- https://github.com/fverdugo/PartitionedArrays.jl : distributed (a.k.a. partitioned) vectors and sparse matrices in Julia. It can be used for parallel algebraic multigrid (AMG) to solve PDE problems. [JuliaCon 2024 video](https://youtu.be/SRTP_STlGSk)
 - https://github.com/gragusa/Divergences.jl : A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 - https://github.com/JuliaFolds/FGenerators.jl : A package for defining `Transducers.jl`-compatible extended `foldl` with a simple `@yield`-based syntax.
 - https://github.com/JuliaFolds/Transducers.jl : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
@@ -131,11 +132,9 @@ Resources: https://github.com/williamstein/adeles algebraic number theory
 - https://github.com/JuliaMath/IntelVectorMath.jl : Julia bindings for the [Intel Vector Math Library](https://www.intel.com/content/www/us/en/develop/documentation/onemkl-developer-reference-c/top/vector-mathematical-functions.html).
 - https://github.com/JuliaParallel/Elemental.jl : A Julia interface to the [Elemental linear algebra library](https://github.com/elemental/Elemental) with third-party interfaces.
 - https://github.com/JuliaRandom/VSL.jl : Julia bindings for the Intel Vector Statistics Library. Requires `MKL.jl`.
-- https://github.com/Jutho/TensorOperations.jl : Julia package for tensor contractions and related operations.
-- https://github.com/lopezm94/SugarBLAS.jl : syntactic sugar for BLAS polynomials.
+
 - https://github.com/mcabbott/TensorCast.jl :  working with multi-dimensional arrays in index notation.
 - https://github.com/wildart/LMCLUS.jl : Julia's package for Linear Manifold Clustering.
-- https://github.com/fverdugo/PartitionedArrays.jl : distributed (a.k.a. partitioned) vectors and sparse matrices in Julia.
 
 ### Array Data Structures
 
@@ -206,6 +205,7 @@ Resources: https://github.com/williamstein/adeles algebraic number theory
 - https://github.com/ahwillia/Einsum.jl : [Einstein summation notation](https://en.wikipedia.org/wiki/Einstein_notation) in julia.
 - https://github.com/chakravala/AbstractTensors.jl : Tensor algebra abstract type interoperability with vector bundle parameter.
 - https://github.com/ITensor/ITensors.jl : A Julia library for efficient tensor calculations.
+- https://github.com/Jutho/TensorOperations.jl : Julia package for tensor contractions and related operations.
 - https://github.com/mcabbott/Tullio.jl : A very flexible [einsum](https://en.wikipedia.org/wiki/Einstein_notation) macro. A package for writing array operations in index notation.
 - https://github.com/willow-ahrens/Finch.jl : Finch is a cutting-edge Julia-to-Julia compiler specially designed for optimizing loop nests over sparse or structured multidimensional arrays.
 
