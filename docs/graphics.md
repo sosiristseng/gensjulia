@@ -84,7 +84,6 @@ See [[fileio]].
 
 - https://github.com/chakravala/Ganja.jl : Visualization for geometric algebra, not just algebra, using https://github.com/enkimute/ganja.js
 - https://github.com/chakravala/Grassmann.jl : ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
-- https://github.com/JuliaGeometry/Clipper.jl : Julia wrapper for Angus Johnson's [Clipper](https://angusj.com/delphi/clipper/documentation/Docs/Overview/_Body.htm) library.
 - https://github.com/JuliaGeometry/CoordinateTransformations.jl : A fresh approach to coordinate transformations.
 - https://github.com/JuliaGeometry/Descartes.jl : A research project into the representation of solid geometry.
 - https://github.com/JuliaGeo/GeometryOps.jl : a package for geometric calculations on (primarily 2D) geometries. [JuliaCon 2024 video](https://github.com/JuliaGeo/GeometryOps.jl)
