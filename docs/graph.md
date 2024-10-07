@@ -9,7 +9,6 @@ title: Graph Theory
 
 ## Graph data types
 
-- https://github.com/ITensor/ITensors.jl : A Julia library for efficient tensor computations and tensor network calculations.
 - https://github.com/ivanslapnicar/Arrowhead.jl : Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
 - https://github.com/JuliaCollections/AbstractTrees.jl : Abstract julia interfaces for working with trees.
 - https://github.com/JuliaGraphs/Graphs.jl : An optimized graphs package for the Julia programming language.
