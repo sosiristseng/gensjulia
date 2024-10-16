@@ -54,15 +54,13 @@ See also [[data-structures]].
 - https://github.com/JuliaApproximation/SingularIntegralEquations.jl : An experimental Julia package for solving singular integral equations.
 - https://github.com/JuliaComputing/ModelingToolkitSampledData.jl : A standard library with discrete-time components for ModelingToolkit. It requires `JuliaSimCompiler.jl`, a proprietary product. [JuliaCon 2024 video](https://youtu.be/wL-jYQ_O9Nc)
 - https://github.com/JuliaDynamics/ConcurrentSim.jl : A discrete event process oriented simulation framework written in Julia.
-- https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
-- https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving Riemann–Hilbert problems.
+- https://github.com/JuliaHolomorphic/RiemannHilbert.jl : A Julia package for solving a Riemann–Hilbert problem, a certain type of boundary value problem.
 - https://github.com/JuliaTurkuDataScience/FdeSolver.jl : A Julia package for the numerical solution of fractional differential equations (FDEs) as well as systems of equations.
 - https://github.com/ModiaSim/Modia.jl : Modia is a Julia package for modeling and simulation of multidomain engineering systems described by differential equations, algebraic equations, and (space-discretized) partial differential equations.
 - https://github.com/nathanaelbosch/ProbNumDiffEq.jl : Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing. [JuliaCon 2024 video](https://youtu.be/iH_GQiOaeUo)
 - https://github.com/QuantumBFS/QuDiffEq.jl : Quantum Algorithms for solving differential equations
 - https://github.com/SciML/Catalyst.jl : Domain-specific language (DSL) for chemical reaction networks.
 - https://github.com/SciML/DataDrivenDiffEq.jl : Data driven modeling and automated discovery of dynamical systems.
-- https://github.com/SciML/DiffEqFlux.jl : Combining DifferentialEquations.jl and Flux.jl as its building blocks to support research in Scientific Machine Learning, specifically neural differential equations and universal differential equations.
 - https://github.com/SciML/DifferentialEquations.jl : High-performance solvers of differential equations.
 - https://github.com/SciML/ModelingToolkit.jl : A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia.
 - https://github.com/SciML/SciMLSensitivity.jl : A component of the DiffEq ecosystem for sensitivity analysis.
@@ -90,11 +88,15 @@ See also [[data-structures]].
 - https://github.com/lcw/Heptapus.jl : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
 - https://github.com/omlins/ParallelStencil.jl : writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs.
 - https://github.com/PetrKryslUCSD/FinEtools.jl : `FinEtools` is a package for basic operations on finite element meshes: Construction, modification, selection, and evaluation of quantities defined on a mesh.
-- https://github.com/SciML/DiffEqOperators.jl : Linear operators for discretizations of differential equations.
 - https://github.com/SciML/MethodOfLines.jl : Automatic Finite Difference PDE solving with Julia.
+- https://github.com/trixi-framework/Trixi.jl : Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.  [JuliaCon 2021 video](https://youtu.be/hoViWRAhCBE)
+
+### Universal Differential Equations
+
+- https://github.com/Jack-H-Buckner/UniversalDiffEq.jl : builds Universal Differential Equations (UDEs) to learn nonlinear dynamics from time series data.
+- https://github.com/SciML/DiffEqFlux.jl : Combining DifferentialEquations.jl and Flux.jl as its building blocks to support research in Scientific Machine Learning, specifically neural differential equations and universal differential equations.
 - https://github.com/SciML/NeuralOperators.jl : Learning the solution operator for partial differential equations in pure Julia.
 - https://github.com/SciML/NeuralPDE.jl : Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations.
-- https://github.com/trixi-framework/Trixi.jl : Adaptive high-order numerical simulations of hyperbolic PDEs in Julia.  [JuliaCon 2021 video](https://youtu.be/hoViWRAhCBE)
 
 ## Stochastic algorithms
 
@@ -103,6 +105,12 @@ See also [[data-structures]].
 - https://github.com/alanderos91/BioSimulator.jl : A stochastic simulation framework in Julia.
 - https://github.com/SciML/StochasticDiffEq.jl : Solvers for stochastic differential equations in the SciML ecosystem.
 - https://github.com/sdwfrost/Gillespie.jl : Stochastic Gillespie-type simulations using Julia.
+
+## Difference Equations
+
+[Encyclopedia of Mathematic: Difference equation](https://encyclopediaofmath.org/wiki/Difference_equation)
+
+- https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
 
 ## Agent-based models
 
@@ -115,17 +123,22 @@ See also [[data-structures]].
 ## Network modeling
 
 - https://github.com/mehalter/Petri.jl : Petri net modeling framework.
-- https://github.com/PIK-ICoNe/NetworkDynamics.jl : A package for working with dynamical systems on complex networks. NetworkDynamics.jl provides an interface between `Graphs.jl` and `DifferentialEquations.jl`.
+- https://github.com/PIK-ICoNe/NetworkDynamics.jl : A package for working with dynamical systems on complex network, providing an interface between `Graphs.jl` and `DifferentialEquations.jl`.
 
 ## Utilities
 
+- https://github.com/bifurcationkit/BifurcationKit.jl : Bifurcation Analysis in Julia.
 - https://github.com/JinraeKim/SimulationLogger.jl : providing convenient logging tools for `DifferentialEquations.jl`.
 - https://github.com/jonniedie/SimulationLogs.jl : Signal logging and scoping for `DifferentialEquations.jl` simulations.
 - https://github.com/JuliaDynamics/DrWatson.jl : dealing with simulations and simulation parameters.
-- https://github.com/MarcusGalea/PhysicsInformedRegression.jl : solving inverse problems (parameter estimation) using physics informed regression. It requires well-defined derivatives. [JuliaCon 2024 video](https://youtu.be/ohmiQv5WemQ)
 - https://github.com/SciML/DataInterpolations.jl : Data interpolation and smoothing functions.
-- https://github.com/SciML/DiffEqParamEstim.jl : a package for simplified parameter estimation with `DifferentialEquations.jl`.
 - https://github.com/SciML/SciMLBenchmarks.jl : Benchmarks for scientific machine learning (SciML) software and differential equation solvers. [Benchmark results](https://benchmarks.sciml.ai/stable/)
+
+### Parameter estimation
+
+- https://github.com/MarcusGalea/PhysicsInformedRegression.jl : solving inverse problems (parameter estimation) using physics informed regression. It requires well-defined derivatives. [JuliaCon 2024 video](https://youtu.be/ohmiQv5WemQ)
+- https://github.com/SciML/DiffEqParamEstim.jl : a package for simplified parameter estimation with `DifferentialEquations.jl`.
+- https://github.com/SciML/SciMLSensitivity.jl : sensitivity analysis and parameter estimation.
 
 ## Others
 
