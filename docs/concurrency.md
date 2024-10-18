@@ -54,7 +54,9 @@ title: Concurrency
 
 ## Multi-Threading
 
-- https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the `lscpu` command (in virtually all Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
+- [Julia manual for multi-threading](https://docs.julialang.org/en/v1/manual/multi-threading/)
+
+- https://github.com/carstenbauer/ThreadPinning.jl : Pin Julia threads to CPU processors. Requires the `lscpu` command (Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
 - https://github.com/JuliaFolds2/OhMyThreads.jl : Simple multithreading in julia.
 
 ## Multiprocessing and Distributed Computing
@@ -62,20 +64,21 @@ title: Concurrency
 - [Wikipedia: Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.
 - [Wikipedia: Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 - [Julia at scale](https://discourse.julialang.org/c/domain/parallel/34) topic on discourse.
-- https://github.com/magerton/FARMTest.jl : Simple example scripts showing hot to run Julia on a SLURM cluster, using https://github.com/kleinhenz/SlurmClusterManager.jl
 
 ---
 
 - https://github.com/ChevronETC/Schedulers.jl : It provides elastic and fault tolerant parallel map and parallel map reduce methods.
 - https://github.com/ChrisRackauckas/ParallelDataTransfer.jl : A bunch of helper functions for transferring data between worker processes.
 - https://github.com/eschnett/Persist.jl : Running jobs in the background, independent of the Julia shell.
-- https://github.com/JuliaParallel/ClusterManagers.jl : Support for different clustering technologies.
+- https://github.com/JuliaParallel/ClusterManagers.jl : Support for different job queue systems commonly used on compute clusters. (e.g., Slurm, K8s, )
 - https://github.com/JuliaParallel/Dagger.jl : A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations. Similar to [`dask`](https://www.dask.org/) library in Python.
 - https://github.com/JuliaParallel/DistributedArrays.jl : A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 - https://github.com/JuliaParallel/MPI.jl :  Julia interface to the Message Passing Interface ([MPI](https://www.mpi-forum.org/))
 - https://github.com/JuliaPluto/Malt.jl : a multiprocessing package for Julia. It is used by https://github.com/fonsp/Pluto.jl to manage the Julia process that notebook code is executed in, as a replacement to Distributed.
 - https://github.com/kleinhenz/SlurmClusterManager.jl : julia package for running code on slurm clusters. See https://github.com/magerton/FARMTest.jl for simple example scripts.
 - https://github.com/zgornel/DispatcherCache.jl : Tool for building and executing a computation graph given a series of dependent operations.
+- https://github.com/beacon-biosignals/K8sClusterManagers.jl : A Julia cluster manager for Kubernetes.
+
 
 ## GPU computing
 
