@@ -288,6 +288,7 @@ See [[modeling-simulation]]
 
 ### Automatic Differentiation
 
+- https://github.com/gdalle/DifferentiationInterface.jl : An interface to various automatic differentiation backends in Julia. [JuliaCon 2024 video](https://youtu.be/ww3ntpyxNtI)
 - https://github.com/dfdx/Yota.jl : Reverse-mode automatic differentiation for static and dynamic graphs.
 - https://github.com/EnzymeAD/Enzyme.jl : Julia bindings for the [Enzyme](https://github.com/wsmoses/enzyme) automatic differentiator. The Enzyme project is a tool for performing reverse-mode automatic differentiation (AD) of statically-analyzable LLVM IR.
 - https://github.com/FluxML/Zygote.jl : Source-to-source automatic differentiation (AD) in Julia, and is the next-gen AD system for the Flux differentiable programming framework.
