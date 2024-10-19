@@ -68,6 +68,7 @@ title: Concurrency
 ---
 
 - https://github.com/beacon-biosignals/K8sClusterManagers.jl : A Julia cluster manager for Kubernetes.
+- https://github.com/beacon-biosignals/Ray.jl : Julia language interface for [Ray.io](https://www.ray.io/) workloads. [JuliaCon 2024 video](https://youtu.be/gqzl_zfJa7A)
 - https://github.com/ChevronETC/Schedulers.jl : It provides elastic and fault tolerant parallel map and parallel map reduce methods.
 - https://github.com/ChrisRackauckas/ParallelDataTransfer.jl : A bunch of helper functions for transferring data between worker processes.
 - https://github.com/eschnett/Persist.jl : Running jobs in the background, independent of the Julia shell.
@@ -78,7 +79,6 @@ title: Concurrency
 - https://github.com/JuliaPluto/Malt.jl : a multiprocessing package for Julia. It is used by https://github.com/fonsp/Pluto.jl to manage the Julia process that notebook code is executed in, as a replacement to Distributed.
 - https://github.com/kleinhenz/SlurmClusterManager.jl : julia package for running code on slurm clusters. See https://github.com/magerton/FARMTest.jl for simple example scripts.
 - https://github.com/zgornel/DispatcherCache.jl : Tool for building and executing a computation graph given a series of dependent operations.
-
 
 ## GPU computing
 
