@@ -3,14 +3,14 @@ name: Check markdown links
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 00 * * 1' # Every week
+    - cron: '0 0 1 * *' # Every month
   push:
     branches:
       - main
     paths:
-      - 'docs/**'
+      - 'content/**'
       - '.lycheeignore'
-      - '.github/workflows/linkcheck.yml'
+      - '.github/workflows/lychee.yml'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -20,15 +20,16 @@ jobs:
   linkcheck:
     runs-on: ubuntu-latest
     permissions:
-      issues: write
+      issues: write # required for peter-evans/create-issue-from-file
+    env:
+      DIR: 'content'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Restore lychee cache
         id: restore-cache
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
-          save-always: 'true'
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
@@ -36,15 +37,20 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         id: lychee
         with:
-          args: '--accept 200,204,429 --verbose --no-progress --cache --max-cache-age 1d docs/'
+          fail: false
+          args: '--accept 200,204,429 --verbose --no-progress --cache --max-cache-age 1d ${{ env.DIR }}'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save lychee cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
       - name: Create Issue From File
-        if: env.lychee_exit_code != 0
+        if: env.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          labels: |
-            report
-            automated issue
+          labels: 'automated issue'
