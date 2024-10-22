@@ -37,6 +37,7 @@ title: Earth and Space Science
 - https://github.com/EcoJulia/EcologicalNetworks.jl : Measure various aspects of the structure of ecological networks in Julia.
 - https://github.com/EcoJulia/SpatialEcology.jl : Julia framework for spatial ecology - data types and utilities.
 - https://github.com/PoisotLab/SpeciesDistributionToolkit.jl : Work with species distributions in Julia.
+- https://github.com/tiemvanderdeure/SpeciesDistributionModels.jl : a flexible and easy-to-use pipeline for fitting, evaluation, and using [species distribution models](https://en.wikipedia.org/wiki/Species_distribution_modelling). [JuliaCon 2024 📺](https://youtu.be/Tr293YB3ePQ)
 
 ### Aquatic Ecology
 
