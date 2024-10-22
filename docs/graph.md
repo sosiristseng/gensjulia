@@ -19,6 +19,7 @@ title: Graph Theory
 - https://github.com/QuantumBFS/Multigraphs.jl : A multigraph extension of `Graphs.jl`.
 - https://github.com/scheinerman/SimpleGraphs.jl : A module for working with simple graphs (no loops, no multiple edges, no directed edges).
 - https://github.com/simonschoelly/SimpleValueGraphs.jl : A `Graphs.jl` compatible package for graphs with multiple, homogeneous vertex, edge and graph metadata.
+- https://github.com/B4rtDC/MaxEntropyGraphs.jl : Julia implementation of [maximum entropy graph](https://en.wikipedia.org/wiki/Maximum-entropy_random_graph_model) models. [JuliaCon 2024 video](https://youtu.be/XlRxf72wCQg)
 
 ## File IO
 
