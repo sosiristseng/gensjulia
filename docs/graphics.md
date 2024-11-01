@@ -66,7 +66,7 @@ See [[fileio]].
 - https://github.com/JuliaImages/ImageCore.jl : Julia types for representing images.
 - https://github.com/JuliaTeX/TikzGraphs.jl : Graph layout package using algorithms built into [PGF/TikZ 3.0+](https://www.ctan.org/pkg/pgf).
 - https://github.com/JuliaTeX/TikzPictures.jl : Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
-- https://github.com/lobingera/Rsvg.jl : An adaptation of the [librsvg](https://wiki.gnome.org/action/show/Projects/LibRsvg) to render SVG to Cairo surfaces.
+- https://github.com/lobingera/Rsvg.jl : An adaptation of the [librsvg](https://wiki.gnome.org/Projects/LibRsvg) to render SVG to Cairo surfaces.
 
 ### OCR
 
