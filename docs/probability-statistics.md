@@ -26,6 +26,8 @@ title: Probability and Statistics
 
 [Wikipedia: Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process)
 
+https://github.com/Julia-Tempering/Pigeons.jl :  Sampling from intractable distributions, with support for distributed and parallel methods.
+
 ### Markov Logic Network
 
 [Wikipedia: Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
@@ -81,10 +83,6 @@ title: Probability and Statistics
 - https://github.com/madeleineudell/LowRankModels.jl : modeling and fitting generalized low rank models.
 - https://github.com/wildart/ManifoldLearning.jl : manifold learning and non-linear dimensionality reduction.
 
-## Geostatistics
-
-See [[earth-space-science]].
-
 ## Time series
 
 [Wikipedia: Time series](https://en.wikipedia.org/wiki/Time_series)
@@ -95,7 +93,7 @@ See [[earth-space-science]].
 - https://github.com/colintbowers/DependentBootstrap.jl : A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
 - https://github.com/dysonance/Temporal.jl : Flexible and efficient time series class & methods for the Julia language.
 - https://github.com/fipelle/MessyTimeSeries.jl : Time series analysis compatible with incomplete data.
-- https://github.com/johncwok/DCCA.jl : Detrended cross-correlations coefficient analysis : an easy to use Julia implementation.
+- https://github.com/johncwok/DCCA.jl : Detrended cross-correlations coefficient analysis.
 - https://github.com/JuliaDynamics/PerronFrobenius.jl : Estimating the transfer operator (Perron Frobenius operator) and invariant measures from time series.
 - https://github.com/JuliaStats/TimeSeries.jl : Time-series toolkit for Julia.
 
