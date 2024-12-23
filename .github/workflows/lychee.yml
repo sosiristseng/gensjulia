@@ -19,8 +19,6 @@ concurrency:
 jobs:
   linkcheck:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write # required for peter-evans/create-issue-from-file
     env:
       DIR: 'docs'
     steps:
