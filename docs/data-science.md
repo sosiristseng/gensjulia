@@ -23,12 +23,14 @@ title: Data Science
   - https://github.com/JuliaData/DataFramesMeta.jl : Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
 - https://github.com/JuliaData/Tables.jl : An generic interface for tables in Julia.
 - https://github.com/JuliaPy/Pandas.jl : A Julia front-end to Python's `pandas` package.
+- https://github.com/codedthinking/Kezdi.jl : Julia package for data manipulation and analysis. [Juliacon 2024](https://www.youtube.com/watch?v=JklbLwgePis)
 
 ## Data Manipulation
 
 - https://github.com/JuliaData/TableOperations.jl : Common table operations on `Tables.jl` interface implementations.
 - https://github.com/sl-solution/InMemoryDatasets.jl : Multithreaded package for working with tabular data in Julia.
 - https://github.com/TheRoniOne/Cleaner.jl : A toolbox of simple solutions for common data cleaning problems.
+
 
 ## DataBase API
 
