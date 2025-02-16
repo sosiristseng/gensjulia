@@ -28,10 +28,20 @@ jobs:
         id: setup-python
         with:
           python-version: '3.x'
+          cache: 'pip'
+      - name: Cache virtualenv
+        uses: actions/cache@v4
+        id: cache-venv
+        with:
+          key: ${{ runner.os }}-venv-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('requirements.txt') }}
+          path: .venv
       - name: Install Python dependencies
         run: |
-          pip install uv
-          uv pip install --system -r requirements.txt
+          python -m venv .venv
+          source .venv/bin/activate
+          python -m pip install -r requirements.txt
+          echo ".venv/bin" >> $GITHUB_PATH
+          echo "VIRTUAL_ENV=.venv" >> $GITHUB_ENV
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
