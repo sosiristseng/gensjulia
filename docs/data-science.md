@@ -74,5 +74,4 @@ For tabular data file: [[fileio]]
 - https://github.com/JuliaStats/RDatasets.jl : Julia package for loading many of the datasets available in R.
 - https://github.com/neomatrixcode/Faker.jl : A package that generates fake data.
 - https://github.com/oxinabox/DataDeps.jl : reproducible data setup for reproducible science.
-- https://github.com/tecosaur/DataToolkit.jl : Providing a data CLI for reproducible, flexible, and convenient data management.
 - https://github.com/tecosaur/DataToolkit.jl : Reproducible, flexible, and convenient data management.
