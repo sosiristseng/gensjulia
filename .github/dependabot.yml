@@ -3,12 +3,13 @@ updates:
   - package-ecosystem: pip
     directory: "/"
     schedule:
-      interval: daily
-    labels:
-      - automerge
+      interval: weekly
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
-      interval: daily
-    labels:
-      - automerge
+      interval: weekly
+    groups:
+      gha-dependencies:
+        applies-to: "version-updates"
+        patterns:
+          - "*"
