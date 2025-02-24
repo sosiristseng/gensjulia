@@ -59,6 +59,7 @@ title: Programming Paradigms
 - https://github.com/jolin-io/SimpleMatch.jl : a simple Julia pattern matching package providing only the `@match` macro.
 - https://github.com/JuliaServices/Match.jl : Advanced Pattern Matching for Julia.
 - https://github.com/thautwarm/MLStyle.jl : Julia functional programming infrastructures and metaprogramming facilities.
+- https://github.com/Roger-luo/Moshi.jl : Generic Algebraic Data Type + Pattern Match.
 
 ## Reactive Programming
 
