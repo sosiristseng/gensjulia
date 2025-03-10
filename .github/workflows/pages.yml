@@ -28,10 +28,12 @@ jobs:
         id: setup-python
         with:
           python-version: '3.x'
-      - name: Setup uv
-        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
       - name: Install Python dependencies
-        run: uv pip install --system -r requirements.txt
+        run: uv pip install -r requirements.txt
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
