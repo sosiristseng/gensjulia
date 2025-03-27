@@ -8,16 +8,16 @@ Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
 ## Plots.jl
 
+- https://github.com/JuliaPlots/Plots.jl : A Julia plotting package with multiple backends gives the user simple, consistent, and flexible plotting commands.
+  - https://github.com/JuliaPlots/PlotThemes.jl : Themes for the Julia plotting package `Plots.jl`.
+  - https://github.com/JuliaPlots/PlotUtils.jl : Generic helper algorithms for building plotting components.
+  - https://github.com/JuliaPlots/RecipesBase.jl : Base package for defining transformation recipes on user types for `Plots.jl`.
 - https://github.com/jacobusmmsmit/TernaryPlots.jl : Ternary/simplex plotting recipe/addon for `Plots.jl`.
 - https://github.com/JuliaPlots/GraphRecipes.jl : Graph-related recipes to be used with `Plots.jl`.
-- https://github.com/JuliaPlots/Plots.jl : A Julia plotting package with multiple backends gives the user simple, consistent, and flexible plotting commands.
-- https://github.com/JuliaPlots/PlotThemes.jl : Themes for the Julia plotting package `Plots.jl`.
-- https://github.com/JuliaPlots/PlotUtils.jl : Generic helper algorithms for building plotting components.
-- https://github.com/JuliaPlots/RecipesBase.jl : Base package for defining transformation recipes on user types for `Plots.jl`.
 - https://github.com/JuliaPlots/StatsPlots.jl : Statistical plotting recipes for `Plots.jl`.
 - https://github.com/jverzani/ImplicitEquations.jl : Plotting implicit equations and inequalities.
 
-## Maplotlib
+## Matplotlib
 
 - https://github.com/JuliaPy/PyPlot.jl : `matplotlib.pyplot` wrapper using `PyCall.jl`.
 - https://github.com/stevengj/PythonPlot.jl : `matplotlib.pyplot` wrapper using `PythonCall.jl`.
