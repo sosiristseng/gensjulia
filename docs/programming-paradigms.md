@@ -9,7 +9,7 @@ title: Programming Paradigms
 ## Automata
 
 - [Wikipedia: Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation))
-- [Wikipedia: Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
+- [Wikipedia: Deterministic finite automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)
 
 ---
 
