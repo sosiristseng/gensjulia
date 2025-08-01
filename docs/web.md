@@ -86,7 +86,7 @@ title: Web
 https://github.com/tlienart/Franklin.jl : static site generation with live Julia code evaluation.
 
 - https://github.com/tlienart/FranklinTemplates.jl : Simple website templates for Franklin.jl
-- https://tlienart.github.io/PkgPage.jl : package front-pages powered by `Franklin.jl`.
+- https://github.com/JuliaDocs/PkgPage.jl : package front-pages powered by `Franklin.jl`.
 
 ### Pluto.jl
 

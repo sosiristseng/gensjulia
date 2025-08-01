@@ -9,7 +9,7 @@ title: Data Structures
 
 - [Youtube: The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017 by Jeff Bezanson
 - [Youtube: The Unreasonable Effectiveness of Multiple Dispatch](https://youtu.be/kc9HwsxE1OY)  at JuliaCon 2019 by Stefan Karpinski
-- [A more thorough look at Julia's **double colon** syntax](https://nbviewer.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
+
 
 ## General data structures
 

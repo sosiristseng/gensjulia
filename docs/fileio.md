@@ -27,7 +27,7 @@ Similar to Python's [`pickle`](https://docs.python.org/3/library/pickle.html).
 - https://github.com/JuliaIO/Blosc.jl : Fast lossless compression from the [Blosc](https://www.blosc.org/) library, currently limited to 32-bit buffer sizes.
 - https://github.com/JuliaIO/Snappy.jl : A Julia wrapper for the [snappy](https://google.github.io/snappy/) library.
 - https://github.com/JuliaIO/TranscodingStreams.jl : Simple, consistent interfaces for `zip`, `zstd`, `lz4`, `bzip2`, etc.
-- https://github.com/yuyichao/LibArchive.jl : Wrapper for [libarchive](https://www.libarchive.org/).
+- https://github.com/yuyichao/LibArchive.jl : Wrapper for https://github.com/libarchive/libarchive.
 
 ### ZIP
 

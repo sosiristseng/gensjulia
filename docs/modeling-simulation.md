@@ -84,7 +84,7 @@ See also [[data-structures]].
 - https://github.com/j-fu/VoronoiFVM.jl : Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method.
 - https://github.com/JuliaFEM/FEMBasis.jl : Package contains interpolation routines for standard finite element function spaces.
 - https://github.com/JuliaFEM/JuliaFEM.jl : Finite Element method solver.
-- https://github.com/JuliaParallel/PETSc.jl : A Julia interface for [PETSc](https://www.mcs.anl.gov/petsc/).
+- https://github.com/JuliaParallel/PETSc.jl : A Julia interface for [PETSc](https://petsc.org/).
 - https://github.com/JuliaSmoothOptimizers/Krylov.jl : A Julia Basket of Hand-Picked Krylov Methods.
 - https://github.com/lcw/Heptapus.jl : The roofline function is a translation of the [roofline code](https://github.com/paranumal/libparanumal/), Accelerated finite element flow solvers.
 - https://github.com/omlins/ParallelStencil.jl : writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs.

@@ -59,7 +59,7 @@ title: Earth and Space Science
 
 ---
 
-- https://github.com/AIRCentre/SARProcessing.jl : processing of synthetic aperture radar (SAR) data, including loading [Single-Look-Complex][] (SLC) and [Ground-Range-Detected][] (GRD) images, speckle reduction, object detection in SAR image, interferometry, and more. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=HONx0bzFneU)
+- https://github.com/AIRCentre/SARProcessing.jl : processing of synthetic aperture radar (SAR) data, including loading Single Look Complex and Ground Range Detected (GRD) images, speckle reduction, object detection in SAR image, interferometry, and more. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=HONx0bzFneU)
 - https://github.com/GenericMappingTools/GMT.jl :Julia wrapper for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt)(GMT).
 - https://github.com/JuliaEarth/CoordRefSystems.jl : Unitful coordinate reference systems for geographic maps in Julia.
 - https://github.com/JuliaEarth/GeoStats.jl : An extensible framework for high-performance geostatistics in Julia.
@@ -74,9 +74,6 @@ title: Earth and Space Science
 - https://github.com/philoez98/Turf.jl : A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 - https://github.com/pszufe/OpenStreetMapX.jl : OpenStreetMap support for Julia 1.0. The package can parse `*.osm` and `*.pbf` (contributed by @blegat) files and generate a LightGraphs representation along the metadata. [JuliaCon2021 tutorial](https://pszufe.github.io/OpenStreetMapX_Tutorial/JuliaCon2021/)
 - https://github.com/pszufe/OpenStreetMapXPlot.jl : plotting companion for the `OpenStreetMapX.jl` package.
-
-[Single-Look-Complex]: https://sentinels.copernicus.eu/web/sentinel/technical-guides/sentinel-1-sar/products-algorithms/level-1-algorithms/single-look-complex
-[Ground-Range-Detected]: https://sentinels.copernicus.eu/web/sentinel/technical-guides/sentinel-1-sar/products-algorithms/level-1-algorithms/ground-range-detected
 
 ## GPS
 

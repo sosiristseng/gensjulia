@@ -180,7 +180,7 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 - [Julia on the SageMath cloud server](https://cocalc.com/)
 - [Repl.it](https://replit.com/)
 - [Nextjournal](https://nextjournal.com/)
-- [CodeBunk](https://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
+
 
 ## Shell scripting
 
