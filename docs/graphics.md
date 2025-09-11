@@ -119,7 +119,8 @@ See [[fileio]].
 - https://github.com/sebastianpech/JuliaKara.jl : A julia port of the learning environment [Kara](https://www.swisseduc.ch/informatik/karatojava/).
 - https://github.com/xiaodaigh/Game2048.jl : Simulation of the game 2048 in Julia. The base package is https://github.com/xiaodaigh/Game2048Core.jl .
 - https://kyjor.itch.io/super-mango-julia : Super Mango is a short 2D platformer game crafted with the Julia programming language, which was created as an example for all of https://github.com/Kyjor/JulGame.jl.
-- https://github.com/Gesee-y/ReactiveECS.jl : Building high-performance, modular, and reactive simulations, with a focus on game development and scientific applications. [Julia forum link](https://discourse.julialang.org/t/reactiveecs-jl-v2-0-0-breaking-changes-for-massive-performance-boosts/130564/1)
+- https://github.com/Gesee-y/ReactiveECS.jl : Building high-performance, modular, and reactive simulations, with a focus on game development and scientific applications. [Julia forum thread](https://discourse.julialang.org/t/reactiveecs-jl-v2-0-0-breaking-changes-for-massive-performance-boosts/130564/1)
+- https://github.com/Gesee-y/Cruise.jl : A modular Game engine in Julia. [Julia forum thread](https://discourse.julialang.org/t/cruise-v0-1-0-a-julia-game-engine/130708)
 
 ## Misc
 
