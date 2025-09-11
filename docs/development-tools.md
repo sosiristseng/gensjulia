@@ -144,7 +144,7 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 [Julia editor suport](https://github.com/JuliaEditorSupport) organization.
 
 - [Julia VSCode](https://www.julia-vscode.org/) : A powerful, free IDE for the Julia language.
-- [jedit-julia](https://github.com/tuckerkevin/jedit-julia) : A [jEdit](http://jedit.org/) mode for Julia.
+- [jedit-julia](https://github.com/tuckerkevin/jedit-julia) : A [jEdit](https://jedit.org/) mode for Julia.
 - [Julia.tmbundle](https://github.com/JuliaEditorSupport/Julia.tmbundle) : Julia language support for TextMate 2 (and Sublime Text).
 - [LiClipse](https://www.liclipse.com/) : Eclipse plus some customizations, supports Julia.
 - https://github.com/cormullion/juliamono : A monospaced font for Julia with unicode characters and ligatures.

@@ -112,7 +112,7 @@ title: Earth and Space Science
 - https://github.com/JuliaAstro/AstroLib.jl : Bundle of small astronomical and astrophysical routines, based on [IDL Astronomy User's Library](https://asd.gsfc.nasa.gov/archive/idlastro/) (AstroLib).
 - https://github.com/JuliaAstro/Cosmology.jl : Cosmology library for Julia.
 - https://github.com/JuliaAstro/DustExtinction.jl : Tools for interstellar dust extinction in astronomy
-- https://github.com/JuliaAstro/ERFA.jl : Julia wrapper for [liberfa](https://github.com/liberfa/erfa) (Essential Routines for Fundamental Astronomy), which is based on the [SOFA](http://www.iausofa.org) library.
+- https://github.com/JuliaAstro/ERFA.jl : Julia wrapper for https://github.com/liberfa/erfa (Essential Routines for Fundamental Astronomy), which is based on the SOFA library:.
 - https://github.com/JuliaAstro/JPLEphemeris.jl : The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 - https://github.com/JuliaAstro/SkyCoords.jl : Astronomical coordinate systems in Julia.
 - https://github.com/JuliaAstro/WCS.jl : Astronomical [World Coordinate System](https://www.atnf.csiro.au/people/mcalabre/WCS/) library for Julia.

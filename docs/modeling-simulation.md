@@ -112,8 +112,6 @@ See also [[data-structures]].
 
 ## Difference Equations
 
-[Encyclopedia of Mathematic: Difference equation](https://encyclopediaofmath.org/wiki/Difference_equation)
-
 - https://github.com/JuliaDynamics/DynamicalSystems.jl : Julia software library for the exploration of chaos and nonlinear dynamics.
 
 ## Agent-based models
