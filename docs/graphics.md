@@ -119,6 +119,7 @@ See [[fileio]].
 - https://github.com/sebastianpech/JuliaKara.jl : A julia port of the learning environment [Kara](https://www.swisseduc.ch/informatik/karatojava/).
 - https://github.com/xiaodaigh/Game2048.jl : Simulation of the game 2048 in Julia. The base package is https://github.com/xiaodaigh/Game2048Core.jl .
 - https://kyjor.itch.io/super-mango-julia : Super Mango is a short 2D platformer game crafted with the Julia programming language, which was created as an example for all of https://github.com/Kyjor/JulGame.jl.
+- https://github.com/Gesee-y/ReactiveECS.jl : [Julia forum link](https://discourse.julialang.org/t/reactiveecs-jl-v2-0-0-breaking-changes-for-massive-performance-boosts/130564/1)
 
 ## Misc
 
