@@ -26,15 +26,16 @@ See [[fileio]].
 - https://github.com/jtramm/ConstructiveSolidGeometry.jl : A Constructive Solid Geometry (CSG) and ray tracing package for Julia.
 - https://github.com/JuliaGeometry/Contour.jl : Calculating contour curves for 2D scalar fields in Julia.
 - https://github.com/JuliaGL/DevIL.jl : https://github.com/DentonW/DevIL / OpenIL binding for Julia.
-- https://github.com/JuliaGraphics/Fontconfig.jl : provides basic binding to fontconfig.
+- https://github.com/JuliaGraphics/Cairo.jl : Bindings to the [Cairo](https://www.cairographics.org/) graphics library.
+- https://github.com/JuliaGraphics/ColorBrewer.jl : A Julia library for generating color brewer color schemes.
+- https://github.com/JuliaGraphics/Fontconfig.jl : provides basic binding to [fontconfig](https://www.freedesktop.org/wiki/Software/fontconfig/).
 - https://github.com/JuliaGraphics/Luxor.jl : an easy-to-use sugary coating in Julia for the Cairo graphics package.
-- https://github.com/JuliaImages/ImageFeatures.jl : Image feature detection for Julia.
 - https://github.com/JuliaPlots/VisualRegressionTests.jl : Automated integrated regression tests for graphics libraries.
-- https://github.com/peterkovesi/PerceptualColourMaps.jl : Perceptually Uniform Colour Maps for Julia.
+- https://github.com/peterkovesi/PerceptualColourMaps.jl : Perceptually Uniform Color Maps for Julia.
 - https://github.com/rened/ShapeModels.jl : Statistical shape models / point distribution models.
 - https://github.com/shashi/Reel.jl : Computations caught on camera.
+- https://github.com/stensmo/Skia.jl : Support for the [Skia](https://skia.org/) library in Julia.
 - https://github.com/timholy/HalideCall.jl : Use shared libraries created by Halide from Julia.
-- https://github.com/timothyrenner/ColorBrewer.jl : A Julia library for generating color brewer color schemes. (No `Project.toml`)
 
 ### Image Processing
 
@@ -42,6 +43,7 @@ See [[fileio]].
 - https://github.com/hyrodium/ImageClipboard.jl : Copy and Paste images with Julia.
 - https://github.com/JuliaEarth/ImageQuilting.jl : Image quilting for texture synthesis in Julia .
 - https://github.com/JuliaHCI/SubpixelRegistration.jl : Efficient subpixel image registration algorithm implementation that allows you to register arrays of arbitrary dimensions (not just 2d). Functions are written for AbstractArrays and should work for Images.
+- https://github.com/JuliaImages/ImageFeatures.jl : Image feature detection for Julia.
 - https://github.com/JuliaImages/ImageSegmentation.jl : Partitioning images into meaningful regions.
 - https://github.com/JuliaImages/ImageView.jl : Interactive display of images and movies.
 - https://github.com/JuliaImages/TestImages.jl : Loading standard test images into Julia.
