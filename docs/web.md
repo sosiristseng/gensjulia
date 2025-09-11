@@ -83,14 +83,11 @@ title: Web
 
 ### Franklin.jl
 
-https://github.com/tlienart/Franklin.jl : static site generation with live Julia code evaluation.
+https://github.com/JuliaDocs/Franklin.jl : static site generation with live Julia code evaluation.
 
-- https://github.com/tlienart/FranklinTemplates.jl : Simple website templates for Franklin.jl
+- https://github.com/JuliaDocs/FranklinTemplates.jl : Simple website templates for Franklin.jl
 - https://github.com/JuliaDocs/PkgPage.jl : package front-pages powered by `Franklin.jl`.
 
 ### Pluto.jl
 
-https://github.com/fonsp/Pluto.jl : Simple reactive notebooks for Julia.
-
-- https://github.com/JuliaPluto/PlutoSliderServer.jl : Web server to host Pluto notebooks supporting static conversion to HTML files.
-- https://github.com/rikhuijzer/PlutoStaticHTML.jl : Convert Pluto notebooks to pure HTML files. [Template for Julia tutorials](https://rikhuijzer.github.io/JuliaTutorialsTemplate/).
+See [[development-tools#Pluto notebooks|Pluto notebooks]] in the development tools section.

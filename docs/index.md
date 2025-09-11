@@ -66,7 +66,6 @@ title: Home
 - [Tabular Data I/O in Julia](https://www.r-bloggers.com/2013/08/tabular-data-io-in-julia/) by Randy Zwitch.
 - [What's bad about Julia](https://viralinstruction.com/posts/badjulia/) by Jakob.
 
-
 ## Julia learning resources
 
 Official Julia learning site: [Get started with Julia](https://julialang.org/learning/).

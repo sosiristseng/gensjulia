@@ -75,7 +75,7 @@ Julia development tools, compilers, debuggers, [DevOps](https://en.wikipedia.org
 
 - https://github.com/adolgert/UnitTestDesign.jl : chooses efficient combinations functional arguments to maximize test coverage.
 - https://github.com/invenia/Mocking.jl : allowing temporary overwriting of Julia methods for testing purposes.
-- https://github.com/julia-vscode/TestItemRunner.jl : run Julia tests in VSCode.
+- https://github.com/julia-vscode/TestItemRunner.jl : run Julia tests with `@testitem` in VSCode.
 - https://github.com/JuliaCI/Coverage.jl : tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov.
 - https://github.com/JuliaCloud/MockAWS.jl : patch functions for testing all AWS services.
 - https://github.com/JuliaTesting/ReTest.jl : Testing framework for Julia, allowing deferred execution and filtered test sets.
@@ -85,11 +85,11 @@ Julia development tools, compilers, debuggers, [DevOps](https://en.wikipedia.org
 - https://github.com/wookay/Jive.jl : running test in parallel. It also supports watch folder function.
 - https://github.com/YingboMa/SafeTestsets.jl : `@safetestset` puts `@testset` into a module to reduce global side effects.
 
-### Logging
+## Logging
 
 See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Logging/) facilities.
 
-- https://github.com/JuliaLogging/ProgressLogging.jl : a package for defining progress logs.
+- https://github.com/JuliaLogging/ProgressLogging.jl : a package for defining progress logs, supported by REPL (https://github.com/JuliaLogging/TerminalLoggers.jl), VS Code, Pluto.
 
 ## Benchmarking and Regression Testing
 
@@ -104,16 +104,24 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 - https://github.com/JuliaCI/PkgEval.jl : Evaluate Julia packages for a range of Julia versions.
 - https://github.com/JuliaOpt/ConicBenchmarkUtilities.jl : Julia utilities for the conic benchmark format for mathematical optimization.
 - https://github.com/JuliaPlots/VisualRegressionTests.jl : Automated integrated regression tests for graphics libraries by comparing similarity between a newly generated image and a reference image.
-- https://github.com/kimikage/ProfileSVG.jl : Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
 - https://github.com/KristofferC/TimerOutputs.jl : Formatted output of timed sections in julia.
 - https://github.com/schmrlng/CPUTime.jl : A module for CPU timing.
+- https://github.com/xiaodaigh/DataBench.jl : A package to benchmark data manipulation in Julia vs `R data.table`.
+
+### Profilers
+
+Analyzing how much time is spent on individual line(s).
+
+Julia docs: https://docs.julialang.org/en/v1/manual/profile/
+
+- https://github.com/kimikage/ProfileSVG.jl : Write flame graphs to SVG format and explore them interactively in Jupyter, Pluto, etc.
 - https://github.com/timholy/ProfileView.jl : Visualization of Julia profiling data
 - https://github.com/tkluck/StatProfilerHTML.jl : Show Julia profiling data in an HTML page.
-- https://github.com/xiaodaigh/DataBench.jl : A package to benchmark data manipulation in Julia vs `R data.table`.
 
 ## Debugger
 
 - [JuliaDebug](https://github.com/JuliaDebug) organization.
+- [Debugging in VS Code](https://www.julia-vscode.org/docs/stable/userguide/debugging/)
 
 ---
 
@@ -144,7 +152,6 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 [Julia editor suport](https://github.com/JuliaEditorSupport) organization.
 
 - [Julia VSCode](https://www.julia-vscode.org/) : A powerful, free IDE for the Julia language.
-- [jedit-julia](https://github.com/tuckerkevin/jedit-julia) : A [jEdit](https://jedit.org/) mode for Julia.
 - [Julia.tmbundle](https://github.com/JuliaEditorSupport/Julia.tmbundle) : Julia language support for TextMate 2 (and Sublime Text).
 - [LiClipse](https://www.liclipse.com/) : Eclipse plus some customizations, supports Julia.
 - https://github.com/cormullion/juliamono : A monospaced font for Julia with unicode characters and ligatures.
@@ -163,13 +170,22 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 - https://github.com/bfredl/Neovim.jl by @bfredl : Neovim client for Julia.
 - https://github.com/baruchel/vim-notebook : Vim users can use Julia from the `vim-notebook` plugin.
 
-### Jupyter Notebooks
+### Jupyter notebooks
 
 [Jupyter](https://github.com/jupyter)
 
 - https://github.com/JuliaLang/IJulia.jl : Julia kernel for Jupyter.
 - https://github.com/JuliaGizmos/Interact.jl : Library for interactive widgets in IJulia.
 - https://github.com/stevengj/NBInclude.jl : Import code from IJulia Jupyter notebooks into Julia programs.
+
+### Pluto notebooks
+
+- https://github.com/fonsp/Pluto.jl : Reactive notebooks for Julia.
+- https://github.com/JuliaPluto/PlutoUI.jl : A small package with interactive elements to be used in Pluto.jl.
+- https://github.com/JuliaPluto/PlutoPages.jl : `PlutoPages.jl` is a site generation system inspired by https://www.11ty.dev/.
+- https://github.com/JuliaPluto/PlutoSliderServer.jl : Web server to host Pluto notebooks supporting static conversion to HTML files.
+- https://github.com/rikhuijzer/PlutoStaticHTML.jl : Convert Pluto notebooks to pure HTML files. [Template for Julia tutorials](https://rikhuijzer.github.io/JuliaTutorialsTemplate/).
+
 
 ### Web IDE
 
@@ -197,7 +213,6 @@ See also the built-in [Julia logging](https://docs.julialang.org/en/v1/stdlib/Lo
 - https://github.com/PeaceFounder/AppBundler.jl : building Julia GUI applications in modern desktop application installer formats in Linux (snap), Windows (MSIX), and MacOS (DMG). [JuliaCon 2024 video](https://youtu.be/wICPVpDa7aw)
 
 [Electron]: https://www.electronjs.org
-
 
 ## Continuous integration (CI) providers
 

@@ -66,7 +66,6 @@ title: Programming Paradigms
 [Wikipedia: Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
 - https://github.com/biaslab/Rocket.jl : A functional reactive programming extensions library for Julia.
-- https://github.com/fonsp/Pluto.jl : Reactive notebooks for Julia.
 - https://github.com/JuliaGizmos/Reactive.jl : A package for reactive programming in Julia.
 
 ## Design by contract
