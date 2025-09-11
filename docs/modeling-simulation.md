@@ -27,11 +27,12 @@ General modeling and simulation packages in Julia.
 
 [Wikipedia: Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
 
+- https://github.com/JuliaSymbolics/Symbolics.jl : A fast and modern CAS for a fast and modern language.
+
 - https://github.com/chakravala/Reduce.jl : Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 - https://github.com/jlapeyre/Symata.jl : language for symbolic mathematics.
 - https://github.com/JuliaPy/SymPy.jl : Julia interface to [SymPy](https://www.sympy.org/) via `PyCall.jl`.
 - https://github.com/jverzani/SymPyPythonCall.jl : Julia interface to [SymPy](https://www.sympy.org/) via `PythonCall.jl`.
-- https://github.com/JuliaSymbolics/Symbolics.jl : A fast and modern CAS for a fast and modern language.
 - https://github.com/MilesCranmer/SymbolicRegression.jl : Distributed High-Performance symbolic regression in Julia.
 - https://github.com/symengine/SymEngine.jl : Julia wrappers of https://github.com/symengine/symengine.
 
@@ -66,6 +67,8 @@ See also [[data-structures]].
 - https://github.com/SciML/ModelingToolkit.jl : A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia.
 - https://github.com/SciML/SciMLSensitivity.jl : A component of the DiffEq ecosystem for sensitivity analysis.
 - https://github.com/SciML/Sundials.jl : A Julia package that interfaces to the [Sundials](https://computing.llnl.gov/projects/sundials) library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
+- [Dyad.jl](https://juliahub.com/products/dyad) : Modern Modeling and Simulation powered by Machine Learning (formerly JuliaSim). [Julia forum thread](https://discourse.julialang.org/t/ann-dyad-a-new-language-to-make-hardware-engineering-as-fast-as-software/129996)
+
 
 ### Partial Differential Equations
 
