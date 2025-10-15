@@ -14,6 +14,10 @@ title: Physics
 
 - [PhysicalConstants](https://github.com/JuliaPhysics/PhysicalConstants.jl) : Curated physical constants.
 
+## Astrophysics
+
+[[earth-space-science#Astronomy and astrophysics]]
+
 ## Particle Physics
 
 [Wikipedia: Particle Physics](https://en.wikipedia.org/wiki/Particle_physics)
@@ -58,7 +62,7 @@ title: Physics
 - https://github.com/JuliaMath/Hadamard.jl : Fast multidimensional Walsh-Hadamard transforms.
 - https://github.com/JuliaQuantumControl/QuantumControl.jl : Julia Framework for Quantum Dynamics and Control. [JuliaCon 2023 Video](https://www.youtube.com/watch?v=GgA8qPGifJ8)
 - https://github.com/Jutho/WignerSymbols.jl : A Julia package for computing Wigner symbols and related quantities.
-- Https://github.com/mhauru/MERAKit.jl : provides Julia implementations of some basic [Multiscale Entaglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
+- Https://github.com/mhauru/MERAKit.jl : provides Julia implementations of some basic [Multiscale Entanglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
 - https://github.com/qojulia/QuantumCumulants.jl : Generalized mean-field equations in open quantum systems. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 - https://github.com/qojulia/QuantumOptics.jl : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/). [JuliaCon 2023 Video](https://www.youtube.com/watch?v=sWvk-2lxMZU)
 - https://github.com/QuantumBFS/Yao.jl : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
