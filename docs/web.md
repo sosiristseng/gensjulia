@@ -38,7 +38,6 @@ title: Web
 
 ## Web frameworks
 
-- https://github.com/EricForgy/Pages.jl : A simple way to create and interact with web pages.
 - https://github.com/GenieFramework/Genie.jl : The highly productive Julia web framework.
 - https://github.com/JuliaGizmos/Blink.jl : Julia wrapper around [Electron](https://electronjs.org/).
 - https://github.com/JuliaGizmos/WebIO.jl : WebIO provides a simple abstraction for displaying and interacting with web content.
