@@ -33,7 +33,7 @@ jobs:
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
         with:
-          version: "latest"
+          enable-cache: true
       - name: Install Python dependencies
         run: uv pip install -r requirements.txt
       - name: Setup Pages
