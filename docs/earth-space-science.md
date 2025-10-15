@@ -118,6 +118,7 @@ title: Earth and Space Science
 - https://github.com/JuliaAstro/WCS.jl : Astronomical [World Coordinate System](https://www.atnf.csiro.au/people/mcalabre/WCS/) library for Julia.
 - https://github.com/JuliaAstroSim/AstroNbodySim.jl : Unitful and differentiable gravitational N-body simulation code in Julia.
 - https://github.com/JuliaSpace/SatelliteToolbox.jl : A toolbox for satellite analysis written in Julia.
+- https://github.com/hersle/SymBoltz.jl : A symbolic-numeric, approximation-free and differentiable linear Einstein-Boltzmann solver.
 
 ### Visualizations
 
