@@ -24,7 +24,7 @@ title: Web
 
 ## Email
 
-- https://github.com/aviks/SMTPClient.jl : An SMTP client to send emails from Julia.
+- https://github.com/aviks/SMTPClient.jl : A CURL based SMTP client to send emails from Julia.
 
 ## Server backends
 
