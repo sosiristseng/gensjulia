@@ -25,7 +25,7 @@ title: Audio and Video Processing
 
 - https://github.com/bramtayl/Justly.jl : compose and play music using any pitches you want.
 - https://github.com/fundamental/OpenSoundControl.jl : Open Sound Control serialization library, a port of [RTOSC](https://github.com/fundamental/rtosc) for Julia.
-- https://github.com/JuliaAudio/PortAudio.jl : Julia interface API for the [PortAudio](http://www.portaudio.com/) library for cross-platform access to audio devices.
+- https://github.com/JuliaAudio/PortAudio.jl : Julia interface API for the https://github.com/PortAudio/portaudio library for cross-platform access to audio devices.
 - https://github.com/JuliaAudio/SampledSignals.jl : Core types for regularly-sampled multichannel signals like Audio, RADAR and Software-Defined Radio.
 - https://github.com/JuliaMusic/Mplay.jl : A Julia MIDI Mixer / Player with an OpenGL based GUI.
 - https://github.com/JuliaMusic/MusicManipulations.jl : Manipulate music data, humanize, quantize and analyze music performances with Julia.
