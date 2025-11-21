@@ -5,7 +5,6 @@ title: Utilities
 - https://github.com/dmolina/DaemonMode.jl : Client-Daemon workflow to run faster scripts in Julia.
 - https://github.com/guo-yong-zhi/WordCloud.jl : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
 - https://github.com/JuliaCollections/Memoize.jl : Easy memoization for Julia.
-- https://github.com/JuliaCon/JuliaCon.jl : [JuliaCon](https://juliacon.org/) greetings and announcements.
 - https://github.com/LilithHafner/UpdateJulia.jl : Simple cross platform Julia installer and updater.
 - https://github.com/mth229/MTH229.jl : Helper files by @mth229.
 - https://github.com/zgornel/Caching.jl : Memoization mechanism.
