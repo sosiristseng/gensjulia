@@ -75,10 +75,6 @@ title: Earth and Space Science
 - https://github.com/pszufe/OpenStreetMapX.jl : OpenStreetMap support for Julia 1.0. The package can parse `*.osm` and `*.pbf` (contributed by @blegat) files and generate a LightGraphs representation along the metadata. [JuliaCon2021 tutorial](https://pszufe.github.io/OpenStreetMapX_Tutorial/JuliaCon2021/)
 - https://github.com/pszufe/OpenStreetMapXPlot.jl : plotting companion for the `OpenStreetMapX.jl` package.
 
-## GPS
-
-- https://github.com/RobBlackwell/NMEA.jl : Julia package for parsing GPS NMEA messages.
-
 ## Aeronautics, Spacecraft, and astrodynamics
 
 - [Wikipedia: Space science](https://en.wikipedia.org/wiki/Outline_of_space_science)
@@ -104,6 +100,10 @@ title: Earth and Space Science
 - [Julia space](https://github.com/JuliaSpace)
 - [Julia Astro](https://github.com/juliaastro)
 - [Julia AstroSim](https://github.com/JuliaAstroSim)
+
+---
+
+- [OIFITS.jl](https://github.com/emmt/OIFITS.jl) : Support for OI-FITS (optical interferometry data format).
 
 ### Algorithms
 

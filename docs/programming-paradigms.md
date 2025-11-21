@@ -28,7 +28,6 @@ title: Programming Paradigms
 - https://github.com/JuliaCollections/IterTools.jl : Common functional iterator patterns.
 - https://github.com/JuliaControl/ControlSystems.jl : A Control Systems Toolbox for Julia.
 - https://github.com/JuliaIO/ProtoBuf.jl : A Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
-- https://github.com/rdeits/CommonSubexpressions.jl : Naïve combined subexpression elimination in Julia.
 
 ### Reversible programming
 

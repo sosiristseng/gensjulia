@@ -2,7 +2,7 @@
 title: Interoperativity
 ---
 
-Julia in conjuction with other programming languages.
+Julia in conjunction with other programming languages.
 
 - [Julia Interop](https://github.com/JuliaInterop) Organization
 
