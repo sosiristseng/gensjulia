@@ -1,0 +1,53 @@
+---
+title: Learn Julia
+Created: 2025-11-16, 16:30:28
+Modified: 2025-11-16, 16:45:10
+---
+# Learn Julia
+[Get started with Julia](https://julialang.org/learning/)
+
+## Quick start
+
+- [Julia Cheatsheet](https://cheatsheet.juliadocs.org/)
+- [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia/)
+- [Julia-cheatsheet.pdf](https://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) : StevenJ's Julia cheat sheet.
+- [Julia express](https://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
+
+## Coding practice
+
+- [Exercism](https://exercism.org/tracks/julia)
+- [Project Euler](https://github.com/heetbeet/project-euler-julia) : Project Euler puzzle notebooks for Julia.
+
+## General Guides
+
+- [From zero to Julia](https://techytok.com/from-zero-to-julia/)
+- [Intro to Julia](https://ucidatascienceinitiative.github.io/IntroToJulia/): A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas.
+- [Julia Academy](https://juliaacademy.com)
+- [Julia concise tutorial](https://github.com/sylvaticus/juliatutorial)
+- [Julia Data Science](https://juliadatascience.io/) : an open source and open access book on how to do Data Science using Julia.
+- [JuliaNotes.jl](https://github.com/m3g/JuliaNotes.jl) : a collection of examples and explanations about Julia.
+- [Modern Julia Workflows](https://modernjuliaworkflows.org/)
+- [QuantEcon](https://quantecon.org/quantecon-jl/) Julia and the [code notebooks](https://github.com/QuantEcon/quantecon-notebooks-julia).
+- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [Wikibook: Introducing Julia ](https://en.wikibooks.org/wiki/Introducing_Julia)
+
+## Learn Julia by examples
+
+  - [Fall in Love with Julia](https://github.com/jolin-io/fall-in-love-with-julia): An introductory 101 series to get to know the power of Julia.
+- [Intermediate Julia workshop](https://github.com/dpsanders/intermediate_julia_2019), held at JuliaCon 2019, Baltimore, Maryland, USA
+- [Introduction to Applied Linear Algebra in Julia](https://web.stanford.edu/~boyd/vmls/)
+- [Julia by example](https://juliabyexample.helpmanual.io/)
+- [Julia Project example](https://github.com/robbyriverside/ModulePlay) : ModulePlay is a simple example of using module tools.
+- [julia-mit](https://github.com/mitmath/julia-mit) : Tutorials and information on the Julia language for MIT numerical-computation courses.
+
+### Modeling and simulations
+
+- [Learn Julia via epidemic modelling](https://github.com/dpsanders/LearnJulia2020)
+- [SIR pandemic modeling with Julia](https://github.com/epirecipes/sir-julia)
+
+### Visualization examples
+
+- `Plots.jl` [Official docs](https://docs.juliaplots.org/latest/)
+- https://github.com/goropikari/PlotsGallery.jl : An unofficial `Plots.jl` Gallery inspired by MATLAB Plot Gallery
+- `PyPlot.jl` [examples by gizmaa](https://gist.github.com/gizmaa/7214002)
+- `Makie.jl` examples: [BeautifulMakie](https://beautiful.makie.org/)
