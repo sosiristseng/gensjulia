@@ -147,8 +147,6 @@ title: Modeling and Simulation
 
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 - [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
-- [Vahana.jl](https://github.com/s-fuerst/Vahana.jl) : A framework (not only) for large-scale agent-based models.
-
 ## Network modeling
 
 - [ACME.jl](https://github.com/HSU-ANT/ACME.jl) : Analog Circuit Modeling and Emulation for Julia.

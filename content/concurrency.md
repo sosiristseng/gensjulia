@@ -31,6 +31,7 @@ title: Concurrency
 - [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl): Julia interface for the [OpenCL](https://www.khronos.org/opencl/) parallel computation API.
 - [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) : Julia package to facilitate writing multithreaded, multidimensional, cache-efficient code.
 - [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) : provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
+- [Vahana.jl](https://github.com/s-fuerst/Vahana.jl): A framework (not only) for large-scale agent-based models. See also [[modeling-simulation#Agent-based models]].
 
 ## Bindings for external libraries
 

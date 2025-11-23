@@ -29,7 +29,6 @@ title: Artificial Intelligence
 - [CombineML.jl](https://github.com/ppalmes/CombineML.jl) : Create ensembles of machine learning models from scikit-learn, caret, and julia.
 - [EasyML.jl](https://github.com/OML-NPA/EasyML.jl) : Using machine learning in Julia through a graphical user interface.
 - [Lux.jl](https://github.com/LuxDL/Lux.jl) : A explicitly parameterized neural network using deeply nested named tuples.
-- [MLJ.jl](https://github.com/JuliaAI/MLJ.jl) : A Julia machine learning framework by The Alan Turing Institute.
 - [PredictMD.jl](https://github.com/bcbi/PredictMD.jl) : Uniform interface for machine learning in Julia. It is the official machine learning framework of the [Brown Center for Biomedical Informatics](https://github.com/bcbi).
 
 ### Flux
@@ -47,6 +46,14 @@ title: Artificial Intelligence
 
 - [KnetNLP](https://github.com/egeersu/KnetNLP) : NLP examples in Knet.
 - [KnetOnnx.jl](https://github.com/egeersu/KnetOnnx.jl) : ONNX integration with Knet.
+
+### MLJ
+
+[MLJ.jl](https://github.com/JuliaAI/MLJ.jl) : A Julia machine learning framework by The Alan Turing Institute.
+
+- [MLJLinearModels.jl](https://github.com/JuliaAI/MLJLinearModels.jl): Generalized Linear Regressions Models for MLJ.
+
+
 
 ### Bindings for external libraries
 

@@ -1,6 +1,6 @@
 ---
 Created: 2025-11-22, 15:02:34
-Modified: 2025-11-22, 16:47:04
+Modified: 2025-11-23, 15:44:10
 title: Probability and Statistics
 ---
 # Probability and Statistics
@@ -62,6 +62,7 @@ title: Probability and Statistics
 - [LARS.jl](https://github.com/simonster/LARS.jl) : Least angle regression.
 - [Lasso.jl](https://github.com/JuliaStats/Lasso.jl) : Lasso solvers for linear and generalized linear models.
 - [LinearFitXYerrors.jl](https://github.com/rafael-guerra-www/LinearFitXYerrors.jl) : Linear Regression with errors in both X and Y, correlated or not, confidence intervals and plots.
+- [LinearRegressionKit.jl](https://github.com/ericqu/LinearRegressionKit.jl): Linear Regression for Julia.
 - [Loess.jl](https://github.com/JuliaStats/Loess.jl) : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) : Simple curve fitting functionality from `Optim.jl` has been moved into its own package.
 - [MixedModels.jl](https://github.com/JuliaStats/MixedModels.jl) : A Julia package for fitting (statistical) mixed-effects models.

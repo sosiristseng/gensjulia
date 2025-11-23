@@ -26,13 +26,17 @@ Modified: 2025-11-22, 15:44:01
 - [BitIntegers.jl](https://github.com/rfourquet/BitIntegers.jl) : This package implements fixed-width integer types similar to standard built-in ones like `Int` or `UInt128`.
 - [CustomUnitRanges.jl](https://github.com/JuliaArrays/CustomUnitRanges.jl) : This Julia package supports the creation of array types with "unconventional" indices.
 - [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl): Julia package for representing dual numbers for differentiation.
-- [DynamicQuantities.jl](https://github.com/SymbolicML/DynamicQuantities.jl) : Lightweight and fast physical quantities in Julia to supplement `Unitful.jl`.
 - [FixedPointNumbers.jl](https://github.com/JuliaMath/FixedPointNumbers.jl) : This library exports [fixed-point number](http://en.wikipedia.org/wiki/Fixed-point_arithmetic) types.
 - [Infinity.jl](https://github.com/cjdoris/Infinity.jl) : Representation of infinity in Julia.
 - [Measures.jl](https://github.com/JuliaGraphics/Measures.jl) : Unified measure and coordinates types.
 - [Quaternions.jl](https://github.com/JuliaGeometry/Quaternions.jl) : Quaternions, octonions and dual-quaternions for 3D rotational orientation.
 - [Ratios.jl](https://github.com/timholy/Ratios.jl) : Faster Rational-like types for Julia at the risk of greater risk of overflow.
+
+### Units
+
+- [DynamicQuantities.jl](https://github.com/SymbolicML/DynamicQuantities.jl) : Lightweight and fast physical quantities in Julia to supplement `Unitful.jl`.
 - [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) : A Julia package for physical units.
+- [UnitSystems.jl](https://github.com/chakravala/UnitSystems.jl): Physical unit systems (Metric, English, Natural, Planck, etc...). See also [Similitude.jl](https://github.com/chakravala/Similitude.jl): Dimensions and Quantities for `UnitSystems.jl`.
 
 ### Floating-point numbers
 
