@@ -14,6 +14,7 @@ Modified: 2025-11-22, 17:42:56
 - [Julia for Dynamic Optimization](https://github.com/JuDO-dev)
 - [JuliaNLSolvers](https://github.com/JuliaNLSolvers)
 - [SciML](https://github.com/SciML)
+
 ## JuMP
 
 [JuMP.jl](https://github.com/jump-dev/JuMP.jl) : Modeling Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
@@ -69,6 +70,7 @@ Modified: 2025-11-22, 17:42:56
 - `OptimizationQuadDIRECT` for [QuadDIRECT.jl](https://github.com/timholy/QuadDIRECT.jl): Global optimization without derivatives.
 - `OptimizationSophia` for Sophia optimizer (second-order stochastic optimizer).
 - `OptimizationSpeedMapping` for [SpeedMapping.jl](https://github.com/NicolasL-S/SpeedMapping.jl): General fixed point mapping acceleration and optimization in Julia.
+
 ## Linear Programming and Optimization
 
 [Wikipedia: Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)
@@ -83,6 +85,7 @@ Modified: 2025-11-22, 17:42:56
 - [Convex.jl](https://github.com/jump-dev/Convex.jl) : [Disciplined Convex Programming](http://dcp.stanford.edu/) (DCP).
 - [EAGO.jl](https://github.com/PSORLab/EAGO.jl) : A development environment for robust and global optimization. EAGO stands for Easy-Advanced Global Optimization.
 - [MadNLP.jl](https://github.com/MadNLP/MadNLP.jl): a solver for nonlinear programming with GPU support
+
 ### Julia smooth solvers
 
 [OptimizationProblems.jl](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl): This package provides a collection of optimization problems in [JuMP](https://github.com/JuliaOpt/JuMP.jl) and [ADNLPModels](https://github.com/JuliaSmoothOptimizers/ADNLPModels.jl) syntax.
@@ -98,6 +101,7 @@ Modified: 2025-11-22, 17:42:56
 
 - [Hyperopt.jl](https://github.com/baggepinnen/Hyperopt.jl) : A package to perform hyperparameter optimization. Currently supports random search, Latin hypercube sampling and Bayesian optimization.
 - [InfiniteOpt.jl](https://github.com/infiniteopt/InfiniteOpt.jl) : An interface for infinite-dimensional optimization problems. e.g. stochastic programming, dynamic programming, space-time optimization. See also the [YouTube video](https://www.youtube.com/watch?v=q5ETFLZbxiU).
-- [IntervalConstraintProgramming.jl](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl) :  Calculates the feasible region for a set of real-valued inequalities with Julia.
+- [IntervalConstraintProgramming.jl](https://github.com/JuliaIntervals/IntervalConstraintProgramming.jl) : Calculates the feasible region for a set of real-valued inequalities with Julia.
+- [MetaheuristicsAlgorithms.jl](https://github.com/AbdelazimHussien/MetaheuristicsAlgorithms.jl) : a collection of Metaheuristics Algorithms written in Julia. [YT video](https://www.youtube.com/watch?v=WxyuBafDloU)
 - [OSQP.jl](https://github.com/osqp/OSQP.jl) : A Julia wrapper for the Operator Splitting Quadratic Program ([OSQP](https://osqp.org/)) solver, a numerical optimization package.
 - [SMM.jl](https://github.com/floswald/SMM.jl) : [Simulated Method of Moments](https://en.wikipedia.org/wiki/Method_of_simulated_moments) for Julia.
