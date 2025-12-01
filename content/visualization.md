@@ -31,6 +31,7 @@ title: Visualization
 [Makie.jl](https://github.com/MakieOrg/Makie.jl) : High level plotting on the GPU. Examples: https://docs.makie.org/stable/
 
 - [BioMakie.jl](https://github.com/BioJulia/BioMakie.jl) : plotting functions for protein structures, multiple sequence alignments, and some other related plots like protein structure contact maps. [JuliaCon 2023 video](https://www.youtube.com/watch?v=-C7Zbh6UTgk)
+- [CasualPlots.jl](https://github.com/Eben60/CasualPlots.jl) : provide a graphical user interface (GUI) for plotting. [Discourse thread](https://discourse.julialang.org/t/rfc-casualplots-jl-a-simple-gui-for-casual-plotting-in-julia/133891)
 - [GraphMakie.jl](https://github.com/MakieOrg/GraphMakie.jl) : Plotting graph structures with `Makie.jl`.
 - [PairPlots.jl](https://github.com/sefffal/PairPlots.jl) : This package produces pair plots, otherwise known as corner plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 - [SmithChart.jl](https://github.com/uvegege/SmithChart.jl) : A Julia library for creating interactive Smith charts using `Makie.jl`.
