@@ -11,12 +11,13 @@ See also [[biology]] in Julia.
 
 ## Neuroscience
 
+- [BrainWave.jl](https://github.com/sam81/BrainWave.jl) : Julia functions to process electroencephalographic (EEG) recordings.
 - [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) : A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/).
 - [NeuroAnalysis.jl](https://github.com/Experica/NeuroAnalysis.jl) : Julia package for neural signal analysis.
-- [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) : A set of tools to load data written by the Open Ephys GUI.
 - [Neuroimaging.jl](https://github.com/rob-luke/Neuroimaging.jl) : Process neuroimaging data using the Julia language.
-- [BrainWave.jl](https://github.com/sam81/BrainWave.jl) : Julia functions to process electroencephalographic (EEG) recordings.
 - [NIfTI.jl](https://github.com/JuliaNeuroscience/NIfTI.jl) : Julia module for reading `NIfTI` MRI files.
+- [Niivue.jl](https://github.com/korbinian90/Niivue.jl) : An interactive WebGL based neuroimaging viewer built on top of [Bonito.jl](https://github.com/SimonDanisch/Bonito.jl) and [NiiVue](https://github.com/niivue/niivue).
+- [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) : A set of tools to load data written by the Open Ephys GUI.
 
 ## Healthcare and Pharmacology
 
