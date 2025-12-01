@@ -68,7 +68,7 @@ title: Web
 ## Security
 
 - [GoogleCloud.jl](https://github.com/JuliaCloud/GoogleCloud.jl) : OAuth2 support for Julia.
-- [MbedTLS.jl](https://github.com/JuliaLang/MbedTLS.jl) : Wrapper around [mbedtls](https://tls.mbed.org/).
+- [MbedTLS.jl](https://github.com/JuliaLang/MbedTLS.jl) : Wrapper around [mbedtls](https://github.com/Mbed-TLS/mbedtls).
 - [OpenIDConnect.jl](https://github.com/tanmaykm/OpenIDConnect.jl) : [OpenID Connect](https://openid.net/specs/openid-connect-core-1_0.html) is a simple identity layer on top of the OAuth 2.0 protocol.
 
 ## URI and URL
