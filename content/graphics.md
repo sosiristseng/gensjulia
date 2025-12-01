@@ -1,8 +1,9 @@
 ---
+title: Graphics
 Created: 2025-11-20, 16:59:33
 Modified: 2025-11-21, 16:27:01
-title: Graphics
 ---
+
 # Graphics
 
 > Computer Vision, Graphics, geometry in Julia.
@@ -27,7 +28,8 @@ See also
 - [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl) : Load images in Julia.
 - [ImageMagick.jl](https://github.com/JuliaIO/ImageMagick.jl) : Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading.
 - [Images.jl](https://github.com/JuliaImages/Images.jl) : An image library for Julia.
-- [Netpbm.](https://github.com/JuliaIO/Netpbm.jl) : Julia support for Netpbm (`.ppm`, `.pgm`, `.pbm`).
+- [LibImageQuant.jl](https://github.com/ericphanson/LibImageQuant.jl) : Julia wrapper for [libimagequant](https://github.com/ImageOptim/libimagequant) to shrink PNG files.
+- [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) : Julia support for Netpbm (`.ppm`, `.pgm`, `.pbm`).
 - [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) : Julia support for the Nearly Raw Raster Data (`NRRD`) image file format
 - [OMETIFF.jl](https://github.com/tlnagy/OMETIFF.jl) : I/O operations for OME-`TIFF` files in Julia with a focus on correctness.
 - [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) : Thin wrapper around OSX's native image format saving and loading.
