@@ -43,7 +43,6 @@ title: Modeling and Simulation
 - [SymEngine.jl](https://github.com/symengine/SymEngine.jl) : Julia wrappers of https://github.com/symengine/symengine.
 - [SymPy.jl](https://github.com/JuliaPy/SymPy.jl) : Julia interface to [SymPy](https://www.sympy.org/) via `PyCall.jl`.
 - [SymPyPythonCall.jl](https://github.com/jverzani/SymPyPythonCall.jl) : Julia interface to [SymPy](https://www.sympy.org/) via `PythonCall.jl`.
-## Data structures
 
 ## Differential equations
 
@@ -75,6 +74,7 @@ title: Modeling and Simulation
 - [Pathogen.jl](https://github.com/jangevaare/Pathogen.jl) : Utilities to simulate and perform inference of disease dynamics.
 - [SciMLSensitivity.jl](https://github.com/SciML/SciMLSensitivity.jl) : A component of the DiffEq ecosystem for sensitivity analysis.
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) : Surrogate modeling and optimization.
+
 
 ### Partial Differential Equations
 
@@ -128,11 +128,13 @@ title: Modeling and Simulation
 - [NeuralOperators.jl](https://github.com/SciML/NeuralOperators.jl) : Learning the solution operator for partial differential equations in pure Julia.
 - [NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl) : Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations.
 - [UniversalDiffEq.jl](https://github.com/Jack-H-Buckner/UniversalDiffEq.jl) : builds Universal Differential Equations (UDEs) to learn nonlinear dynamics from time series data.
+
 ## Stochastic algorithms
 
 [Wikipedia: Stochastic simulation](https://en.wikipedia.org/wiki/Stochastic_simulation) algorithms (SSA) are also included in the `DifferentialEquations` ecosystem.
 
 - [BioSimulator.jl](https://github.com/alanderos91/BioSimulator.jl) : A stochastic simulation framework in Julia.
+- [CompetingClocks.jl](https://github.com/adolgert/CompetingClocks.jl) : samples continuous-time probability distributions with time-varying hazard rates. It is a sampler for stochastic simulation in continuous time.
 - [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) : Stochastic Gillespie-type simulations using Julia.
 - [JumpProcesses.jl](https://github.com/SciML/JumpProcesses.jl): Build and simulate jump equations like Gillespie simulations and jump diffusions with constant and state-dependent rates and mix with differential equations.
 - [StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl) : Solvers for stochastic differential equations in the SciML ecosystem.
