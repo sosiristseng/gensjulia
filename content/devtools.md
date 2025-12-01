@@ -184,8 +184,9 @@ Analyzing how much time is spent on individual line(s). Julia docs: https://docs
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl) : Reactive notebooks for Julia.
 - [PlutoPages.jl](https://github.com/JuliaPluto/PlutoPages.jl) : `PlutoPages.jl` is a site generation system inspired by https://www.11ty.dev/.
 - [PlutoSliderServer.jl](https://github.com/JuliaPluto/PlutoSliderServer.jl) : Web server to host Pluto notebooks supporting static conversion to HTML files.
+- [PlutoSlides.jl](https://github.com/dmetivie/PlutoSlides.jl) : Beamer-like slide formatting to `Pluto.jl` notebooks.
 - [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl) : Convert Pluto notebooks to pure HTML files. [Template for Julia tutorials](https://rikhuijzer.github.io/JuliaTutorialsTemplate/).
-- [PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) : A small package with interactive elements to be used in Pluto.jl.
+- [PlutoUI.jl](https://github.com/JuliaPluto/PlutoUI.jl) : A small package with interactive elements to be used in `Pluto.jl`.
 
 ### Web IDE
 
