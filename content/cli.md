@@ -22,9 +22,10 @@ aliases:
 - [jlpkg](https://github.com/fredrikekre/jlpkg) : A command line interface (CLI) to [Pkg](https://github.com/JuliaLang/Pkg.jl), Julia's package manager.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) : Syntax highlighting and other enhancements for the Julia REPL.
 - [PkgCite.jl](https://github.com/SebastianM-C/PkgCite.jl) : prints a sentence with the citations for all the packages used in the current environment and will automatically copy it to the clipboard.
-- [ProgressMeter.jl]https://github.com/timholy/ProgressMeter.jl) : Progress meter for long-running computations.
+- [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) : Progress meter for long-running computations.
 - [Replay.jl](https://github.com/AtelierArith/Replay.jl) : Replay REPL instructions.
 - [REPLMods.jl](https://github.com/sglyon/REPLMods.jl) : Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
+- [Swirl.jl](https://github.com/atantos/Swirl.jl) : Learn Julia interactively in your console/terminal.
 - [TerminalExtensions.jl](https://github.com/Keno/TerminalExtensions.jl) : A package that makes Julia take advantage of cool terminal emulator features.
 - [TerminalMenus.jl](https://github.com/nick-paul/TerminalMenus.jl) : Simple interactive menus in the terminal.
 - [VT100.jl](https://github.com/Keno/VT100.jl) : Terminal Emulation for terminal UI verification.
