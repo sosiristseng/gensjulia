@@ -69,6 +69,7 @@ title: Development Tools
 - [llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) : A resurrected LLVM C Backend, with improvements for Julia.
 - [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) : Compiles your Julia environment into a system image or a standalone binary.
 - [StaticCompiler.jl](https://github.com/tshort/StaticCompiler.jl) : Compiles Julia code to a standalone library. (experimental)
+
 ### Test-driven development (TDD)
 
 - [Official docs: Unittest](https://docs.julialang.org/en/v1/stdlib/Test/)
@@ -77,8 +78,8 @@ title: Development Tools
 ---
 
 - [Coverage.jl](https://github.com/JuliaCI/Coverage.jl) : tracking code testing coverage and memory usage and optionally upload them to online services like Coveralls or Codecov.
-- https://github.com/JuliaCloud/MockAWS.jl : patch functions for testing all AWS services.
 - [Jive.jl](https://github.com/wookay/Jive.jl) : running test in parallel. It also supports watch folder function.
+- [Mock.jl](https://github.com/tz-lom/Mock.jl) : A lightweight Julia package for temporarily replacing function implementations.
 - [Mocking.jl](https://github.com/JuliaTesting/Mocking.jl) : allowing temporary overwriting of Julia methods for testing purposes.
 - [ReTest.jl](https://github.com/JuliaTesting/ReTest.jl) : Testing framework for Julia, allowing deferred execution and filtered test sets.
 - [SafeTestsets.jl](https://github.com/YingboMa/SafeTestsets.jl) : `@safetestset` puts `@testset` into a module to reduce global side effects.
@@ -87,6 +88,7 @@ title: Development Tools
 - [TestItemRunner.jl](https://github.com/julia-vscode/TestItemRunner.jl) : run Julia tests with `@testitem` in VSCode.
 - [UnitTestDesign.jl](https://github.com/adolgert/UnitTestDesign.jl) : chooses efficient combinations functional arguments to maximize test coverage.
 - [Watcher.jl](https://github.com/rened/Watcher.jl) : auto-run unit tests every time a file gets saved.
+- https://github.com/JuliaCloud/MockAWS.jl : patch functions for testing all AWS services.
 
 ## Logging
 
