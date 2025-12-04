@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-21, 16:00:10
-Modified: 2025-11-22, 17:41:50
 title: Visualization
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:50:13
 ---
-# Visualization
 
 > Plotting libraries for statistical Charts, Graphs, Plots, Histograms, Maps.
 
@@ -52,6 +51,7 @@ title: Visualization
 
 - [PGFPlots.jl](https://github.com/JuliaTeX/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
 - [PGFPlotsX.j](https://github.com/KristofferC/PGFPlotsX.jl) : Generate publication quality figures using the LaTeX library PGFPlots. It tries to have a very close mapping to the PGFPlots API as well as minimize the number of dependencies.
+
 ## Plotly
 
 - [CMPlot.jl]https://github.com/g-insana/CMPlot.jl) : Cloudy Mountain Plot inspired by Violin, Bean and Pirate Plots.

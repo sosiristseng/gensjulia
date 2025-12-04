@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-20, 20:53:54
-Modified: 2025-11-22, 16:58:33
 title: Development Tools
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:35
 ---
-# Development Tools
 
 > Julia development tools, compilers, debuggers, [DevOps](https://en.wikipedia.org/wiki/DevOps).
 

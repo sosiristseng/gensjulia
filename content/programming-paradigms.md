@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-22, 16:49:49
-Modified: 2025-11-22, 17:01:59
 title: Programming Paradigms
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:49:18
 ---
-# Programming Paradigms
 
 - [Wikipedia: Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
 - [Basic Language Comparison](https://github.com/JulesKouatchou/basic_language_comparison) : Basic Comparison of Various Computing Languages, eg. Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran.
@@ -120,7 +119,6 @@ title: Programming Paradigms
 
 - [MultipleInterfaces.jl](https://github.com/CameronBieganek/MultipleInterfaces.jl) : a powerful way to define and work with interfaces in Julia. With MultipleInterfaces.jl you can declare an interface that is defined by a list of required methods, and you can declare which types implement that interface. Interfaces support multiple inheritance, interface intersection, and multiple dispatch. And all with no runtime cost. [JuliaCon 2025 video](https://www.youtube.com/watch?v=NfP1UeHcUXI)
 - [ObjectOriented.jl](https://github.com/Suzhou-Tongyuan/ObjectOriented.jl) : Conventional object-oriented programming in Julia without breaking Julia's core design ideas. We recommend you to read [How to Translate OOP into Idiomatic Julia](https://suzhou-tongyuan.github.io/ObjectOriented.jl/dev/how-to-translate-oop-into-julia) before using this package.
-
 
 ## Fuzzy Logic
 

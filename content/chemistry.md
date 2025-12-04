@@ -1,13 +1,13 @@
 ---
-Created: 2025-11-20, 00:14:12
-Modified: 2025-11-20, 00:21:17
 title: Chemistry
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:45:06
 ---
-# Chemistry
 
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 - [Mendeleev.jl](https://github.com/Eben60/Mendeleev.jl) : A package for accessing chemical elements data.
 - [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) : The periodic table in Julia.
+
 ## Chemistry File IO
 
 - [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) : A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.

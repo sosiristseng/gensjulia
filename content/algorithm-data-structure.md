@@ -1,9 +1,8 @@
 ---
 title: Algorithms and Data Structures
-Created: 2025-11-16, 16:49:49
-Modified: 2025-11-22, 16:59:26
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:44:05
 ---
-# Algorithms and Data Structures
 
 > Generic algorithms and data structures.
 

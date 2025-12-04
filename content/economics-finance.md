@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-21, 15:50:35
-Modified: 2025-11-21, 15:53:12
 title: Economics and Finance
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:05
 ---
-# Economics and Finance
 
 > Economics and Finance are part of [Actuarial science](https://en.wikipedia.org/wiki/Actuarial_science)
 

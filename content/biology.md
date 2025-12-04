@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-19, 23:53:45
-Modified: 2025-11-20, 16:39:30
 title: Biology
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:44:27
 ---
-# Biology
 
 > Bioinformatics, genomics, agriculture, food science in Julia.
 

@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-20, 00:18:05
-Modified: 2025-11-22, 16:24:37
 title: Physics
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:49:07
 ---
-# Physics
 
 ## Organizations
 

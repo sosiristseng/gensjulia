@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-22, 15:02:34
-Modified: 2025-11-23, 15:44:10
 title: Probability and Statistics
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:49:12
 ---
-# Probability and Statistics
 
 - [Wikipedia: Probability](https://en.wikipedia.org/wiki/Probability_theory).
 - [Julia stats](https://github.com/JuliaStats) organization.
@@ -31,6 +30,7 @@ title: Probability and Statistics
 [Wikipedia: Stochastic process](https://en.wikipedia.org/wiki/Stochastic_process)
 
 - [Pigeons.jl](https://github.com/Julia-Tempering/Pigeons.jl) :  Sampling from intractable distributions, with support for distributed and parallel methods.
+
 ### Markov Logic Network
 
 [Wikipedia: Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)

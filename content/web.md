@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-22, 17:19:08
-Modified: 2025-11-22, 17:38:05
 title: Web
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:50:18
 ---
-# Web
 
 > Generic external servers, web framework, etc., in Julia.
 
@@ -48,6 +47,7 @@ title: Web
 - [Genie.jl](https://github.com/GenieFramework/Genie.jl) : The highly productive Julia web framework.
 - [Merly.jl](https://github.com/neomatrixcode/Merly.jl) : A micro framework for web programming in Julia.
 - [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl) : WebIO provides a simple abstraction for displaying and interacting with web content.
+
 ## Middleware
 
 - [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitate wrapping Julia functions into a remote callable API via ZMQ and HTTP.
@@ -93,6 +93,7 @@ See [[devtools#Pluto notebooks]].
 - [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl) : Convert Pluto notebooks to pure HTML files. [Template for Julia tutorials](https://rikhuijzer.github.io/JuliaTutorialsTemplate/).
 - [PlutoPages.jl](https://github.com/JuliaPluto/PlutoPages.jl) : `PlutoPages.jl` is a site generation system inspired by https://www.11ty.dev/.
 - [Pluto static export template](https://github.com/JuliaPluto/static-export-template) to automatically convert Pluto notebooks to an HTML website with GitHub Pages.
+
 ### Bonito
 
 - [BonitoBook.jl](https://github.com/SimonDanisch/BonitoBook.jl): BonitoBook is a Julia-native interactive notebook system built on [Bonito.jl](https://simondanisch.github.io/Bonito.jl/stable/) that seamlessly combines multi-language execution, AI integration, and modern web-based editing in one powerful platform.

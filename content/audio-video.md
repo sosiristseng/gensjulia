@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-17, 16:55:25
-Modified: 2025-11-17, 16:58:22
 title: Audio and Video Processing
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:44:19
 ---
-# Audio and Video Processing
 
 - [Julia Audio](https://github.com/JuliaAudio) organization
 - [Julia Music](https://github.com/JuliaMusic) organization

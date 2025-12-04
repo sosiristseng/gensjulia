@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-16, 22:08:51
-Modified: 2025-11-16, 22:39:22
 title: Artificial Intelligence
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:43:58
 ---
-# Artificial Intelligence
 
 > Machine learning, deep learning
 
@@ -53,8 +52,6 @@ title: Artificial Intelligence
 
 - [MLJLinearModels.jl](https://github.com/JuliaAI/MLJLinearModels.jl): Generalized Linear Regressions Models for MLJ.
 
-
-
 ### Bindings for external libraries
 
 - [LIBLINEAR.jl](https://github.com/JuliaML/LIBLINEAR.jl) : Julia binding to [Liblinear](https://github.com/cjlin1/liblinear), a library for Large Linear Classification.
@@ -78,6 +75,7 @@ title: Artificial Intelligence
 - [Discretizers.jl](https://github.com/sisl/Discretizers.jl) : A package to support discretization methods and mapping functions for data discretization and label maps.
 - [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) : Utility package for accessing common Machine Learning datasets in Julia.
 - [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) : Utility package for working with classification targets and label-encodings.
+
 ## Misc
 
 - [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) : Restricted Boltzmann Machines and Deep Belief Networks in Julia

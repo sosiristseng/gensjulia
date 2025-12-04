@@ -1,9 +1,8 @@
 ---
 title: Julia communities
-Created: 2025-11-16, 16:27:41
-Modified: 2025-11-16, 16:40:46
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:07
 ---
-# Julia communities
 
 [The Julia communities](https://julialang.org/community/)
 

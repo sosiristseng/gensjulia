@@ -1,9 +1,8 @@
 ---
 title: Optimization
-Created: 2025-11-16, 16:58:33
-Modified: 2025-11-22, 17:42:56
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:49:02
 ---
-# Optimization
 
 > [Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia.
 

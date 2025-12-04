@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-19, 23:54:31
-Modified: 2025-11-20, 00:12:34
 title: Health
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:48:04
 ---
-# Health
 
 > Health and medicine in Julia.
 

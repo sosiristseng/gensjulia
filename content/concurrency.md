@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-20, 15:26:31
-Modified: 2025-11-22, 15:52:55
 title: Concurrency
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:16
 ---
-# Concurrency
 
 > - Julia HPC and Cluster computing.
 > - Distributed Computing and Grid computing.
@@ -14,6 +13,7 @@ title: Concurrency
 - [Julia manual for parallel computing](https://docs.julialang.org/en/v1/manual/parallel-computing/)
 - [Wikipedia: Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
 - [Wikipedia: Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
+
 ## Organizations
 
 - [Julia Actors](https://github.com/JuliaActors)
@@ -66,6 +66,7 @@ title: Concurrency
 
 - [OhMyThreads.jl](https://github.com/JuliaFolds2/OhMyThreads.jl) : Simple multithreading in Julia.
 - [ThreadPinning.jl](https://github.com/carstenbauer/ThreadPinning.jl) : Pin Julia threads to CPU processors. Requires the `lscpu` command (Linux systems). [JuliaCon 2023](https://www.youtube.com/watch?v=6Whc9XtlCC0)
+
 ## Multiprocessing and Distributed Computing
 
 - [Wikipedia: Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing) across multiple compute nodes.

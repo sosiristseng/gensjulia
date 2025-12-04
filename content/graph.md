@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-16, 17:13:41
-Modified: 2025-11-21, 16:09:25
 title: Graph theory
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:32
 ---
-# Graph
 
 > Mathematical graph theory,  data structures, algorithms in Julia.
 

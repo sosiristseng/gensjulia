@@ -1,10 +1,8 @@
 ---
 title: Graphics
-Created: 2025-11-20, 16:59:33
-Modified: 2025-11-21, 16:27:01
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:40
 ---
-
-# Graphics
 
 > Computer Vision, Graphics, geometry in Julia.
 
@@ -48,6 +46,7 @@ See also
 - [Skia.jl](https://github.com/stensmo/Skia.jl) : Support for the [Skia](https://skia.org/) library in Julia.
 - [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) : Wrapper of Vulkan, Khronos next generation OpenGL API.
 - [XCB.jl](https://github.com/JuliaGL/XCB.jl) : [XCB](https://xcb.freedesktop.org/) windowing library wrapper.
+
 ## Computer Vision (CV)
 
 [Wikipedia: Computer Vision](https://en.wikipedia.org/wiki/Category:Computer_vision)

@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-20, 15:56:40
-Modified: 2025-11-20, 17:03:43
 title: File IO
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:12
 ---
-# File IO
 
 > General file read/write libraries in Julia.
 > See also [official documentation about the filesystem](https://docs.julialang.org/en/v1/base/file/) and [Julia IO](https://github.com/JuliaIO) organization.

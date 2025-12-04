@@ -1,11 +1,10 @@
 ---
-Created: 2025-11-20, 23:12:38
-Modified: 2025-11-23, 15:51:01
 title: Graphical User Interface
 aliases:
   - Graphical User Interface
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:50
 ---
-# Graphical User Interface
 
 - [AppBundler.jl](https://github.com/PeaceFounder/AppBundler.jl) : building Julia GUI applications in modern desktop application installer formats in Linux (snap), Windows (MSIX), and MacOS (DMG). [JuliaCon 2024 video](https://youtu.be/wICPVpDa7aw)
 - [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) : Julia wrapper around Electron.

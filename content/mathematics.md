@@ -1,9 +1,8 @@
 ---
 title: Mathematics
-Created: 2025-11-16, 17:15:16
-Modified: 2025-11-22, 15:44:01
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:48:52
 ---
-# Mathematics
 
 - [JuliaMath](https://github.com/JuliaMath) organization
 - [JuliaApproximation](https://github.com/JuliaApproximation) organization
@@ -13,6 +12,7 @@ Modified: 2025-11-22, 15:44:01
 - [[modeling-simulation#Symbolic Computation|Symbolic computation]]
 - [[linear-algebra|Linear Algebra]]
 - [[dsp|Digital signal processing]]
+
 ## General Mathematics packages
 
 - [Dualization.jl](https://github.com/jump-dev/Dualization.jl) : Automatic dualization feature for MathOptInterface.jl conic optimization problems.
@@ -46,6 +46,7 @@ Modified: 2025-11-22, 15:44:01
 - [Decimals.jl](https://github.com/JuliaMath/Decimals.jl) : Pure Julia decimal arithmetic library.
 - [DoubleFloats.jl](https://github.com/JuliaMath/DoubleFloats.jl) : Numbers with 85 accurate bits.
 - [LogarithmicNumbers.jl](https://github.com/cjdoris/LogarithmicNumbers.jl) : A [logarithmic number system](https://en.wikipedia.org/wiki/Logarithmic_number_system) for Julia. Provides the signed `ULogarithmic` and unsigned `Logarithmic` types for representing real numbers on a logarithmic scale.
+
 ### Intervals
 
 [Julia intervals](https://juliaintervals.github.io/)
@@ -77,6 +78,7 @@ Modified: 2025-11-22, 15:44:01
 - [Nemo.jl](https://github.com/Nemocas/Nemo.jl) : A computer algebra package for the Julia programming language.
 - [OEIS.jl](https://github.com/MurrayT/OEIS.jl) : A basic wrapper to allow access to [OEIS](http://oeis.org/) integer sequences from within Julia.
 - [SemiringAlgebra.jl](https://github.com/JuliaComputing/SemiringAlgebra.jl) : [Semiring Algebra](https://dspace.mit.edu/handle/1721.1/115964). A linear algebraic approach to graph algorithms that exploits the sparse adjacency matrix representation of graphs can provide a variety of benefits.
+
 ### Boolean Algebra
 
 [Boolean Algebra](https://en.wikipedia.org/wiki/Category:Boolean_algebra)
@@ -92,6 +94,7 @@ Modified: 2025-11-22, 15:44:01
 - [Remez.jl](https://github.com/simonbyrne/Remez.jl) : [Remez algorithm](https://en.wikipedia.org/wiki/Remez_algorithm) for computing minimax polynomial approximations.
 - [Simplices.jl](https://github.com/JuliaDynamics/Simplices.jl) : Compute exact simplex intersections in N dimensions.
 - [Sobol.jl](https://github.com/stevengj/Sobol.jl) : is a generation of [Sobol low-discrepancy sequence (LDS) implementation](https://en.wikipedia.org/wiki/Sobol_sequence), that generates **quasi-random** sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+
 ### Interpolations
 
 - [CoordinateSplittingPTrees.jl](https://github.com/timholy/CoordinateSplittingPTrees.jl) : Accurate and efficient full-degree multidimensional polynomial interpolation.

@@ -1,11 +1,10 @@
 ---
-Created: 2025-11-22, 15:18:35
-Modified: 2025-11-22, 15:22:06
 title: Digital signal processing
 aliases:
   - Digital signal processing
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:46
 ---
-# Digital signal processing
 
 [Wikipedia: DSP](https://en.wikipedia.org/wiki/Digital_signal_processing)
 
@@ -15,7 +14,6 @@ aliases:
 - [Peaks.jl](https://github.com/halleysfifthinc/Peaks.jl) : Find peaks (local extrema) of 1D signals.
 - [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) : Fast moving quantile filters implemented as fast moving window sort algorithm.
 - [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl) : Fast Discrete Wavelet Transforms written in Julia by JuliaDSP.
-
 
 ## Fast Fourier transform (FFT)
 

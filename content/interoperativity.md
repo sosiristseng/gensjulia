@@ -1,13 +1,13 @@
 ---
-Created: 2025-11-21, 16:30:13
-Modified: 2025-11-21, 16:36:47
 title: Interoperativity
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:48:21
 ---
-# Interoperativity
 
 > Julia in conjunction with other programming languages.
 
 - [Julia Interop](https://github.com/JuliaInterop) Organization
+
 ## C
 
 - Built-in [C interface](https://docs.julialang.org/en/v1/manual/calling-c-and-fortran-code/) in Julia.
@@ -57,6 +57,7 @@ Julia has built-in [Fortran interface](https://docs.julialang.org/en/v1/manual/c
 ## Mathematica
 
 - [MathLink.jl](https://github.com/JuliaInterop/MathLink.jl) : Julia language interface for Mathematica/Wolfram Engine.
+
 ## MATLAB
 
 - [matlab-to-julia](https://lakras.github.io/matlab-to-julia/) online translator.

@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-20, 00:18:32
-Modified: 2025-11-22, 16:51:46
 title: Modeling and Simulation
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:48:58
 ---
-# Modeling and Simulation
 
 > General modeling and simulation packages in Julia.
 
@@ -74,7 +73,6 @@ title: Modeling and Simulation
 - [Pathogen.jl](https://github.com/jangevaare/Pathogen.jl) : Utilities to simulate and perform inference of disease dynamics.
 - [SciMLSensitivity.jl](https://github.com/SciML/SciMLSensitivity.jl) : A component of the DiffEq ecosystem for sensitivity analysis.
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) : Surrogate modeling and optimization.
-
 
 ### Partial Differential Equations
 
@@ -149,6 +147,7 @@ title: Modeling and Simulation
 
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) : Agent-based modeling framework in Julia.
 - [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) : An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
+
 ## Network modeling
 
 - [ACME.jl](https://github.com/HSU-ANT/ACME.jl) : Analog Circuit Modeling and Emulation for Julia.
@@ -158,6 +157,7 @@ title: Modeling and Simulation
 - [PowerSimulations.jl](https://github.com/NREL-SIIP/PowerSimulations.jl) : Julia for optimization simulation and modeling of PowerSystems.
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) : Data structures in Julia to enable power systems analysis.
 - [TrafficAssignment.jl](https://github.com/gdalle/TrafficAssignment.jl): Julia package for finding traffic user equilibrium flow.
+
 ## Utilities
 
 - [BifurcationKit.jl](https://github.com/bifurcationkit/BifurcationKit.jl) : Bifurcation Analysis in Julia.

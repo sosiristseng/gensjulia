@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-21, 15:53:25
-Modified: 2025-11-21, 15:58:42
 title: Games
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:23
 ---
-# Games
 
 > Game engines and games in Julia
 

@@ -1,9 +1,10 @@
 ---
-Created: 2025-11-22, 17:05:07
-Modified: 2025-11-22, 17:06:14
 title: Utilities
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:49:35
 ---
-# Utilities
+
+## Utilities
 
 See also [[cli|Command-line interface]].
 

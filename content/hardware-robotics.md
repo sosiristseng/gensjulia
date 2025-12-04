@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-21, 16:27:12
-Modified: 2025-11-21, 16:30:03
 title: Hardware and Robotics
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:47:58
 ---
-# Hardware and Robotics
 
 > Controlling hardware and robots in Julia
 

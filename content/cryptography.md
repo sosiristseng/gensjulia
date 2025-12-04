@@ -1,9 +1,8 @@
 ---
 title: Cryptography
-Created: 2025-11-16, 16:59:37
-Modified: 2025-11-16, 17:01:16
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:22
 ---
-# Cryptography
 
 [Julia Crypto](https://github.com/JuliaCrypto) organization.
 
@@ -16,6 +15,7 @@ Modified: 2025-11-16, 17:01:16
 - [RNGTest.jl](https://github.com/JuliaRandom/RNGTest.jl) : A package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers.
 - [ECC.jl](https://gitlab.com/braneproject/ECC.jl) : Elliptic Curve Cryptography in Julia (secp256k1 curve).
 - [OpenSSL.jl](https://github.com/JuliaWeb/OpenSSL.jl): [OpenSSL](https://www.openssl.org/) Julia bindings.
+
 ## Homomorphic encryption
 
 [Wikipedia: Homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)

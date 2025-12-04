@@ -1,9 +1,9 @@
 ---
 title: Learn Julia
-Created: 2025-11-16, 16:30:28
-Modified: 2025-11-16, 16:45:10
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:48:28
 ---
-# Learn Julia
+
 [Get started with Julia](https://julialang.org/learning/)
 
 ## Quick start

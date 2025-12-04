@@ -1,11 +1,10 @@
 ---
-Created: 2025-11-20, 23:11:57
-Modified: 2025-11-22, 17:07:50
 title: Command-line interface
 aliases:
   - Command-line interface
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:45:20
 ---
-# Command-line interface
 
 ## Shell scripting
 

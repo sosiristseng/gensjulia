@@ -1,9 +1,8 @@
 ---
-title: "Earth and Space Science"
-Created: 2025-11-20, 16:40:48
-Modified: 2025-11-21, 15:57:09
+title: Earth and Space Science
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:56
 ---
-# Earth and Space Science
 
 > Climate modeling, ecology, cartography, GIS, Meteorology, astrophysics, astronomy, etc., in Julia.
 

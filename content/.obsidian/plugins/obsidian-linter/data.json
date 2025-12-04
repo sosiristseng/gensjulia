@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "dedupe-yaml-array-values": {
       "enabled": true,
@@ -60,10 +60,10 @@
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "Created",
+      "date-created-key": "created",
       "date-created-source-of-truth": "file system",
       "date-modified": true,
-      "date-modified-key": "Modified",
+      "date-modified-key": "modified",
       "date-modified-source-of-truth": "file system",
       "format": "YYYY-MM-DD, HH:mm:ss",
       "convert-to-utc": false,
@@ -93,7 +93,7 @@
     },
     "header-increment": {
       "enabled": true,
-      "start-at-h2": false
+      "start-at-h2": true
     },
     "headings-start-line": {
       "enabled": true
@@ -187,7 +187,7 @@
       "tabsize": 4
     },
     "empty-line-around-blockquotes": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-code-fences": {
       "enabled": true
@@ -202,7 +202,7 @@
       "enabled": true
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
@@ -278,7 +278,7 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "filesToIgnore": [],
-  "linterLocale": "system-default",
+  "linterLocale": "en",
   "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
@@ -287,6 +287,6 @@
     "tagArrayStyle": "multi-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
 }

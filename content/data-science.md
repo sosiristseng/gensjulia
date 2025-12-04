@@ -1,9 +1,8 @@
 ---
-Created: 2025-11-20, 15:52:10
-Modified: 2025-11-20, 16:01:51
 title: Data Science
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:46:27
 ---
-# Data Science
 
 > Data retrieval, manipulation, and storage in Julia.
 
@@ -55,6 +54,7 @@ Reading and writing `csv` files.
 - [DelimitedFiles.jl](https://github.com/JuliaData/DelimitedFiles.jl) : A package for reading and writing files with delimited values (Originally a Julia stdlib).
 - [CSVFiles.jl](https://github.com/queryverse/CSVFiles.jl) : `FileIO.jl` integration for CSV files.
 - [ReadWriteDlm2.jl](https://github.com/strickek/ReadWriteDlm2.jl) : CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types.
+
 ### Parquet files
 
 [Apache parquet format](https://en.wikipedia.org/wiki/Apache_Parquet)
@@ -78,6 +78,7 @@ Reading and writing `csv` files.
 - [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) : Julia [memcached](https://github.com/memcached/memcached/wiki/Commands) client.
 - [ODBC.jl](https://github.com/JuliaDatabases/ODBC.jl) : A low-level ODBC interface for the Julia programming language. [Tabular Data I/O in Julia](https://randyzwitch.com/julia-import-data/).
 - [QuandlAccess.jl](https://github.com/tk3369/QuandlAccess.jl) : convenient access to [Quandl](https://www.quandl.com/) data service.
+
 ## Accessing datasets
 
 For tabular data file, see [[fileio]]
@@ -88,6 +89,7 @@ For tabular data file, see [[fileio]]
 - [Faker.jl](https://github.com/neomatrixcode/Faker.jl) : A package that generates fake data.
 - [RDatasets.jl](https://github.com/JuliaStats/RDatasets.jl) : Julia package for loading many of the datasets available in R.
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) : The [World Bank](https://data.worldbank.org/) data.
+
 ## SQL and Relational Database Management Systems
 
 [Wikipedia: SQL](https://en.wikipedia.org/wiki/SQL)

@@ -1,13 +1,12 @@
 ---
-Created: 2025-11-22, 15:16:27
-Modified: 2025-11-22, 16:17:21
 title: Linear Algebra
 aliases:
   - Linear Algebra
+created: 2025-12-04, 12:33:20
+modified: 2025-12-04, 15:48:45
 ---
-# Linear Algebra
 
-[Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
+[Wikipedia: Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
 
 - [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford.
 - Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) in Python Jupyter notebooks.
@@ -27,6 +26,7 @@ aliases:
 - [MKL.jl](https://github.com/JuliaLinearAlgebra/MKL.jl) : Intel [MKL](https://en.wikipedia.org/wiki/Math_Kernel_Library) linear algebra backend for Julia.
 - [PartitionedArrays.jl](https://github.com/fverdugo/PartitionedArrays.jl) : distributed (a.k.a. partitioned) vectors and sparse matrices in Julia. It can be used for parallel algebraic multigrid (AMG) to solve PDE problems. [JuliaCon 2024 video](https://youtu.be/SRTP_STlGSk)
 - [VSL.jl](https://github.com/JuliaRandom/VSL.jl) : Julia bindings for the Intel Vector Statistics Library. Requires `MKL.jl`.
+
 ## Array Data Structures
 
 See also [[algorithm-data-structure]].
@@ -56,6 +56,7 @@ See also [[algorithm-data-structure]].
 - [SuffixArrays.j](https://github.com/JuliaCollections/SuffixArrays.jl) : Native Julia suffix array implementation.
 - [UniqueVectors.jl](https://github.com/garrison/UniqueVectors.jl) : Vectors of unique elements, with quick reverse lookups.
 - [Vec.jl](https://github.com/sisl/Vec.jl) : Provides 2D and 3D vector types for vector operations. All types are immutable and are subtypes of `StaticArrays.jl`.
+
 ### Matrices
 
 [Wikipedia: Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
@@ -96,6 +97,7 @@ See also [[algorithm-data-structure]].
 - [Metis.jl](https://github.com/JuliaSparse/Metis.jl) : Julia interface to the [Metis](https://github.com/KarypisLab/METIS) graph-partitioning algorithms.
 - [MKLSparse.j](https://github.com/JuliaSparse/MKLSparse.jl) : Override sparse-dense operations when `MKL.jl` is available.
 - [Pardiso.jl](https://github.com/JuliaSparse/Pardiso.jl) : Calling the [PARDISO](https://www.pardiso-project.org) library from Julia.
+
 ### Tensors
 
 - [AbstractTensors.jl](https://github.com/chakravala/AbstractTensors.jl) : Tensor algebra abstract type interoperability with vector bundle parameter.
