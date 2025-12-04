@@ -88,8 +88,7 @@ See also:
 
 ### Accessing elements
 
-- [Accessors.jl](https://github.com/JuliaObjects/Accessors.jl) : updating immutable data simple. It is the successor of [Accessors.jl](https://github.com/jw3126/Setfield.jl).
+- [Accessors.jl](https://github.com/JuliaObjects/Accessors.jl) : updating immutable data simple. It is the successor of [Setfield.jl](https://github.com/jw3126/Setfield.jl). [JuliaCon 2025 video](https://youtu.be/QxrlgVx0KnM?si=r4m4Ze7LRUqnfU-O)
 - [Parameters.jl](https://github.com/mauro3/Parameters.jl) : Types with default field values, keyword constructors and (un-)pack macros.
-- [SimpleUnPack.jl](https://github.com/devmotion/SimpleUnPack.jl) : Lightweight Julia macro for destructuring properties and fields. (Requires Julia >= 1.7)
-- [UnPack](https://github.com/mauro3/UnPack.jl) : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable data types.
-
+- [SimpleUnPack.jl](https://github.com/devmotion/SimpleUnPack.jl) : Lightweight Julia macro for destructuring properties and fields, similar to `UnPack.jl`. (Requires Julia >= 1.7)
+- [UnPack.jl](https://github.com/mauro3/UnPack.jl) : `@unpack` some or all of the fields of a type, and `@pack`, in the case of mutable data types.
