@@ -1,7 +1,7 @@
 ---
+title: "Earth and Space Science"
 Created: 2025-11-20, 16:40:48
 Modified: 2025-11-21, 15:57:09
-title: " Earth and Space Science"
 ---
 # Earth and Space Science
 
@@ -83,6 +83,7 @@ title: " Earth and Space Science"
 - [Proj.j](https://github.com/JuliaGeo/Proj.jl) : Julia wrapper for [PROJ](https://proj.org/).4 cartographic projections library.
 - [SARProcessing.jl](https://github.com/AIRCentre/SARProcessing.jl) : processing of synthetic aperture radar (SAR) data, including loading Single Look Complex and Ground Range Detected (GRD) images, speckle reduction, object detection in SAR image, interferometry, and more. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=HONx0bzFneU)
 - [Turf.jl](https://github.com/philoez98/Turf.jl) : A geospatial engine encoding the collections of simple geographical features using the JS lib [Turfjs](http://turfjs.org/) in the GeoJSON format.
+
 ## Aeronautics, Spacecraft, and astrodynamics
 
 - [Wikipedia: Space science](https://en.wikipedia.org/wiki/Outline_of_space_science)
@@ -114,6 +115,7 @@ title: " Earth and Space Science"
 
 - [Astro.jl](https://github.com/cormullion/Astro.jl) : Jan Meeus astronomical formulas and some time/date code in Julia.
 - [AstroLib.jl](https://github.com/JuliaAstro/AstroLib.jl) : Bundle of small astronomical and astrophysical routines, based on [IDL Astronomy User's Library](https://asd.gsfc.nasa.gov/archive/idlastro/) (AstroLib).
+- [Astrometry.jl](https://github.com/barrettp/Astrometry.jl) : a set of IAU standard algorithms for calculating the time and position of celestial objects. [JuliaCon 2025 video](https://www.youtube.com/watch?v=LblgHIDEjGc)
 - [AstroNbodySim.jl](https://github.com/JuliaAstroSim/AstroNbodySim.jl) : Unitful and differentiable gravitational N-body simulation code in Julia.
 - [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl) : Cosmology library for Julia.
 - [DustExtinction.jl](https://github.com/JuliaAstro/DustExtinction.jl) : Tools for interstellar dust extinction in astronomy
@@ -127,7 +129,7 @@ title: " Earth and Space Science"
 
 ### Visualizations
 
-- https://github.com/GenericMappingTools/RemoteS.jl : Remote sensing satellite data processing.
-- https://github.com/JuliaAstro/AstroImages.jl : Plots.jl and Images.jl integration of Astronomical Images (FITS) for Julia.
-- https://github.com/JuliaAstro/FITSIO.jl : Flexible Image Transport System (FITS) support for Julia.
-- https://github.com/JuliaAstro/Reproject.jl : Reproject Astronomical Images from one world coordinate to another.
+- [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl) : `Plots.jl` and `Images.jl` integration of Astronomical Images (FITS) for Julia.
+- [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) : Flexible Image Transport System (FITS) support for Julia.
+- [RemoteS.jl](https://github.com/GenericMappingTools/RemoteS.jl) : Remote sensing satellite data processing.
+- [Reproject.jl](https://github.com/JuliaAstro/Reproject.jl) : Reproject Astronomical Images from one world coordinate to another.
