@@ -10,6 +10,7 @@ modified: 2025-12-04, 15:49:07
 - [Julia Energy](https://github.com/JuliaEnergy)
 - [Julia high energy physics](https://github.com/JuliaHEP)
 - [Julia Physics](https://github.com/JuliaPhysics)
+- [JuliaQCD](https://github.com/JuliaQCD)
 - [QuantumBFS](https://github.com/QuantumBFS)
 
 ## See also
@@ -48,6 +49,7 @@ modified: 2025-12-04, 15:49:07
 - [Bloqade.jl](https://github.com/QuEraComputing/Bloqade.jl) : Package for the quantum computation and quantum simulation based on the neutral-atom architecture. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 - [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) : This library allows for efficient calculation of [Clifford](https://en.wikipedia.org/wiki/Clifford_algebra) circuits by tracking the evolution of X and Z generators.
 - [Hadamard.jl](https://github.com/JuliaMath/Hadamard.jl) : Fast multidimensional Walsh-Hadamard transforms.
+- [LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) : A native Julia code for lattice QCD with dynamical fermions in 4 dimension. [JuliaCon 2025](https://youtu.be/PlO0RvQLB_w)
 - [MERAKit.jl](https://github.com/mhauru/MERAKit.jl) : provides Julia implementations of some basic [Multiscale Entanglement Renormalization Ansatz algorithms](https://arxiv.org/abs/quant-ph/0610099).
 - [Qlab.j](https://github.com/BBN-Q/Qlab.jl) : Data manipulation and analysis tools tailored for quantum computing experiments.
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) : Package for simulating time dynamics of quantum systems with a focus on superconducting qubits.
@@ -57,8 +59,3 @@ modified: 2025-12-04, 15:49:07
 - [Quasar.jl](https://github.com/kshyatt-aws/Quasar.jl) : a package for lexing and parsing the [OpenQASM quantum assembly IR](https://openqasm.com/). [JuliaCon 2025 video](https://youtu.be/FN3R515iivs)
 - [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) : A Julia package for computing Wigner symbols and related quantities.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
-
-## Thermodynamics
-
-[Wikipedia: Thermodynamics](https://en.wikipedia.org/wiki/Category:Thermodynamics)
-- [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamic properties of moist air (real gas mixture).
