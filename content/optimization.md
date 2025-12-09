@@ -74,6 +74,7 @@ modified: 2025-12-04, 15:49:02
 
 [Wikipedia: Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)
 
+- [ConicSolve.jl](https://github.com/alexander-leong/ConicSolve.jl) : an Interior Point based constrained optimization solver. [JuliaCon 2025](https://youtu.be/oeWXHm0GQts)
 - [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) : Optimizing over piecewise linear functions.
 - [Tulip.jl](https://github.com/ds4dm/Tulip.jl) : is an open-source interior-point solver for linear optimization, written in pure Julia. It implements the homogeneous primal-dual interior-point algorithm with multiple centrality corrections, and therefore handles unbounded and infeasible problems.
 
