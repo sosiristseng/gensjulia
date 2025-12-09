@@ -171,6 +171,7 @@ modified: 2025-12-04, 15:48:58
 ### Parameter estimation
 
 - [DiffEqParamEstim.jl](https://github.com/SciML/DiffEqParamEstim.jl) : a package for simplified parameter estimation with `DifferentialEquations.jl`.
+- [ParameterEstimation.jl](https://github.com/iliailmer/ParameterEstimation.jl) : estimating parameters and initial conditions of ODE models given measurement data. [JuliaCon 2025](https://youtu.be/RqAwKP2HgF8)
 - [PEtab.jl](https://github.com/sebapersson/PEtab.jl): Create parameter estimation problems for ODE models
 - [PhysicsInformedRegression.jl](https://github.com/MarcusGalea/PhysicsInformedRegression.jl) : solving inverse problems (parameter estimation) using physics informed regression. It requires well-defined derivatives. [JuliaCon 2024 video](https://youtu.be/ohmiQv5WemQ)
 - [SciMLSensitivity.](https://github.com/SciML/SciMLSensitivity.jl) : sensitivity analysis and parameter estimation.
