@@ -97,12 +97,14 @@ modified: 2025-12-04, 15:48:52
 
 ### Interpolations
 
+- [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) : Julia package for function approximation using Chebyshev basis.
 - [CoordinateSplittingPTrees.jl](https://github.com/timholy/CoordinateSplittingPTrees.jl) : Accurate and efficient full-degree multidimensional polynomial interpolation.
 - [DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl): A library of data interpolation and smoothing functions.
-- [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl) : Julia package for 1-d and 2-d splines, a wrapper for the dierckx Fortran library.
+- [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl) : Julia package for 1-d and 2-d splines, a wrapper for the `dierckx` Fortran library.
 - [GridInterpolations.jl](https://github.com/sisl/GridInterpolations.jl) : Multi-dimensional grid interpolation in arbitrary dimensions on a recti-linear grid.
 - [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl) : Fast, continuous interpolation of discrete datasets in Julia.
 - [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) : A simple interface for interpolations on timeseries with first order discontinuities (using `Dierckx.jl`).
+- [RationalFunctionApproximation.jl](https://github.com/complexvariables/RationalFunctionApproximation.jl) : approximation by ratios of polynomials. [JuliaCon 2025 video](https://youtu.be/3Lyy8BNqyYM)
 
 ## Polynomials
 
