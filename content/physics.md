@@ -54,6 +54,7 @@ modified: 2025-12-04, 15:49:07
 - [QuantumControl.jl](https://github.com/JuliaQuantumControl/QuantumControl.jl) : Julia Framework for Quantum Dynamics and Control. [JuliaCon 2023 Video](https://www.youtube.com/watch?v=GgA8qPGifJ8)
 - [QuantumCumulants.jl](https://github.com/qojulia/QuantumCumulants.jl) : Generalized mean-field equations in open quantum systems. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) : Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the [Quantum Optics Toolbox](https://qo.phy.auckland.ac.nz/toolbox/) for MATLAB and its Python equivalent [QuTiP](https://qutip.org/). [JuliaCon 2023 Video](https://www.youtube.com/watch?v=sWvk-2lxMZU)
+- [Quasar.jl](https://github.com/kshyatt-aws/Quasar.jl) : a package for lexing and parsing the [OpenQASM quantum assembly IR](https://openqasm.com/). [JuliaCon 2025 video](https://youtu.be/FN3R515iivs)
 - [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) : A Julia package for computing Wigner symbols and related quantities.
 - [Yao.jl](https://github.com/QuantumBFS/Yao.jl) : Extensible, Efficient Quantum Algorithm Design for Humans. [JuliaCon2023 Video](https://www.youtube.com/watch?v=UElFAtGJC7o)
 
