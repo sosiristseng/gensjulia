@@ -101,7 +101,7 @@ See also [[algorithm-data-structure]].
 ### Tensors
 
 - [AbstractTensors.jl](https://github.com/chakravala/AbstractTensors.jl) : Tensor algebra abstract type interoperability with vector bundle parameter.
-- [Finch.jl](https://github.com/willow-ahrens/Finch.jl) : Finch is a cutting-edge Julia-to-Julia compiler specially designed for optimizing loop nests over sparse or structured multidimensional arrays.
+- [Finch.jl](https://github.com/willow-ahrens/Finch.jl) : Finch is a cutting-edge Julia-to-Julia compiler specially designed for optimizing loop nests over sparse or structured multidimensional arrays. [JuliaCon 2025](https://youtu.be/UVZEIlbydAQ)
 - [ITensors.jl](https://github.com/ITensor/ITensors.jl) : A Julia library for efficient tensor calculations.
 - [Leibniz.jl](https://github.com/chakravala/Leibniz.jl) : Operator algebras for mixed-symmetry multivariate differentiable tensor fields.
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) :  working with multi-dimensional arrays in index notation.
