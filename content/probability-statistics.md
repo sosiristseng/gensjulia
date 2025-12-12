@@ -66,6 +66,7 @@ modified: 2025-12-04, 15:49:12
 - [Loess.jl](https://github.com/JuliaStats/Loess.jl) : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 - [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) : Simple curve fitting functionality from `Optim.jl` has been moved into its own package.
 - [MixedModels.jl](https://github.com/JuliaStats/MixedModels.jl) : A Julia package for fitting (statistical) mixed-effects models.
+- [MixedModelsSmallSample.jl](https://github.com/ArnoStrouwen/MixedModelsSmallSample.jl) : inference adjustments for `MixedModels.jl`. [JuliaCon 2025](https://youtu.be/fhCbEsrLwZw)
 - [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) : Some nonnegative least squares solvers in Julia.
 - [QuantileRegressions.jl](https://github.com/pkofod/QuantileRegressions.jl) : Quantile regression in Julia.
 - [Smoothers.jl](https://github.com/viraltux/Smoothers.jl) : a collection of smoothing heuristics, models and smoothing related applications.
