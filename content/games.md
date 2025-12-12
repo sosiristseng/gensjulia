@@ -10,10 +10,11 @@ See also the [[graphics]] section.
 
 ## Games
 
-- [REPLTetris.jl](https://github.com/ChristianKurz/REPLTetris.jl) : A small Tetris-implementation to be used directly form the Julia REPL.
 - [Chess.jl](https://github.com/romstad/Chess.jl) : Julia chess programming library.
-- [JuliaKara.jl](https://github.com/sebastianpech/JuliaKara.jl) : A julia port of the learning environment [Kara](https://www.swisseduc.ch/informatik/karatojava/).
 - [Game2048.jl](https://github.com/xiaodaigh/Game2048.jl) : Simulation of the game 2048 in Julia. The base package is [Game2048Core.jl](https://github.com/xiaodaigh/Game2048Core.jl) .
+- [JuliaKara.jl](https://github.com/sebastianpech/JuliaKara.jl) : A julia port of the learning environment [Kara](https://www.swisseduc.ch/informatik/karatojava/).
+- [KRPC.jl](https://github.com/BenChung/KRPC.jl) : A Julia wrapper library for the [KRPC remote procedure call system for Kerbal Space Program](https://krpc.github.io/krpc/index.html). [JuliaCon 2025](https://youtu.be/tNFCOS_xeWk)
+- [REPLTetris.jl](https://github.com/ChristianKurz/REPLTetris.jl) : A small Tetris-implementation to be used directly form the Julia REPL.
 - [super-mango-julia](https://kyjor.itch.io/super-mango-julia) : Super Mango is a short 2D platformer game crafted with the Julia programming language, which was created as an example for all of [JulGame.jl](https://github.com/Kyjor/JulGame.jl).
 
 ## Game development
