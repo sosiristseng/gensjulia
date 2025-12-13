@@ -128,9 +128,12 @@ modified: 2025-12-04, 15:43:58
 
 [Wikipedia: Spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
 
+See also: [[health#Neuroscience]]
+
 ---
 
 - [Conductor.jl](https://github.com/wsphillips/Conductor.jl) : a Julia-based neuronal network simulator engine.
+- [Neuroblox.jl](https://github.com/Neuroblox/Neuroblox.jl) : Multi-scale computational neuroscience models. [JuliaCon 2025](https://youtu.be/_chc1i8DEnI)
 - [NeuronBuilder.jl](https://github.com/Dhruva2/NeuronBuilder.jl) : building small networks of detailed, conductance-based neurons out of ion channels and synapses.
 - [SpikeSynchrony.jl](https://github.com/JuliaNeuroscience/SpikeSynchrony.jl) : Measuring distances, synchrony and correlation between spike trains.
 - [SpikingNeuralNetworks.jl](https://github.com/JuliaSNN/SpikingNeuralNetworks.jl) : Julia Spiking Neural Network Simulator.
