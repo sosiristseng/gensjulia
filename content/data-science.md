@@ -26,6 +26,7 @@ modified: 2025-12-04, 15:46:27
   - [DataFrameMacros.jl](https://github.com/jkrumbiegel/DataFrameMacros.jl) : an opinionated take on DataFrame manipulation in Julia with a syntax geared towards clarity, brevity and convenience.
   - [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) : Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
 - [Cleaner.jl](https://github.com/TheRoniOne/Cleaner.jl) : A toolbox of simple solutions for common data cleaning problems.
+- [DataManipulation.jl](https://github.com/JuliaAPlavin/DataManipulation.jl) : General and composable utilities for manipulating tabular, quasi-tabular, and non-tabular datasets. [JuliaCon 2025](https://youtu.be/fpOc8528FgI)
 - [InMemoryDatasets.jl](https://github.com/sl-solution/InMemoryDatasets.jl) : Multithreaded package for working with tabular data in Julia.
 - [Kezdi.jl](https://github.com/codedthinking/Kezdi.jl) : Julia package for data manipulation and analysis. [Juliacon 2024](https://www.youtube.com/watch?v=JklbLwgePis)
 - [Pandas.jl](https://github.com/JuliaPy/Pandas.jl) : A Julia front-end to Python's `pandas` package.
