@@ -80,10 +80,11 @@ See also:
 
 - [Bijections.jl](https://github.com/scheinerman/Bijections.jl) : Bijection datatype for Julia that blocks assigning the same value to two different keys.
 - [ConcreteStructs.jl](https://github.com/jonniedie/ConcreteStructs.jl) : `@concrete` can be used to make non-concrete structs concrete without the boilerplate of adding type parameters.
+- [DictArrays.jl](https://github.com/JuliaAPlavin/DictArrays.jl) : Efficient wide columnar tables: like `StructArrays`, but dict-based. [JuliaCon 2025](https://youtu.be/xFi2jnG3ohQ)
 - [Dictionaries.jl](https://github.com/andyferris/Dictionaries.jl) : An alternative interface for dictionaries `Dict` in Julia, for improved productivity and performance.
 - [DispatchedTuples.jl](https://github.com/charleskawczynski/DispatchedTuples.jl) : `Dispatched Tuples` are like immutable dictionaries (so, they're technically more like `NamedTuples`) except that the keys are instances of types. Also, because DispatchedTuples are backed by tuples, they are GPU-friendly.
-- [TypeParams.jl](https://github.com/synchronoustechnologies/TypeParams.jl) : keeping compile-time type information in `struct` for better performance.
 - [OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl): Julia implementation of associative containers that preserve insertion order.
+- [TypeParams.jl](https://github.com/synchronoustechnologies/TypeParams.jl) : keeping compile-time type information in `struct` for better performance.
 
 ### Accessing elements
 
