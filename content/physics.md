@@ -23,6 +23,8 @@ modified: 2025-12-04, 15:49:07
 ## General
 
 - [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) : Curated physical constants.
+- [ElasticNetworks.jl](https://github.com/Arrondissement5etDemi/ElasticNetworks.jl) : EXACT linear response of elastic networks based on automatic differentiation. [JuliaCon 2025](https://youtu.be/QZHwGLLCBLY)
+
 
 ## Particle Physics
 

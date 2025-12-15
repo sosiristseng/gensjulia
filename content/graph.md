@@ -38,7 +38,6 @@ modified: 2025-12-04, 15:47:32
 - [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) : An interface for the [Blossom V](https://pub.ista.ac.at/~vnk/software.html) perfect (graph) matching algorithm. (**paid commercial license**)
 - [CommunityDetection.jl](https://github.com/JuliaGraphs/CommunityDetection.jl) : Implements community detection for `Graphs.jl`.
 - [Dendriform.jl](https://github.com/chakravala/Dendriform.jl) : Dendriform di-algebra algorithms to compute using Loday's arithmetic on groves of planar binary trees.
-- [ElasticNetworks.jl](https://github.com/Arrondissement5etDemi/ElasticNetworks.jl) : EXACT linear response of elastic networks based on automatic differentiation. [JuliaCon 2025](https://youtu.be/QZHwGLLCBLY)
 - [GraphDataFrameBridge.jl](https://github.com/JuliaGraphs/GraphDataFrameBridge.jl) : Tools for interoperability between DataFrame objects and LightGraphs and MetaGraphs objects.
 - [GraphsFlows.jl](https://github.com/JuliaGraphs/GraphsFlows.jl) : [Flow algorithms](https://en.wikipedia.org/wiki/Maximum_flow_problem) on top of `Graphs.jl`
 - [GraphsMatching.jl](https://github.com/JuliaGraphs/GraphsMatching.jl) : Matching algorithms for `Graphs.jl`.
