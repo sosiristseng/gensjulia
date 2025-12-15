@@ -37,7 +37,8 @@ See also [[physics]] on Julia.
 
 ## Molecular dynamics
 
-> For general modeling and simulation, see the [[modeling-simulation]] in Julia
+> For general modeling and simulation, see [[modeling-simulation]].
+> For general quantum mechanics, see [[physics#Quantum Mechanics]]
 
 - [Wikipedia: Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 - [Wikipedia: Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics)
@@ -49,6 +50,7 @@ See also [[physics]] on Julia.
 - [Fermi.jl](https://github.com/FermiQC/Fermi.jl) : Fermi is a quantum chemistry program written in (nearly) pure Julia.
 - [Quantica.jl](https://github.com/pablosanjose/Quantica.jl) : Simulation of tight-binding models on arbitrary lattices.
 - [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) : A workbench for Quantum Chemistry and Quantum Physics in Julia
+- [Quiqbox.jl](https://github.com/frankwswang/Quiqbox.jl) : a quantum chemistry and quantum physics software package that starts around Gaussian basis set optimization for electronic structure problems. [JuliaCon 2025](https://youtu.be/jcwAX2cLKoc)
 - [ReactionMechanismSimulator.jl](https://github.com/ReactionMechanismGenerator/ReactionMechanismSimulator.jl) : simulating large chemical kinetic mechanisms.
 
 ### Molecular simulation organization
