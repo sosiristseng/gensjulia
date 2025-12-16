@@ -100,6 +100,7 @@ modified: 2025-12-04, 15:49:18
 
 - [Cassette.jl](https://github.com/JuliaLabs/Cassette.jl) : a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs.
 - [IRTools.jl](https://github.com/FluxML/IRTools.jl) : Intermediate Representation toolkit to provide a simple and flexible IR format, expressive enough to work with both lowered and typed Julia code, as well as external IRs. It can be used with Julia metaprogramming tools such as Cassette.
+- [Reactant.jl](https://github.com/EnzymeAD/Reactant.jl) : Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU, etc. [JuliaCon 2025](https://youtu.be/ttewdkFGJOc)
 - [Revise.jl](https://github.com/timholy/Revise.jl) : Automatically update function definitions in a running Julia session. It will help you keep your sessions running longer, reducing the need to restart Julia whenever you make changes to code.
 
 ## Polymorphism amd multiple dispatch
