@@ -54,7 +54,7 @@ modified: 2025-12-04, 15:49:12
 
 [Wikipedia: Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 
-- [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) : Simple least squares and curve fitting functions.
+- [CurveFit.jl](https://github.com/SciML/CurveFit.jl) : Simple least squares and curve fitting functions. [JuliaCon 2025](https://youtu.be/mdcCjaYSNNc)
 - [FixedEffectModels.jl](https://github.com/FixedEffects/FixedEffectModels.jl) : Fast estimation of linear models with IV and high dimensional categorical variables.
 - [GLM.jl](https://github.com/JuliaStats/GLM.jl) : Linear models (LM) and generalized linear models (GLM).
 - [GLMNet.jl](https://github.com/JuliaStats/GLMNet.jl) : Julia wrapper for [glmnet](https://www.jstatsoft.org/article/view/v033i01), fitting Lasso/ElasticNet GLM models.
