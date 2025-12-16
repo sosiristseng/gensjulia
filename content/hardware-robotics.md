@@ -46,3 +46,4 @@ modified: 2025-12-04, 15:47:58
 - [RigidBodySim.jl](https://github.com/JuliaRobotics/RigidBodySim.jl) : Simulation and visualization of articulated rigid body systems in Julia.
 - [RobotOS.jl](https://github.com/jdlangs/RobotOS.jl) : Julia interface to [ROS](http://wiki.ros.org/) (Robot Operating System).
 - [StrandbeestRobot.jl](https://github.com/rdeits/StrandbeestRobot.jl) : Simulation of a 12-legged parallel walking mechanism in Julia, inspired by Theo Jansen's Strandbeest.
+- [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) : A fast trajectory optimization library written in Julia. [JuliaCon 2025](https://youtu.be/uHSyZZuz5Wg)
