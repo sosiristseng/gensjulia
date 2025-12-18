@@ -25,7 +25,8 @@ modified: 2025-12-04, 15:46:16
 
 ## General Concurrency Packages
 
-- [Actors.jl](https://github.com/JuliaActors/Actors.jl : [Actor Model](https://en.wikipedia.org/wiki/Actor_model) concurrent model.
+- [AcceleratedKernels.jl](https://github.com/JuliaGPU/AcceleratedKernels.jl) : Cross-architecture parallel algorithms for Julia's CPU and GPU backends. [JuliaCon 2025](https://youtu.be/lTn7-M6bdKc)
+- [Actors.jl](https://github.com/JuliaActors/Actors.jl) : [Actor Model](https://en.wikipedia.org/wiki/Actor_model) concurrent model.
 - [FLoops.jl](https://github.com/JuliaFolds2/FLoops.jl) : the macro `@floop`, a superset of `Threads.@threads`, for a fast generic for loop iteration over complex collections.
 - [Folds.jl](https://github.com/JuliaFolds2/Folds.jl) : A unified interface for sequential, threaded, and distributed folds.
 - [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl): Julia interface for the [OpenCL](https://www.khronos.org/opencl/) parallel computation API.
