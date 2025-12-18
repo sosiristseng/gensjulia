@@ -66,7 +66,7 @@ modified: 2025-12-04, 15:43:58
 
 - [Clustering.jl](https://github.com/JuliaStats/Clustering.jl): Basic functions for clustering data e.g, k-means, dp-means, etc..
 - [DecisionTree.jl](https://github.com/JuliaAI/DecisionTree.jl) : Julia implementation of Decision Tree (CART) and Random Forest algorithms.
-- [EvoTrees.jl](https://github.com/Evovest/EvoTrees.jl) : Boosted decision trees in Julia.
+- [EvoTrees.jl](https://github.com/Evovest/EvoTrees.jl) : Boosted decision trees in Julia. [JuliaCon 2025](https://youtu.be/jn4UJkbraa8)
 - [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) : High performance nearest neighbor data structures and algorithms for Julia.
 - [UMAP.jl](https://github.com/dillondaudert/UMAP.jl) : Uniform Manifold Approximation and Projection ([UMAP](https://arxiv.org/abs/1802.03426)) implementation in Julia.
 
