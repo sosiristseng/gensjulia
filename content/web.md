@@ -13,6 +13,7 @@ modified: 2025-12-04, 15:50:18
 - [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) : HTTP for Julia.
 - [HttpCommon.jl](https://github.com/JuliaWeb/HttpCommon.jl) : Provides types and helper functions for dealing with the HTTP protocol in Julia.
 - [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) : Thin Julia wrapper of [libCURL](http://curl.haxx.se/libcurl/).
+- [Mongoose.jl](https://github.com/AbrJA/Mongoose.jl) : a lightweight and efficient interface for building HTTP servers and web applications by the [Mongoose C library](https://github.com/cesanta/mongoose).
 
 ## HTML and CSS
 
