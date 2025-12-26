@@ -68,13 +68,14 @@ modified: 2025-12-04, 15:50:13
 
 - [Bokeh.jl](https://github.com/cjdoris/Bokeh.jl): Julia bindings for the [Bokeh](https://bokeh.org/) plotting library. See the [gallery](https://cjdoris.github.io/Bokeh.jl/stable/gallery). This package wraps BokehJS directly *without* using Python.
 - [CMDimCircuits.jl](https://github.com/ma-laforge/CMDimCircuits.jl) : Parametric analysis/visualization of model/measurement/simulation results. The sister package for continuous function interpolation: [CMDimData.jl](https://github.com/ma-laforge/CMDimData.jl) .
+- [Desmos.jl](https://github.com/hyrodium/Desmos.jl) : [Desmos](https://www.desmos.com/) math calculator in Julia, supporting VSCode, Jupyter, and Pluto outputs.
 - [Displaz.jl](https://github.com/c42f/Displaz.jl) : Julia bindings for [displaz lidar viewer](http://c42f.github.io/displaz).
 - [ECharts.jl](https://github.com/randyzwitch/ECharts.jl) : Julia package for the [ECharts v4 visualization library](https://echarts.apache.org/zh/download.html).
 - [GMT.jl](https://github.com/GenericMappingTools/GMT.jl) : Julia bindings for the [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) Library.
+- [GR.jl](https://github.com/jheinen/GR.jl) : This module provides a Julia interface to the [GR framework](https://gr-framework.org/) graphics library.
 - [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) : Publication-quality plotting for julia using Grace/xmgrace.
 - [GraphPlot.jl](https://github.com/JuliaGraphs/GraphPlot.jl) : Graph visualization for Julia.
-- [GR.jl](https://github.com/jheinen/GR.jl) : This module provides a Julia interface to the [GR framework](https://gr-framework.org/) graphics library.
-- [ImPlot.jl](https://github.com/wsphillips/ImPlot.jl) : an interface to [cimplot](https://github.com/cimgui/cimplot) that can be used in conjunction with [CImGui.jl](https://github.com/Gnimuc/CImGui.jl).
+- [ImPlot.jl](https://github.com/JuliaImGui/ImPlot.jl) : an interface to [cimplot](https://github.com/cimgui/cimplot) that can be used in conjunction with [CImGui.jl](https://github.com/JuliaImGui/CImGui.jl).
 - [Javis.jl](https://github.com/JuliaAnimators/Javis.jl) : Julia Animations and Visualizations. [JuliaCon 2021 Video](https://youtu.be/ckvsc6ukdOc).
 - [RoMEPlotting.jl](https://github.com/JuliaRobotics/RoMEPlotting.jl) : 2D plotting functionality for the Robot Motion Estimate ( https://github.com/JuliaRobotics/RoME.jl ) package. It's part of the [Caesar.jl]https://github.com/JuliaRobotics/Caesar.jl) package.
 - [SandDance.jl](https://github.com/queryverse/SandDance.jl) : Julia bindings for [MS Sanddance](https://microsoft.github.io/SandDance/)
