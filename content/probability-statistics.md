@@ -54,7 +54,6 @@ modified: 2025-12-04, 15:49:12
 
 [Wikipedia: Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 
-- [CurveFit.jl](https://github.com/SciML/CurveFit.jl) : Simple least squares and curve fitting functions. [JuliaCon 2025](https://youtu.be/mdcCjaYSNNc)
 - [FixedEffectModels.jl](https://github.com/FixedEffects/FixedEffectModels.jl) : Fast estimation of linear models with IV and high dimensional categorical variables.
 - [GLM.jl](https://github.com/JuliaStats/GLM.jl) : Linear models (LM) and generalized linear models (GLM).
 - [GLMNet.jl](https://github.com/JuliaStats/GLMNet.jl) : Julia wrapper for [glmnet](https://www.jstatsoft.org/article/view/v033i01), fitting Lasso/ElasticNet GLM models.
@@ -64,14 +63,19 @@ modified: 2025-12-04, 15:49:12
 - [LinearFitXYerrors.jl](https://github.com/rafael-guerra-www/LinearFitXYerrors.jl) : Linear Regression with errors in both X and Y, correlated or not, confidence intervals and plots.
 - [LinearRegressionKit.jl](https://github.com/ericqu/LinearRegressionKit.jl): Linear Regression for Julia.
 - [Loess.jl](https://github.com/JuliaStats/Loess.jl) : is a [loess implementation](https://en.wikipedia.org/wiki/Local_regression) based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
-- [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) : Simple curve fitting functionality from `Optim.jl` has been moved into its own package.
 - [MixedModels.jl](https://github.com/JuliaStats/MixedModels.jl) : A Julia package for fitting (statistical) mixed-effects models.
 - [MixedModelsSmallSample.jl](https://github.com/ArnoStrouwen/MixedModelsSmallSample.jl) : inference adjustments for `MixedModels.jl`. [JuliaCon 2025](https://youtu.be/fhCbEsrLwZw)
-- [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) : Some nonnegative least squares solvers in Julia.
 - [QuantileRegressions.jl](https://github.com/pkofod/QuantileRegressions.jl) : Quantile regression in Julia.
 - [Smoothers.jl](https://github.com/viraltux/Smoothers.jl) : a collection of smoothing heuristics, models and smoothing related applications.
 - [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) : Statistical Models with Regularization in Pure Julia.
 - [Survival.jl](https://github.com/JuliaStats/Survival.jl) : A Julia package for performing [survival analysis](https://en.wikipedia.org/wiki/Survival_analysis).
+
+### Curve fitting
+
+- [CurveFit.jl](https://github.com/SciML/CurveFit.jl) : Simple least squares and curve fitting functions. [JuliaCon 2025](https://youtu.be/mdcCjaYSNNc)
+- [LeastSquaresOptim.jl](https://github.com/matthieugomez/LeastSquaresOptim.jl) : solving non linear least squares optimization problems.
+- [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl) : Simple curve fitting functionality from `Optim.jl` has been moved into its own package.
+- [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) : Some nonnegative least squares solvers in Julia.
 
 ## Density estimation
 
