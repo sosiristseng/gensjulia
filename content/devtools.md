@@ -48,7 +48,7 @@ modified: 2025-12-04, 15:46:35
 
 ### Package templates
 
-- [PkgTemplates.jl](https://github.com/invenia/PkgTemplates.jl) : Generate Julia package skeletons using a simple template system.
+- [PkgTemplates.jl](https://github.com/JuliaCI/PkgTemplates.jl) : Generate Julia package skeletons using a simple template system.
 - [PkgSkeleton.jl](https://github.com/tpapp/PkgSkeleton.jl) : Create new Julia packages, the easy way. Include template files for GitHub / GitLab CI.
 
 ### Prebuilt Binaries
