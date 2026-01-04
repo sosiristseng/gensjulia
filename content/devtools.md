@@ -157,6 +157,7 @@ Analyzing how much time is spent on individual line(s). Julia docs: https://docs
 - [Julia in Quarto](https://quarto.org/docs/computations/julia.html): An open-source scientific and technical publishing system.
 - [LiClipse](https://www.liclipse.com/) : Eclipse plus some customizations, supports Julia.
 - [juliamono](https://github.com/cormullion/juliamono) : A monospaced font for Julia with unicode characters and ligatures.
+- [JETLS.jl](https://github.com/aviatesk/JETLS.jl) : A new language server for Julia, enabling modern, compiler-powered tooling.
 
 ### Emacs
 
