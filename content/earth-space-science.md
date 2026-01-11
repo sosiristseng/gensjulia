@@ -123,6 +123,7 @@ modified: 2025-12-04, 15:46:56
 - [JPLEphemeris.jl](https://github.com/JuliaAstro/JPLEphemeris.jl) : The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 - [SatelliteToolbox.jl](https://github.com/JuliaSpace/SatelliteToolbox.jl) : A toolbox for satellite analysis written in Julia.
 - [SkyCoords.jl](https://github.com/JuliaAstro/SkyCoords.jl) : Astronomical coordinate systems in Julia.
+- [SolarPosition.jl](https://github.com/JuliaAstro/SolarPosition.jl) : Solar positioning algorithms for Julia.
 - [SymBoltz.jl](https://github.com/hersle/SymBoltz.jl) : A symbolic-numeric, approximation-free and differentiable linear Einstein-Boltzmann solver.
 - [WCS.jl](https://github.com/JuliaAstro/WCS.jl) : Astronomical [World Coordinate System](https://www.atnf.csiro.au/people/mcalabre/WCS/) library for Julia.
 

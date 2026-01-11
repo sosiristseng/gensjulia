@@ -4,14 +4,12 @@ created: 2025-12-04, 12:33:20
 modified: 2025-12-04, 15:49:29
 ---
 
-## Text and String
-
 > Text and string data type and processing
 
 - [JuliaStrings](https://github.com/JuliaStrings/)
 - [Julia-i18n](https://github.com/Julia-i18n)
 
-### Text data type
+## Text data type
 
 - [FixedSizeStrings.jl](https://github.com/JuliaComputing/FixedSizeStrings.jl ): A type for efficiently storing short strings of known size.
 - [WeakRefStrings.jl](https://github.com/JuliaData/WeakRefStrings.jl) : a minimal String type for Julia that allows for efficient string representation and transfer.
@@ -22,12 +20,12 @@ modified: 2025-12-04, 15:49:29
 - [StringLiterals.jl](https://github.com/JuliaString/StringLiterals.jl : Implement improved )string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities.
 - [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl) : String Distances in Julia.
 
-### International languages and Unicode tools
+## International languages and Unicode tools
 
 - [Gettext](https://github.com/Julia-i18n/Gettext.jl) : An interface to the [gettext](https://www.gnu.org/software/gettext/manual/html_node/index.html) internationalization/translation interface.
 - [ICU.jl](https://github.com/JuliaStrings/ICU.jl) : Julia wrapper for the [International Components for Unicode (ICU) libraries](http://site.icu-project.org/).
 
-### Document Processors
+## Document Processors
 
 [Document Processors](https://en.wikipedia.org/wiki/Document_processor) for Word, Excel, and PDF files.
 

@@ -95,6 +95,7 @@ modified: 2025-12-04, 15:43:58
 
 [Wikipedia: Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
+- [Breakout.jl](https://github.com/rajgoel/Breakout.jl) : A simple Breakout clone for fun and reinforcement learning on internal game state.
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) : A Reinforcement Learning package. Introduction: [ReinforcementLearningAnIntroduction.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl)
 
 ## Natural language processing (NLP)
