@@ -89,7 +89,7 @@ For medicine, see [[health]] in Julia.
 - [BioformatsLoader.jl](https://github.com/ahnlabb/BioformatsLoader.jl) : load images using bioformats based on `JavaCall.jl`.
 - [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) : A multi-dimensional, high performance deconvolution framework written in Julia Lang for CPUs and GPUs. [JuliaCon 2021 video](https://youtu.be/FodpnOhccis)
 - [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) : Tools for working with Fourier (Frequency) space. [JuliaCon 2021 video](https://youtu.be/qYgJDb_Ko2E)
-- [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) : Read [imagine](http://dotwhat.net/file/extension/imagine/7604) light sheet microscopy file formats in Julia.
+- [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) : Read imagine light sheet microscopy file formats in Julia.
 - [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) : Embed annotations in your microscopy images.
 - [PointSpreadFunctions.jl](https://github.com/RainerHeintzmann/PointSpreadFunctions.jl) : Toolbox for calculating optical point spread functions [(PSFs)](https://en.wikipedia.org/wiki/Point_spread_function).
 - [View5D.jl](https://github.com/RainerHeintzmann/View5D.jl) : a Java-based viewer for up to 5-dimensional data.

@@ -3,5 +3,4 @@ node_modules
 public
 .quartz-cache
 private/
-.vscode/
 content/.obsidian/workspace.json
