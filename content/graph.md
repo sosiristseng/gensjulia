@@ -30,7 +30,6 @@ modified: 2025-12-04, 15:47:32
 
 ## Graph algorithms
 
-- [aleph_star](https://github.com/imagry/aleph_star) : Reinforcement learning with A* and a deep heuristic.
 - [Wikipedia: Graph algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
 
 ---
