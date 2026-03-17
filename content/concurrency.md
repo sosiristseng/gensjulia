@@ -1,14 +1,16 @@
 ---
 title: Concurrency
 created: 2025-12-04, 12:33:20
-modified: 2025-12-04, 15:46:16
+modified: 2026-03-17, 16:57:52
 ---
 
-> - Julia HPC and Cluster computing.
-> - Distributed Computing and Grid computing.
-> - Cloud computing
-> - Parallel computing
-> - Hardware architectures (ARM, CUDA, GPU, MIPS) and compute kernels
+- Julia HPC and Cluster computing.
+- Distributed Computing and Grid computing.
+- Cloud computing
+- Parallel computing
+- Hardware architectures (ARM, CUDA, GPU, MIPS) and compute kernels
+
+---
 
 - [Julia manual for parallel computing](https://docs.julialang.org/en/v1/manual/parallel-computing/)
 - [Wikipedia: Concurrency](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
@@ -101,6 +103,7 @@ modified: 2025-12-04, 15:46:16
 - [ArrayFire.jl](https://github.com/JuliaGPU/ArrayFire.jl) : Julia Wrapper for the [ArrayFire](https://arrayfire.com/) library.
 - [GPUArrays.jl](https://github.com/JuliaGPU/GPUArrays.jl) : Reusable array functionality for Julia's various GPU backends.
 - [oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) : Julia support for the [oneAPI](https://software.intel.com/en-us/oneapi) programming toolkit.
+- [JACC.jl](https://github.com/JuliaGPU/JACC.jl) : Julia for Accelerators, CPU/GPU portable array, `parallel_for`/`parallel_reduce` in Julia for productive science. [Package announcement](https://discourse.julialang.org/t/ann-jacc-jl-v1-0-now-available-for-100-portable-cpu-gpu-code/136231)
 
 ### NVIDIA CUDA
 

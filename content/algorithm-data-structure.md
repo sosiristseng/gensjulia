@@ -7,6 +7,7 @@ modified: 2025-12-04, 15:44:05
 > Generic algorithms and data structures.
 
 See also:
+
 - [[cryptography]]
 - [[graph]] theory
 - [[optimization]]
