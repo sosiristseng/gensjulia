@@ -98,14 +98,15 @@ modified: 2025-12-04, 15:48:52
 ### Interpolations
 
 - [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) : Julia package for function approximation using Chebyshev basis.
+- [ConvolutionInterpolations.jl](https://github.com/NikoBiele/ConvolutionInterpolations.jl) : Smooth interpolation, derivatives and antiderivatives from a discrete grid of samples. [Julia forum thread](https://discourse.julialang.org/t/ann-convolutioninterpolations-jl-smooth-multi-dimensional-high-order-of-accuracy-interpolation/128003)
 - [CoordinateSplittingPTrees.jl](https://github.com/timholy/CoordinateSplittingPTrees.jl) : Accurate and efficient full-degree multidimensional polynomial interpolation.
 - [DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl): A library of data interpolation and smoothing functions.
 - [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl) : Julia package for 1-d and 2-d splines, a wrapper for the `dierckx` Fortran library.
+- [FastInterpolations.jl](https://github.com/ProjectTorreyPines/FastInterpolations.jl) : Fast N-dimensional interpolation package for Julia. [Julia forum thread](https://discourse.julialang.org/t/ann-fastinterpolations-jl-fast-zero-allocation-nd-interpolation/135911)
 - [GridInterpolations.jl](https://github.com/sisl/GridInterpolations.jl) : Multi-dimensional grid interpolation in arbitrary dimensions on a recti-linear grid.
 - [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl) : Fast, continuous interpolation of discrete datasets in Julia.
 - [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) : A simple interface for interpolations on timeseries with first order discontinuities (using `Dierckx.jl`).
 - [RationalFunctionApproximation.jl](https://github.com/complexvariables/RationalFunctionApproximation.jl) : approximation by ratios of polynomials. [JuliaCon 2025 video](https://youtu.be/3Lyy8BNqyYM)
-- [FastInterpolations.jl](https://github.com/ProjectTorreyPines/FastInterpolations.jl) : Fast N-dimensional interpolation package for Julia. [Julia ]
 
 ## Polynomials
 
