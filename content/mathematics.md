@@ -105,6 +105,7 @@ modified: 2025-12-04, 15:48:52
 - [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl) : Fast, continuous interpolation of discrete datasets in Julia.
 - [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) : A simple interface for interpolations on timeseries with first order discontinuities (using `Dierckx.jl`).
 - [RationalFunctionApproximation.jl](https://github.com/complexvariables/RationalFunctionApproximation.jl) : approximation by ratios of polynomials. [JuliaCon 2025 video](https://youtu.be/3Lyy8BNqyYM)
+- [FastInterpolations.jl](https://github.com/ProjectTorreyPines/FastInterpolations.jl) : Fast N-dimensional interpolation package for Julia. [Julia ]
 
 ## Polynomials
 
