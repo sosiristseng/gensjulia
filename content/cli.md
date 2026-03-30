@@ -1,7 +1,7 @@
 ---
 title: Command-line interface
 aliases:
-  - Command-line interface
+  - CLI
 created: 2025-12-04, 12:33:20
 modified: 2025-12-04, 15:45:20
 ---
