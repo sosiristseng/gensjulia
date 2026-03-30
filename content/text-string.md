@@ -9,6 +9,10 @@ modified: 2025-12-04, 15:49:29
 - [JuliaStrings](https://github.com/JuliaStrings/)
 - [Julia-i18n](https://github.com/Julia-i18n)
 
+---
+
+- [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
+
 ## Text data type
 
 - [FixedSizeStrings.jl](https://github.com/JuliaComputing/FixedSizeStrings.jl ): A type for efficiently storing short strings of known size.

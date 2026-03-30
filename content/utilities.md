@@ -13,4 +13,3 @@ See also [[cli|Command-line interface]].
 - [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) : Easy memorization for Julia.
 - [MTH229.jl](https://github.com/mth229/MTH229.jl) : Helper files by @mth229.
 - [UpdateJulia.jl](https://github.com/LilithHafner/UpdateJulia.jl) : Simple cross platform Julia installer and updater.
-- [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) : Word cloud (tag cloud or wordle) is a novelty visual representation of text data.
