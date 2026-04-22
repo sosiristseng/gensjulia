@@ -30,7 +30,7 @@ modified: 2025-12-04, 15:49:02
 
 > Some of them require paid license to work.
 
-- [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and [AMPL](http://ampl.com/products/solvers/all-solvers-for-ampl/)-enabled solvers.
+- [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) : an interface between `MathOptInterface.jl` and AMPL-enabled solvers.
 - [BARON.jl](https://github.com/jump-dev/BARON.jl) : A wrapper for the [BARON](https://minlp.com/baron-solver) mixed-integer nonlinear programming solver.
 - [Cbc.jl](https://github.com/jump-dev/Cbc.jl) : Interface to the Coin-OR Cbc solver for mixed-integer programming.
 - [Clp.jl](https://github.com/jump-dev/Clp.jl) : Interface to the Coin-OR Linear Programming solver (CLP)

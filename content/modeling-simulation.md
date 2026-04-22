@@ -164,7 +164,7 @@ modified: 2025-12-04, 15:48:58
 - [DataInterpolations.jl](https://github.com/SciML/DataInterpolations.jl) : Data interpolation and smoothing functions.
 - [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) : dealing with simulations and simulation parameters.
 - [ProgressLogging.jl](https://github.com/JuliaLogging/ProgressLogging.jl) : a package for defining progress logs, supported by REPL ([TerminalLoggers.jl](https://github.com/JuliaLogging/TerminalLoggers.jl)), VS Code, Pluto.
-- [SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) : Benchmarks for scientific machine learning (SciML) software and differential equation solvers. [Benchmark results](https://benchmarks.sciml.ai/stable/)
+- [SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) : Benchmarks for scientific machine learning (SciML) software and differential equation solvers.
 - [SimulationLogger.jl](https://github.com/JinraeKim/SimulationLogger.jl) : providing convenient logging tools for `DifferentialEquations.jl`.
 - [SimulationLogs.jl](https://github.com/jonniedie/SimulationLogs.jl) : Signal logging and scoping for `DifferentialEquations.jl` simulations.
 

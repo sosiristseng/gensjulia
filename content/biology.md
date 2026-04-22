@@ -47,7 +47,7 @@ For medicine, see [[health]] in Julia.
 - [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl) :  A modern genomics framework for julia
 - [GenomicFeatures.jl](https://github.com/BioJulia/GenomicFeatures.jl) : utilities for working with interval based genomic annotations.
 - [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) : A data structure for efficient manipulation of sets of intervals.
-- [KmerAnalysis.jl](https://github.com/BioJulia/KmerAnalysis.jl) :  Kmer counting algorithms and count-data utilities for the BioJulia framework.
+- [KmerAnalysis.jl](https://github.com/BioJulia/KmerAnalysis.jl) : Kmer counting algorithms and count-data utilities for the BioJulia framework.
 - [Microbiome.jl](https://github.com/EcoJulia/Microbiome.jl) : manipulating and analyzing microbiome and microbial community data.
 - [XAM.jl](https://github.com/BioJulia/XAM.jl) : Parse and process SAM and BAM formatted alignment map files.
 
@@ -56,8 +56,8 @@ For medicine, see [[health]] in Julia.
 [Wikiedia: Phylogenetics](https://en.wikipedia.org/wiki/Phylogenetics). Phylogenic trees are evolution trees deduced from biosequences.
 
 - [Phylo.jl](https://github.com/EcoJulia/Phylo.jl) : Simple phylogenetic trees in Julia to work with `Diversity.jl`.
-- [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
-- [PhyloPlots.jl](https://github.com/cecileane/PhyloPlots.jl) : Display utilities for phylogenetic trees and networks.
+- [PhyloNetworks.jl](https://github.com/JuliaPhylo/PhyloNetworks.jl) : A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
+- [PhyloPlots.jl](https://github.com/JuliaPhylo/PhyloPlots.jl) : Display utilities for phylogenetic trees and networks.
 - [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) : Phylogenetic tree simulation.
 
 ### Genomics
@@ -75,7 +75,7 @@ For medicine, see [[health]] in Julia.
 
 ## Metabolic networks
 
-- [COBREXA.jl](https://github.com/LCSB-BioCore/COBREXA.jl) : constraint-based reconstruction and analysis tools for exa-scale metabolic models in Julia. It uses [JuMP.jl](https://github.com/jump-dev/JuMP.jl) to formulate optimization problems.
+- [COBREXA.jl](https://github.com/COBREXA/COBREXA.jl) : constraint-based reconstruction and analysis tools for exa-scale metabolic models in Julia. It uses [JuMP.jl](https://github.com/jump-dev/JuMP.jl) to formulate optimization problems.
 - [Escher.jl](https://github.com/stelmo/Escher.jl) : `escherplot` is a `Makie.jl` recipe that plots maps of metabolic models.
 
 ## Molecular Biology

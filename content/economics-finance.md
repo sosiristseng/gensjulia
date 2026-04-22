@@ -18,7 +18,7 @@ modified: 2025-12-04, 15:47:05
 - [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) : Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE).
 - [Dynare.jl](https://github.com/DynareJulia/Dynare.jl) : A Julia rewrite of Dynare: solving, simulating and estimating DSGE models.
 - [Expectations.jl](https://github.com/QuantEcon/Expectations.jl) : Expectation operators for `Distributions.jl` objects.
-- [FredData.jl](https://github.com/micahjsmith/FredData.jl) : Pull [data](https://fred.stlouisfed.org/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
+- [FredData.jl](https://github.com/micahjsmith/FredData.jl) : Pull data from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 - [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :Julia implementation of [QuantEcon](https://quantecon.org/quantecon-jl/) routines.
 - [SchumakerSpline.jl](https://github.com/s-baumann/SchumakerSpline.jl) : An equivalent Julia package to R's [schumaker](https://cran.r-project.org/web/packages/schumaker/index.html) to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
 - [SolveDSGE.jl](https://github.com/RJDennis/SolveDSGE.jl) : a Julia package for solving Dynamic Stochastic General Equilibrium (DSGE) models.

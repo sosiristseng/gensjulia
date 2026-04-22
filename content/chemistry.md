@@ -32,7 +32,7 @@ See also [[physics]] on Julia.
 
 ---
 
-- [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) : [CoolProp](http://www.coolprop.org/) wrapper for Julia
+- [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) : [CoolProp](https://coolprop.org/) wrapper for Julia
 - [Psychro.jl](https://github.com/pjabardo/Psychro.jl) : Thermodynamics properties of wet air and gasses.
 
 ## Molecular dynamics

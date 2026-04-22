@@ -27,11 +27,11 @@ Similar to Python's [`pickle`](https://docs.python.org/3/library/pickle.html). S
 ## File Compression
 
 - [Blosc.jl](https://github.com/JuliaIO/Blosc.jl) : Fast lossless compression from the [Blosc](https://www.blosc.org/) library, currently limited to 32-bit buffer sizes.
-- [CodecXz.jl](https://github.com/JuliaIO/CodecXz.jl) : An xz codec for TranscodingStreams.jl.
+- [CodecXz.jl](https://github.com/JuliaIO/CodecXz.jl) : An `xz` codec for `TranscodingStreams.jl`.
 - [CodecZlib.jl](https://github.com/JuliaIO/CodecZlib.jl) : zlib interface for Julia. Used in `TranscodingStreams.jl`.
-- [CodecZstd.jl](https://github.com/JuliaIO/CodecZstd.jl): A zstd codec for TranscodingStreams.jl.
-- [GZip.jl](https://github.com/JuliaIO/GZip.jl) : A Julia wrapper for gzip functions in [zlib](https://zlib.net/).
-- [LibArchive.jl](https://github.com/yuyichao/LibArchive.jl) : Wrapper for https://github.com/libarchive/libarchive.
+- [CodecZstd.jl](https://github.com/JuliaIO/CodecZstd.jl): A `zstd` codec for `TranscodingStreams.jl`.
+- [GZip.jl](https://github.com/JuliaIO/GZip.jl) : A Julia wrapper for gzip functions in [zlib](https://github.com/madler/zlib).
+- [LibArchive.jl](https://github.com/yuyichao/LibArchive.jl) : Wrapper for [libarchive](https://github.com/libarchive/libarchive).
 - [Snappy.jl](https://github.com/JuliaIO/Snappy.jl) : A Julia wrapper for the [snappy](https://google.github.io/snappy/) library.
 - [TranscodingStreams.jl](https://github.com/JuliaIO/TranscodingStreams.jl) : Simple, consistent interfaces for `zip`, `zstd`, `lz4`, `bzip2`, etc.
 - [ZipFile.jl](https://github.com/fhs/ZipFile.jl) : Read/Write ZIP archives in Julia.

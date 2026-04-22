@@ -34,7 +34,7 @@ modified: 2025-12-04, 15:43:58
 
 [Flux.jl](https://github.com/FluxML/Flux.jl) : Pure Julia ML stack with lightweight abstractions on top of Julia's native GPU and AD support.
 
-- [FastAI.jl](https://github.com/FluxML/FastAI.jl) : Repository of best practices for deep learning in Julia, inspired by [fastai](http://docs.fast.ai/).
+- [FastAI.jl](https://github.com/FluxML/FastAI.jl) : Repository of best practices for deep learning in Julia, inspired by [fastai](https://docs.fast.ai/).
 - [FluxTraining.jl](https://github.com/FluxML/FluxTraining.jl) : A powerful, extensible neural net training backend.
 - [GeometricFlux.jl](https://github.com/FluxML/GeometricFlux.jl) : Geometric Deep Learning for `Flux.jl`.
 - [model-zoo](https://github.com/FluxML/model-zoo) : Various demonstrations of the `Flux.jl` machine learning library.
