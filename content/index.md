@@ -16,6 +16,5 @@ modified: 2025-12-04, 15:48:15
 
 ## Julia links
 
-- Julia [[communities]]
-- Julia [[learning]]
-
+- Julia [[01-communities]]
+- Julia [[00-learning]]
