@@ -93,6 +93,7 @@ See also
 
 ---
 
+- [Antikythera.jl](https://github.com/bad-antics/antikythera-digital) : An interactive digital-mechanism / signed-distance-field engine for procedural geometry — gears, gyroids, Schwarz-P surfaces, twisted tori, capsule SDFs, and a `/probe`-driven REPL workflow for sculpting and exporting solid geometry. Includes `/gradient`, `/normal`, `/curvature`, `/laplacian`, and `/divergence` field operators.
 - [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) : A wrapper for [cdd](https://www.inf.ethz.ch/personal/fukudak/cdd_home/), the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a **lower level** using the API of cdd or using the higher level interface of Polyhedra.jl.
 - [CliffordNumbers.jl](https://github.com/brainandforce/CliffordNumbers.jl) : a simple, statically sized multivector (Clifford number) implementation for Julia. [JuliaCon 2025](https://youtu.be/F1p5naXstns)
 - [ConvexHull.jl](https://github.com/JuliaPolyhedra/ConvexHull.jl) : A Julia library for polyhedral computations.
