@@ -38,7 +38,7 @@ jobs:
         run: npm ci --omit=dev
       - name: Install plugins
         working-directory: ./quartz
-        run: npx quartz plugin installs
+        run: npx quartz plugin install
       - name: Build website
         working-directory: ./quartz
         run: 	npx quartz build
