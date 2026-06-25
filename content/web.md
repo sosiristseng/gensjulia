@@ -49,6 +49,14 @@ modified: 2025-12-04, 15:50:18
 - [Merly.jl](https://github.com/neomatrixcode/Merly.jl) : A micro framework for web programming in Julia.
 - [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl) : WebIO provides a simple abstraction for displaying and interacting with web content.
 
+### WebAssembly
+
+[WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
+
+- [Therapy.jl](https://github.com/GroupTherapyOrg/Therapy.jl) : Build interactive web applications with fine-grained signals, server-side rendering, and WebAssembly islands. [Julia discourse thread](https://discourse.julialang.org/t/ann-experimental-wasmtarget-jl-therapy-jl-julia-to-webassembly-compiler-with-a-full-stack-signals-framework-built-on-it/136901)
+- [WasmTarget.jl](https://github.com/GroupTherapyOrg/WasmTarget.jl) : compiles real Julia functions to WebAssembly.
+
+
 ## Middleware
 
 - [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitate wrapping Julia functions into a remote callable API via ZMQ and HTTP.
