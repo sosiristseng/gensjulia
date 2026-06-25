@@ -20,8 +20,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
         with:
-          submodules: 'true'
+          # submodules: true # Fetch quartz (true OR recursive)
           fetch-depth: 0 # Fetch all history
+      - name: Shallow clone submodules
+        run: git submodule update --init --recursive --depth=1
       - name: Copy documents and configurations
         run: |
           cp -v quartz.config.ts quartz.layout.ts quartz
@@ -35,7 +37,7 @@ jobs:
         working-directory: quartz
         run: npm ci --omit=dev
       - name: Build website
-        run: npx quartz build
+        run: 	npx quartz plugin install && npx quartz build
         working-directory: quartz
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
