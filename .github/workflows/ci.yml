@@ -27,7 +27,7 @@ jobs:
       - name: Copy quartz runtime to the working dir
         run: |
           cp -v runtime/* .
-          cp -r runtime/quartz .
+          cp -vr runtime/quartz .
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
