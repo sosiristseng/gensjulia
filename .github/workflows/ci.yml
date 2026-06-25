@@ -25,9 +25,7 @@ jobs:
       - name: Shallow clone submodules
         run: git submodule update --init --recursive --depth=1
       - name: Copy quartz runtime to the working dir
-        run: |
-          cp -v runtime/* .
-          cp -vr runtime/quartz .
+        run: rsync -av --exclude='content' --exclude='docs' --exclude='.github' runtime/ .
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
