@@ -37,6 +37,8 @@ modified: 2025-12-04, 15:48:52
 - [DynamicQuantities.jl](https://github.com/SymbolicML/DynamicQuantities.jl) : Lightweight and fast physical quantities in Julia to supplement `Unitful.jl`.
 - [Unitful.jl](https://github.com/PainterQubits/Unitful.jl) : A Julia package for physical units.
 - [UnitSystems.jl](https://github.com/chakravala/UnitSystems.jl): Physical unit systems (Metric, English, Natural, Planck, etc...). See also [Similitude.jl](https://github.com/chakravala/Similitude.jl): Dimensions and Quantities for `UnitSystems.jl`.
+- [UnitTypes.jl](https://github.com/mechanomy/UnitTypes.jl): provides physical units as Julia types.
+
 
 ### Floating-point numbers
 
