@@ -13,10 +13,9 @@ modified: 2025-12-04, 15:45:20
 
 ## Terminal and command prompt
 
+> REPL tools
+
 - [About.jl](https://github.com/tecosaur/About.jl) : See information about a function, type, value, or something else entirely.
-- [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) : Package for parsing command-line arguments to Julia programs.
-- [Comonicon.jl](https://github.com/comonicon/Comonicon.jl) : command line interfaces.
-- [DocOpt.jl](https://github.com/docopt/DocOpt.jl) : generates a command-line arguments parser from human-readable usage patterns and it is a port of [DocOpt](http://docopt.org/) written in the Julia language.
 - [FTPClient.jl](https://github.com/invenia/FTPClient.jl) : Julia FTP client using `LibCURL.jl`.
 - [jlpkg](https://github.com/fredrikekre/jlpkg) : A command line interface (CLI) to [Pkg](https://github.com/JuliaLang/Pkg.jl), Julia's package manager.
 - [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) : Syntax highlighting and other enhancements for the Julia REPL.
@@ -28,3 +27,10 @@ modified: 2025-12-04, 15:45:20
 - [TerminalExtensions.jl](https://github.com/Keno/TerminalExtensions.jl) : A package that makes Julia take advantage of cool terminal emulator features.
 - [TerminalMenus.jl](https://github.com/nick-paul/TerminalMenus.jl) : Simple interactive menus in the terminal.
 - [VT100.jl](https://github.com/Keno/VT100.jl) : Terminal Emulation for terminal UI verification.
+
+## Command-line interface
+
+- [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) : Package for parsing command-line arguments to Julia programs.
+- [Comonicon.jl](https://github.com/comonicon/Comonicon.jl) : command line interfaces.
+- [DocOpt.jl](https://github.com/docopt/DocOpt.jl) : generates a command-line arguments parser from human-readable usage patterns and it is a port of [DocOpt](http://docopt.org/) written in the Julia language.
+- [OptParse.jl](https://github.com/ghyatzo/OptParse.jl) : A Type Stable Composable CLI Parser.
