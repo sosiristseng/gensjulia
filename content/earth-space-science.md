@@ -26,6 +26,7 @@ modified: 2025-12-04, 15:46:56
 
 ---
 
+- [Breeze.jl](https://github.com/NumericalEarth/Breeze.jl) : simulating atmospheric flows and weather phenomena, such as clouds and hurricanes, on both CPUs and GPUs. Built on `Oceananigans.jl`.
 - [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl) : Julia interface to various climate models. [JuliaCon 2023 📺](https://www.youtube.com/watch?v=_Y6mNrN7eWA)
 - [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl) : This package is a collection of commonly-used tools in Climate Science.
 - [INMET.jl](https://github.com/JuliaClimate/INMET.jl) : Julia API to access data from the Brazilian Instituto Nacional de Metereologia (INMET).
