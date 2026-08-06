@@ -17,12 +17,14 @@ modified: 2025-12-04, 15:45:06
 
 ## Chemoinformatics
 
+- [Glenn.jl](https://github.com/ProfLeao/Glenn.jl): A Julia Lang package to access the NASA Glenn Coefficients for Calculating Thermodynamic Properties of Individual Species.
 - [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) : a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
 - [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) : OpenSMILES string representations to LightGraphs.jl format. The author recommends `MolecularGraph.jl`, though.
 - [PubChemCrawler.jl](https://github.com/JuliaHealth/PubChemCrawler.jl) : Utilities to programmatically query the PubChem database.
 - https://github.com/MoleculeHub : A collection of cheminformatics tools written in Julia. [Julia forum thread](https://discourse.julialang.org/t/ann-moleculehub-a-set-of-cheminformatics-tools-in-julia/132415)
   - [MoleculeFlow.jl](https://github.com/MoleculeHub/MoleculeFlow.jl) : A cheminformatics library written in Julia
   - [MoleculeDatasets.jl](https://github.com/MoleculeHub/MoleculeDatasets.jl) : A collection of cheminformatics datasets
+
 
 ## Physical Chemistry
 
