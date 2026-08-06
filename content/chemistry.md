@@ -1,7 +1,7 @@
 ---
 title: Chemistry
 created: 2025-12-04, 12:33:20
-modified: 2025-12-04, 15:45:06
+modified: 2026-08-06, 15:02:25
 ---
 
 - [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) : A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
@@ -24,7 +24,6 @@ modified: 2025-12-04, 15:45:06
 - https://github.com/MoleculeHub : A collection of cheminformatics tools written in Julia. [Julia forum thread](https://discourse.julialang.org/t/ann-moleculehub-a-set-of-cheminformatics-tools-in-julia/132415)
   - [MoleculeFlow.jl](https://github.com/MoleculeHub/MoleculeFlow.jl) : A cheminformatics library written in Julia
   - [MoleculeDatasets.jl](https://github.com/MoleculeHub/MoleculeDatasets.jl) : A collection of cheminformatics datasets
-
 
 ## Physical Chemistry
 
