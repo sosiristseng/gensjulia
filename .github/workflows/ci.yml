@@ -31,9 +31,7 @@ jobs:
         uses: actions/cache@v6
         with:
           path: './runtime/.quartz/plugins'
-          key: ${{ runner.os }}-quartz-plugins-${{ github.sha }}
-          restore-keys: |
-            ${{ runner.os }}-quartz-plugins-
+          key: ${{ runner.os }}-quartz-plugins-${{ hashFiles('quartz.config.yaml') }}
       - name: Copy documents and settings to runtime
         run: |
           cp -vr quartz.config.yaml content/ runtime/
