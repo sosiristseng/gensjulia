@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: en-US
-  baseUrl: sosiristseng.github.io/gensjulia
+  baseUrl: gensjulia.pages.dev
   ignorePatterns:
     - private
     - templates
