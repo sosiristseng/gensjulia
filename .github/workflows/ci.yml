@@ -30,8 +30,24 @@ jobs:
         with:
           path: './runtime/.quartz/plugins'
           key: ${{ runner.os }}-quartz-plugins-${{ hashFiles('quartz.config.yaml') }}
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Strip Protocol from URL
+        id: clean_url
+        run: |
+          # Get the raw URL (e.g., https://github.io)
+          RAW_URL="${{ steps.pages.outputs.base_url }}"
+
+          # Strip both http:// and https:// prefixes
+          CLEANED_URL="${RAW_URL#http:///}"
+          CLEANED_URL="${CLEANED_URL#https://}"
+
+          # Save it to the environment output
+          echo "stripped_url=$CLEANED_URL" >> $GITHUB_OUTPUT
       - name: Copy documents and settings to runtime
         run: |
+          yq -i '.configuration.baseUrl = "${{ steps.clean_url.outputs.stripped_url }}"' quartz.config.yaml
           cp -vr quartz.config.yaml content/ runtime/
       - name: Setup Node.js
         uses: actions/setup-node@v7
@@ -41,3 +57,25 @@ jobs:
           cache: 'npm'
       - name: Build website
         run: 	cd runtime && npm ci && npx quartz plugin install --from-config && npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: runtime/public/
+
+  # Deployment job
+  deploy:
+    needs: build
+    if: ${{ github.ref == 'refs/heads/main'}}
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write # to deploy to Pages
+      id-token: write # to verify the deployment originates from an appropriate source
+      actions: read     # to download an artifact uploaded by `actions/upload-pages-artifact@v3`
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-slim
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
