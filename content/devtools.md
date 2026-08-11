@@ -202,7 +202,7 @@ Analyzing how much time is spent on individual line(s). Julia docs: https://docs
 
 ## User interface
 
-- [[cli|Command-line interface]]
+- [[command-line|Command-line interface]]
 - [[gui|Graphical User Interface]]
 
 ## Containers and Virtualization

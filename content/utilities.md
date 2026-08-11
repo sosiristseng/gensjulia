@@ -6,7 +6,7 @@ modified: 2025-12-04, 15:49:35
 
 ## Utilities
 
-See also [[cli|Command-line interface]].
+See also [[command-line|Command-line interface]].
 
 - [Caching.jl](https://github.com/zgornel/Caching.jl) : Memorization mechanism.
 - [DaemonMode.jl](https://github.com/dmolina/DaemonMode.jl) : Client-Daemon workflow to run faster scripts in Julia.
