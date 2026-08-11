@@ -1,10 +1,12 @@
 ---
-title: Command-line interface
+title: Command Line
 aliases:
   - CLI
 created: 2025-12-04, 12:33:20
 modified: 2025-12-04, 15:45:20
 ---
+
+> Shell scripting, text interface, command-line prompt, command-line options
 
 ## Shell scripting
 
