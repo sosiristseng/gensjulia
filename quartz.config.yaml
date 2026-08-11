@@ -17,7 +17,7 @@ configuration:
     typography:
       header: Schibsted Grotesk
       body: Source Sans Pro
-      code: Fira Code
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
