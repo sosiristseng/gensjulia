@@ -15,6 +15,10 @@ modified: 2025-12-04, 15:48:45
 ---
 
 - [Linear Algebra stdlib in Julia](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/)
+
+---
+
+- [AOCL.jl](https://github.com/JuliaLinearAlgebra/AOCL.jl) : Julia wrapper for the AMD Optimizing CPU Libraries
 - [DirectSum.jl](https://github.com/chakravala/DirectSum.jl) : Abstract tangent bundle vector space type operations.
 - [Divergences.jl](https://github.com/gragusa/Divergences.jl) : A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 - [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl) : A Julia interface to the [Elemental linear algebra library](https://github.com/elemental/Elemental) with third-party interfaces.
