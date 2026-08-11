@@ -48,7 +48,7 @@ jobs:
       - name: Copy documents and settings to runtime
         run: |
           yq -i '.configuration.baseUrl = "${{ steps.clean_url.outputs.stripped_url }}"' quartz.config.yaml
-          cp -vr quartz.config.yaml content/ runtime/
+          cp -v quartz.config.yaml runtime/
       - name: Setup Node.js
         uses: actions/setup-node@v7
         with:
@@ -56,7 +56,7 @@ jobs:
           cache-dependency-path: 'runtime/package-lock.json'
           cache: 'npm'
       - name: Build website
-        run: 	cd runtime && npm ci && npx quartz plugin install --from-config && npx quartz build
+        run: 	cd runtime && npm ci && npx quartz plugin install --from-config && npx quartz build -d ../content
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
