@@ -203,7 +203,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/sosiristseng
+        GitHub: https://github.com/sosiristseng/gensjulia
     layout:
       position: footer
       priority: 50
