@@ -17,6 +17,7 @@ modified: 2025-12-04, 15:48:21
 ## Cpp
 
 - [CxxWrap.jl](https://github.com/JuliaInterop/CxxWrap.jl) : A package to provide a Boost.Python-like wrapping for C+- types and functions to Julia.
+- [RepliBuild.jl](https://github.com/obsidianjulua/RepliBuild.jl) : Julia binding generator for c/cpp libraries. Builds, and wraps from a toml file.
 
 ## Erlang
 
