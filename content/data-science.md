@@ -95,7 +95,7 @@ For tabular data file, see [[fileio]]
 
 [Wikipedia: SQL](https://en.wikipedia.org/wiki/SQL)
 
-- [DataKnots.j](https://github.com/MechanicalRabbit/DataKnots.jl) : An extensible, practical and coherent algebra of [query combinators](https://arxiv.org/abs/1702.08409).
+- [DBInterface.jl](https://github.com/JuliaDatabases/DBInterface.jl) : Database interface definitions for Julia.
 - [DuckDB](https://github.com/duckdb/duckdb) : an in-process SQL OLAP Database Management System with a Julia API.
 - [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) : Julia bindings and helper functions for MariaDB/MySQL C library.
 - [Octo.jl](https://github.com/wookay/Octo.jl) : an SQL Query DSL in Julia to be used with other SQL drivers.
