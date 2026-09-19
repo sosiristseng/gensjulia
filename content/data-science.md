@@ -95,11 +95,11 @@ For tabular data file, see [[fileio]]
 
 [Wikipedia: SQL](https://en.wikipedia.org/wiki/SQL)
 
-- [duckdb](https://github.com/duckdb/duckdb) : an in-process SQL OLAP Database Management System with a Julia API.
 - [DataKnots.j](https://github.com/MechanicalRabbit/DataKnots.jl) : An extensible, practical and coherent algebra of [query combinators](https://arxiv.org/abs/1702.08409).
-- [LibPQ.j](https://github.com/invenia/LibPQ.jl) : A Julia wrapper for the PostgreSQL [libpq](https://www.postgresql.org/docs/current/libpq.html) C library.
-- [MySQL.j](https://github.com/JuliaDatabases/MySQL.jl) : Julia bindings and helper functions for MariaDB/MySQL C library.
+- [DuckDB](https://github.com/duckdb/duckdb) : an in-process SQL OLAP Database Management System with a Julia API.
+- [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) : Julia bindings and helper functions for MariaDB/MySQL C library.
 - [Octo.jl](https://github.com/wookay/Octo.jl) : an SQL Query DSL in Julia to be used with other SQL drivers.
+- [Postgres.jl](https://github.com/JuliaDatabases/Postgres.jl) : a PostgreSQL client written in Julia that implements the v3 wire protocol with DBInterface and Tables integration.
 - [SparkSQL.jl](https://github.com/propelledanalytics/SparkSQL.jl) : working with Apache Spark data using just SQL.
 - [SQLite.j](https://github.com/JuliaDatabases/SQLite.jl) : Julia interface to the SQLite library with support for operations on DataFrames.
 - [SQLStrings.jl](https://github.com/JuliaComputing/SQLStrings.jl) : `@sql_cmd` macro for SQL query strings.
