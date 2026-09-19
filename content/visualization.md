@@ -36,6 +36,7 @@ modified: 2025-12-04, 15:50:13
 - [GraphMakie.jl](https://github.com/MakieOrg/GraphMakie.jl) : Plotting graph structures with `Makie.jl`.
 - [PairPlots.jl](https://github.com/sefffal/PairPlots.jl) : This package produces pair plots, otherwise known as corner plots or scatter plot matrices: grids of 1D and 2D histograms that allow you to visualize high dimensional data.
 - [SmithChart.jl](https://github.com/uvegege/SmithChart.jl) : A Julia library for creating interactive Smith charts using `Makie.jl`.
+- [XKCDMakie.jl](https://github.com/aryavorskiy/XKCDMakie.jl) : `Makie.jl` diagrams with a hand-drawn look and feel.
 
 ## ggplot-like
 
