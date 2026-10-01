@@ -7,10 +7,9 @@ modified: 2025-12-04, 15:46:07
 [The Julia communities](https://julialang.org/community/)
 
 - [Discourse](https://discourse.julialang.org/) forums for all technical discussions. Go here first.
-- [Slack](https://julialang.slack.com/join/shared_invite/zt-nmal0i0x-LcYEtdnTameGsXmBzMzgog)
 - [Zulip](https://julialang.zulipchat.com/)
+- [Slack](https://julialang.org/slack/)
 - [GitHub Groups](https://julialang.org/community/organizations/) is a non-comprehensive list of Julia GitHub groups showing the extent of the Julia ecosystem.
-- [Stackoverflow](https://stackoverflow.com/questions/tagged/julia-lang)
 
 ## Social media about Julia
 
@@ -55,4 +54,3 @@ modified: 2025-12-04, 15:46:07
 - [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](https://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by Randy Zwitch.
 - [Tabular Data I/O in Julia](https://www.r-bloggers.com/2013/08/tabular-data-io-in-julia/) by Randy Zwitch.
 - [What's bad about Julia](https://viralinstruction.com/posts/badjulia/) by Jakob.
-

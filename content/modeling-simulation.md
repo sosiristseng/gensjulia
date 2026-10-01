@@ -10,7 +10,7 @@ modified: 2025-12-04, 15:48:58
 
 - [ModiaSim](https://github.com/ModiaSim)
 - [SciML](https://github.com/SciML)
-- [Julia Dynamics](https://juliadynamics.github.io/JuliaDynamics/)
+- [Julia Dynamics](https://github.com/JuliaDynamics)
 
 ## See also
 
@@ -106,7 +106,6 @@ modified: 2025-12-04, 15:48:58
 #### Computational Fluid Dynamics (CFD)
 
 - [Wikipedia: Fluid Dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics)
-- Blog post about [CFD tutorial in julia](https://www.juliabloggers.com/cfd-tutorial-in-julia/)
 
 ---
 

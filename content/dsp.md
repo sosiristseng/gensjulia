@@ -22,5 +22,5 @@ modified: 2025-12-04, 15:46:46
 - [FFTViews.jl](https://github.com/JuliaArrays/FFTViews.jl) : Julia package for fast Fourier transforms and periodic views.
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) : Julia bindings to the FFTW library for fast Fourier transforms.
 - [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) : Tools for working with Fourier space. [JuliaCon 2021 video](https://youtu.be/qYgJDb_Ko2E)
-- [HexFFT.jl](https://github.com/gwater/HexFFT.jl) : Fast Fourier transform on hexagonal grids using [Birdsong and Rummelt's algorithm](https://ieeexplore.ieee.org/document/7532670/).
+- [HexFFT.jl](https://github.com/gwater/HexFFT.jl) : Fast Fourier transform on hexagonal grids using the Birdsong and Rummelt's hexagonal fast fourier transform.
 - [NFFT.jl](https://github.com/JuliaMath/NFFT.jl) : Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).

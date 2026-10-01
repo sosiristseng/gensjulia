@@ -14,7 +14,7 @@ modified: 2025-12-04, 15:47:58
 ## Computer-assisted design / manufacture (CAD/CAM)
 
 - [Devices.jl](https://github.com/PainterQubits/Devices.jl) : For simplified generation of device CAD files for superconducting device design.
-- [LTspice.jl](https://github.com/cstook/LTspice.jl) : A Julia interface to [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
+- [LTspice.jl](https://github.com/cstook/LTspice.jl) : A Julia interface to [LTspice](https://en.wikipedia.org/wiki/LTspice).
 
 ### Semiconductor and Transistor
 

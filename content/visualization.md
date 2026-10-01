@@ -47,10 +47,14 @@ modified: 2025-12-04, 15:50:13
 
 ## gnuplot
 
-- [Gaston.jl](https://github.com/mbaz/Gaston.jl) : A julia front-end for [gnuplot](http://gnuplot.info/).
-- [Gnuplot.jl](https://github.com/gcalderone/Gnuplot.jl) : Julia interface to [gnuplot](http://gnuplot.sourceforge.net/).
+[GNU Plot](https://en.wikipedia.org/wiki/Gnuplot) wikipedia page.
+
+- [Gaston.jl](https://github.com/mbaz/Gaston.jl) : A Julia front-end for gnuplot.
+- [Gnuplot.jl](https://github.com/gcalderone/Gnuplot.jl) : Julia interface to gnuplot.
 
 ## PGFPlots
+
+[pgfplots](https://tikz.dev/pgfplots/) is a plotting package in LaTeX.
 
 - [PGFPlots.jl](https://github.com/JuliaTeX/PGFPlots.jl) : Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
 - [PGFPlotsX.j](https://github.com/KristofferC/PGFPlotsX.jl) : Generate publication quality figures using the LaTeX library PGFPlots. It tries to have a very close mapping to the PGFPlots API as well as minimize the number of dependencies.

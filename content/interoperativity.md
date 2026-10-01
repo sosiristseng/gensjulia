@@ -49,11 +49,9 @@ Julia has built-in [Fortran interface](https://docs.julialang.org/en/v1/manual/c
 
 ## JavaScript
 
-- https://github.com/JuliaGizmos/JSExpr.jl : Translate Julia to JavaScript.
-
-- https://github.com/jverzani/Mustache.jl : Port of mustache.js to julia.
-
-- https://github.com/JuliaComputing/TableView.jl : an [ag-grid](https://www.ag-grid.com/) based table viewer built on [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl).
+- [JSExpr.jl](https://github.com/JuliaGizmos/JSExpr.jl) : Translate Julia to JavaScript.
+- [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
+- [TableView.jl](https://github.com/JuliaComputing/TableView.jl) : an `ag-grid` based table viewer built on [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl).
 
 ## Mathematica
 

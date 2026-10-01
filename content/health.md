@@ -6,13 +6,13 @@ modified: 2025-12-04, 15:48:04
 
 > Health and medicine in Julia.
 
-See also [[biology]] in Julia.
+See also the [[biology]] section.
 
 ## Neuroscience
 
 - [BrainWave.jl](https://github.com/sam81/BrainWave.jl) : Julia functions to process electroencephalographic (EEG) recordings.
 - [CortexPlot.jl](https://github.com/Marco-Congedo/CortexPlot.jl): An interactive plot for 2D and 3D cortical functional data. A part of `Eegle.jl`. [Discourse announcement thread](https://discourse.julialang.org/t/ann-cortexplot-jl-cortical-interactive-visualization-of-eeg-inverse-solution-data/137816)
-- [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) : A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/).
+- [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) : A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis.
 - [Eegle.jl](https://github.com/Marco-Congedo/Eegle.jl): A Julia integrative package for EEG data analysis and machine learning.
 - [NeuroAnalysis.jl](https://github.com/Experica/NeuroAnalysis.jl) : Julia package for neural signal analysis.
 - [Neuroimaging.jl](https://github.com/rob-luke/Neuroimaging.jl) : Process neuroimaging data using the Julia language.

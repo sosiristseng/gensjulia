@@ -22,8 +22,8 @@ modified: 2025-12-04, 15:48:28
 
 - [From zero to Julia](https://techytok.com/from-zero-to-julia/)
 - [Intro to Julia](https://ucidatascienceinitiative.github.io/IntroToJulia/): A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas.
-- [Julia Academy](https://juliaacademy.com)
 - [Julia concise tutorial](https://github.com/sylvaticus/juliatutorial)
+- [Julia academy](https://github.com/JuliaAcademy)
 - [JuliaNotes.jl](https://github.com/m3g/JuliaNotes.jl) : a collection of examples and explanations about Julia.
 - [Modern Julia Workflows](https://modernjuliaworkflows.org/)
 - [QuantEcon](https://quantecon.org/quantecon-jl/) Julia and the [code notebooks](https://github.com/QuantEcon/quantecon-notebooks-julia).
