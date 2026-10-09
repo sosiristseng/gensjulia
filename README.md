@@ -2,7 +2,7 @@
 
 https://gensjulia.pages.dev/
 
-## Obsidian plugins used
+## Obsidian plugins
 
 - Linter
 - Outliner
