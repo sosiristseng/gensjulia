@@ -49,7 +49,6 @@ modified: 2025-12-04, 15:46:07
   - LWN article: An introduction to the Julia language - [Part 1](https://lwn.net/Articles/763626/).
 - [Why 1-based indexing is OK](https://craftofcoding.wordpress.com/2017/03/12/why-1-based-indexing-is-ok/) by Michael Wirth.
 - [Values vs. Bindings: The Map is Not the Territory](http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/)
-- [Cool things you can do in Julia](https://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
 - How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
 - [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](https://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by Randy Zwitch.
 - [Tabular Data I/O in Julia](https://www.r-bloggers.com/2013/08/tabular-data-io-in-julia/) by Randy Zwitch.

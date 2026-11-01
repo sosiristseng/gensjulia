@@ -94,7 +94,7 @@ modified: 2026-03-17, 16:57:52
 ## GPU computing
 
 - [Wikipedia: GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
-- [Sample OpenCL notebooks for GPU Julia](https://nbviewer.org/7436359), and [GPU Transpose](https://nbviewer.org/gist/jakebolewski/7436439).
+- [Sample OpenCL notebooks for GPU Julia](https://nbviewer.org/gist/jakebolewski/7436439).
 - Blog post on [High-Performance GPU Computing](https://developer.nvidia.com/blog/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
 
 ---

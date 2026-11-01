@@ -24,7 +24,6 @@ See also:
 
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) : a curated list of awesome places to learn and/or practice algorithms.
 - [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) : Concise and beautiful algorithms written in Julia.
-- [Project_Euler_Julia.ipynb](https://nbviewer.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb) : Solutions to [Project Euler](https://projecteuler.net) Problems, algorithm & math puzzles.
 - [Youtube: The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017 by Jeff Bezanson
 - [Youtube: The Unreasonable Effectiveness of Multiple Dispatch](https://youtu.be/kc9HwsxE1OY)  at JuliaCon 2019 by Stefan Karpinski
 
