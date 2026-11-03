@@ -2,5 +2,6 @@
 node_modules
 public
 .quartz-cache
+.quartz-preview/
 private/
 content/.obsidian/
